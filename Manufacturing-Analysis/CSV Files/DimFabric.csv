@@ -1,0 +1,5250 @@
+FabricID,FabricType,Color,Supplier,UnitPrice,LeadTimeDays
+2001,Nylon,Green,Supplier C,14.41,42
+2002,LINEN,red,Supplier C,19.78,40
+2003,Spandex,Green,Supplier A,19.17,37
+2004, Jersey ,Green,Supplier C,6.57,12
+2005,NULL,Yellow,Supplier C,13.8,10
+2006, Jersey ,Red,Supplier B,9.75,6
+2007,,Green,Supplier C,21.76,41
+2008,Silk, Brown ,Supplier C,23.85,15
+2009,Cotton,Purple,SUPPLIER D,17.26,5
+2010, Rayon ,Grey,Supplier C,5.91,29
+2011,Silk,BROWN,Supplier B,24.47,8
+2012, Denim ,Grey,Supplier D,23.58,7
+2013,,BROWN,Supplier C,23.62,11
+2014,Linen,Orange,SUPPLIER C,21.65,37
+2015,,Blue,Supplier B,9.77,41
+2016,Linen,Green,Supplier E,23.92,33
+2017,Denim,Brown,Supplier C,17.98,43
+2018,Wool,Purple,supplier d,3.69,34
+2019,Cotton,Black,Supplier C,6.84,30
+2020,Denim,black,Supplier C,2.75,26
+2021,Spandex,Orange,Supplier D,8.19,12
+2022,COTTON,Orange,SUPPLIER A,3.98,24
+2023,Spandex,Grey,SUPPLIER E,21.04,44
+2024,Silk,Brown,Supplier C,5.2,18
+2025,, Black ,Supplier A,7.51,33
+2026,Spandex,Red,Supplier A,21.49,5
+2027,Wool,Black,Supplier B,11.34,21
+2028,Spandex,blue,Supplier E,13.7,26
+2029,Linen,Orange,Supplier E,15.34,7
+2030,Wool, Grey , Supplier E ,7.21,23
+2031,Cotton,red,Supplier D,15.99,30
+2032,Linen,Blue, Supplier D ,13.32,15
+2033,,Red, Supplier D ,10.48,26
+2034,Wool,red,SUPPLIER E,5.15,29
+2035,Silk,Blue, Supplier A ,21,25
+2036,Linen,Purple,Supplier C,15.82,27
+2037,Rayon,Orange,Supplier C,8.39,41
+2038, Denim ,Orange,Supplier E,15.11,12
+2039,Rayon,Black,?,3.86,43
+2040,Spandex,Blue,Supplier D,19.49,13
+2041,Spandex,Blue,Supplier A,17.38,44
+2042,Silk,Blue,Supplier E,3.18,37
+2043,Cotton,Red,Supplier C,22.51,13
+2044,Nylon,Blue,Supplier B,10.29,24
+2045,Silk,Blue, Supplier E ,11.49,21
+2046,Wool,Red,Supplier E,24.51,26
+2047,Denim,Yellow,Supplier B,21.55,31
+2048,Linen,Brown,Supplier A,13.02,30
+2049,WOOL,Green,Supplier A,24.75,20
+2050,Nylon,red,Supplier D,23.68,27
+2051,Cotton, Purple ,Supplier D,15.17,32
+2052,Spandex,Red,Supplier A,15.58,14
+2053, Jersey ,Black,Supplier C,6.64,31
+2054,RAYON,Yellow,supplier c,14.11,18
+2055,wool,Green,Supplier D,23.67,5
+2056,linen,Black,Supplier B,17.3,8
+2057,Wool,orange,Supplier D,19.39,6
+2058,,Black,Supplier B,5.1,9
+2059,Rayon,GREEN,Supplier E,22.78,26
+2060,LINEN,Black,Supplier D,9.12,14
+2061,Rayon,White,Supplier C,24.38,34
+2062,Cotton,Black,Supplier B,6.2,32
+2063,Spandex,Green,Supplier A,21.63,26
+2064,Denim,Yellow,Supplier A,6.6,39
+2065,Polyester,Purple,Supplier E,18.91,42
+2066,Silk,Purple,Supplier D,19.45,42
+2067, Polyester ,Blue,Supplier D,5.33,13
+2068,Wool,Blue,Supplier D,10.34,27
+2069,COTTON,Green,Supplier B,9.23,16
+2070,Rayon,White,Supplier B,25.23,17
+2071,,brown,Supplier E,12.89,15
+2072,Jersey,Green,Supplier D,19.8,5
+2073,COTTON,Orange,Supplier D,12.37,21
+2074,,Purple, Supplier B ,4.23,9
+2075,Wool,Orange,Supplier A,3.61,26
+2077,,Black,-,23.33,43
+2078,Spandex,Grey,Supplier A,13.81,31
+2079,Rayon,Yellow,Supplier C,7.41,27
+2080,Polyester,Green,Supplier C,10.38,20
+2081,,Blue,Supplier D,3.28,37
+2082,Spandex,Green,Supplier B,6.26,22
+2083,Wool,Grey,Supplier C,14.58,30
+2084,Silk,BLUE,Supplier C,6.57 pcs,45
+2085,cotton,Purple,Supplier A,7.55,42
+2086,-,Orange,Supplier A,24.16,13
+2087,Denim,Yellow, Supplier E ,20.4,18
+2088,Nylon,Purple, Supplier B ,3.89,44
+2089,Jersey,Black,Supplier C,11.71,30
+2090,Linen,Brown,Supplier A,21.28,10
+2091,Spandex,Brown, Supplier A ,14.23,18
+2092,Spandex,White,Supplier E,17.19,25
+2093,,White,Supplier D,5.56,37
+2094,Rayon,Green,Supplier D,22.64,16
+2095,wool,White,Supplier C,11.92,27
+2096,Silk,-,Supplier A,4.1,21
+2097,cotton,Blue,Supplier B,17.58,13
+2098,SPANDEX,white,Supplier E,4.8,10
+2099, Cotton ,Grey,Supplier E,14.47,19
+2100,Denim,Red,Supplier B,19,24
+2101,Jersey,NULL,Supplier A,21.36,30
+2102,Rayon,Purple,Supplier C,3.89,6
+2103,Linen,Yellow,Supplier C,15.85,31
+2104,Polyester,green,Supplier A,7.5,26
+2105,Linen,orange,Supplier C,11.44,42
+2106,,White,Supplier C,3.03,45
+2107,Silk,Purple,Supplier B,2.93,27
+2108,Spandex,Yellow,Supplier C,9.8,14
+2109,Silk,GREY,Supplier B,19.23,8
+2110,JERSEY,Brown,Supplier B,24.6,42
+2111,rayon,Orange,Supplier E,15.81,5
+2112,Denim, Grey ,Supplier C,9.06,24
+2113,Rayon,Blue,Supplier C,22.47,11
+2114,Cotton,Purple, Supplier B ,13.92,21
+2115,, Red ,Supplier B,17.45,23
+2116,Linen,brown,Supplier D,13.39,40
+2117,Jersey,Blue,Supplier C,20.26,6
+2118,Spandex,Purple,Supplier E,9,7
+2119,Spandex,Grey,supplier d,13.72,41
+2120,Rayon,Brown,Supplier E,21.59,13
+2121,, Red ,Supplier A,11.65,38
+2122,Linen,Black,Supplier A,20.46,42
+2123,Silk,Brown,Supplier B,20.14,37
+2124,Nylon,White,Supplier A,12.47,20
+2125,Nylon,GREY,Supplier C,21.53,18
+2126,Polyester,Blue,Supplier D,21.02,28
+,,,,,
+2128,Linen, Green ,Supplier C,4.52,12
+2129,Spandex,Grey,Supplier B,18.45,22
+2130,Denim,Red,supplier a,17.38,24
+2131,Nylon,Brown,SUPPLIER D,4.72,42
+2132,Cotton,Green,Supplier A,6.47,25
+2133,Cotton,Grey,Supplier A,19.74,7
+2134,Wool,Black,Supplier D,18.46,15
+2135,Denim,Orange,Supplier E,22.69,45
+2136,Jersey,GREEN,Supplier A,13.63,16
+2137,Polyester,Grey,Supplier D,24.96,37
+2138,Wool,White, Supplier C ,7.8,33
+2139,Cotton,Black,Supplier E,19.04,25
+2140,,NULL,Supplier C,2.54,14
+2141,Wool,Brown,supplier c,5,23
+2142,Silk,Blue,Supplier C,7.89,36
+2143,COTTON,Grey, Supplier B ,8.23,38
+2144,Denim,Brown,Supplier D,14.84,31
+2145,RAYON,Yellow,Supplier C,7.16,44
+2146,Rayon,Brown,Supplier A,7.21,25
+2147,Denim,BLACK,supplier b,13.88,19
+2148,Rayon,Red,Supplier E,7.43,38
+2149,Jersey,White,Supplier E,24.07 units,15
+2150,Wool,orange,Supplier D,5.25,42
+2151,Linen,Green,Supplier A,8.02,19
+2152,Denim,Blue,SUPPLIER C,10.43,27
+2153,Cotton,White,Supplier E,23.39,45
+2154,NULL,Yellow,Supplier E,18.21,33
+2155,Cotton,Grey,SUPPLIER B,20.52,33
+2156,Cotton,Orange,Supplier A,21.61,40
+2157,Rayon,Orange,Supplier D,19.99,37
+2158,Silk,Purple,Supplier B,7.7,26
+2159,Cotton,Green,Supplier B,14.79,42
+2160,Jersey,White,Supplier D,11.24,11
+2161,Polyester,Green, Supplier A ,13.11,45
+2162,Jersey,Yellow,SUPPLIER B,6.18,13
+2163,Linen,Purple,Supplier B,3.75,35
+2164,Silk,Yellow, Supplier D ,12.96,23
+2165,Wool,White, Supplier C ,18.41,43
+2166,Polyester,Orange,Supplier D,16.94,38
+2167,Denim,White,Supplier E,22.02,19
+2168,Wool,Blue,Supplier E,13.54,12
+2169,Jersey,Black, Supplier A ,20.38,19
+2170,Wool,Black,Supplier A,21.52,20
+2171,Silk,Red,Supplier C,15.17,37
+2172,Nylon,YELLOW,Supplier E,22,41
+2173,Nylon,Grey,Supplier A,16.8,14
+2174,Spandex,Orange, Supplier B ,22.61,11
+2175,,Grey,Supplier D,23.44,7
+2176,Jersey,White,Supplier E,11.54,7
+2177,rayon,White,supplier c,21.48,42
+2178,Denim,Purple,Supplier B,9.93,34
+2179,Spandex,Purple,SUPPLIER B,10.26,24
+2180,Nylon,Green,Supplier D,18.4,28
+2181,Denim,black,Supplier A,22.4,22
+2182,Linen,Grey,Supplier B,12.11,33
+2183,Nylon,Blue,Supplier E,14.21,22
+2184,,Yellow,Supplier D,9.09,8
+2185,Spandex,Orange,Supplier E,14.09,11
+2186,Jersey,Green,Supplier E,4.65,36
+2187,Jersey, Red ,Supplier E,23.43,10
+2188,Spandex,Black,Supplier A,25.32,38
+2189,NULL,Blue,supplier e,14.92,8
+2190,Jersey,Black,Supplier B,16.87,14
+2191,Silk,White,Supplier C,19.21,23
+2192,Nylon,Brown,Supplier B,9.17,33
+2193,Nylon,White,Supplier A,11.88,30
+2194,Denim,Red,Supplier D,5.27,35
+2195,Spandex,Green,N/A,24.96,43
+2196,Spandex,Purple,Supplier E,3.17 units,9
+2197,RAYON,Black,supplier c,20.85,40
+2198,Denim,Green,Supplier C,19.89,11
+2199,Spandex,White,Supplier C,7.79,16
+2200,,Green,Supplier C,22.87,13
+2201,Polyester,Grey,Supplier B,14.01,12
+2202,Rayon,Purple,Supplier E,7.24,17
+2203,Jersey,?,Supplier B,22.64,35
+2204,Wool,Grey,Supplier A,9.47,11
+2205,Polyester, Grey ,Supplier C,21.2,9
+2206,Jersey,Orange,Supplier C,8.24,37
+2207,Rayon,Grey,Supplier C,19.84,27
+2208,Cotton,Blue,Supplier A,21.72,28
+2209,Jersey,Purple,Supplier B,5.7,26
+2210,Silk,Brown,Supplier B,23.07,12
+2211,Silk,White,Supplier C,18.08,41
+2212,Cotton,Purple,Supplier E,9.8,13
+2213,Linen,Brown,Supplier D,12.66,36
+2214,Polyester,Orange,Supplier B,15,30
+2215,Cotton,Brown,SUPPLIER E,21.73,7
+2216,N/A,Purple,Supplier D,8.81,5
+2217,Wool,Red,Supplier B,16.19,44
+2218,Spandex,White,SUPPLIER E,9.42,45
+2219,Silk,Orange,Supplier A,18.81,13
+2220,Wool,Grey, Supplier D ,6.86,44
+2221,Rayon,Red,SUPPLIER D,2.64,21
+2222,Linen, Blue ,Supplier D,6.19,9
+2223,,Black,Supplier A,19.88,21
+2224,,Yellow,Supplier A,14.63,43
+2225,Linen,Purple,Supplier E,16.32,35
+2226,rayon,Grey,Supplier A,16.85,26
+2227,Spandex,Purple,Supplier C,17.31,35
+2228,Spandex,Yellow,Supplier C,9.82,23
+2229,Spandex,Yellow,Supplier C,15.2,37
+2230,Wool,Black,supplier b,22.13,28
+2231,Rayon,Yellow,Supplier B,13.37,8
+2232,Rayon,green,supplier d,11.72,44
+2233,Nylon,Brown,Supplier B,3.11,40
+2234,Wool,Orange,NULL,11.69,30
+2235,NULL,Yellow,supplier e,7.34,38
+2236,Denim,Yellow,Supplier C,14.26,41
+2237,Cotton,Orange,Supplier D,12.5,18
+2238,Cotton, Brown , Supplier A ,2.99,39
+2239,Rayon,Orange,Supplier D,22.03,34
+2240,Wool,White,Supplier E,23.64,42
+2241,Nylon,Orange,Supplier C,2.58,43
+2242,Denim,Brown,Supplier A,10.82,17
+2243,Denim,Purple,Supplier A,24.56,34
+2244,N/A,GREEN,Supplier E,19.8,17
+2245,Nylon, Red ,Supplier A,12.59,23
+2246, Rayon ,White,Supplier E,5.19,25
+2247,Denim,Black,Supplier B,5.15,25
+2248,,Purple,Supplier C,4.14,6
+2249,Wool,Blue,Supplier D,8.94,31
+2250,Jersey,Purple,Supplier B,24.43,13
+2251,,Orange,Supplier B,22.9,28
+2252,Jersey,Brown,Supplier A,8.54,42
+2253,silk,Brown,Supplier C,7.94,5
+2254,Nylon,Red,Supplier C,20.71,44
+2255, Jersey , Blue ,Supplier C,9.7,9
+2256,Nylon,Red,Supplier D,4.18,45
+2257,Polyester,Red,SUPPLIER A,9.08,39
+2258,Wool,Grey,Supplier D,9.72,16
+2259,spandex,Orange,Supplier B,6.7,44
+2260,Polyester,Purple,SUPPLIER A,2.91,29
+2261,Rayon,Brown,Supplier A,13.21,5
+2262,Linen,Yellow,Supplier E,24.65,17
+2263,,Blue,Supplier D,22.66,45
+2264,,Purple,NULL,5.48,20
+2265,Wool,Black,SUPPLIER E,7.89,30
+2266,Linen,White,SUPPLIER E,7.35,20
+2267,Cotton,Blue,Supplier C,23.1,31
+2268,Linen,Grey,supplier a,20.76,25
+2269,Denim,Red,SUPPLIER B,15.95,11
+2270,,White,supplier b,7.51,28
+2271,Linen,white,Supplier A,17.76,31
+2272,Rayon,Grey,Supplier C,17.84 units,30
+2273,Nylon,Purple,Supplier D,14.52,34
+2274,Wool,green,-,6.53,36
+2275,Nylon,White,Supplier E,8.92,16
+2276,,Green,Supplier B,14.21,11
+2277,Denim,Red,Supplier B,17.78,34
+2278,Jersey,Black,Supplier E,11.31,18
+2279,-,Yellow,Supplier B,7.52,34
+2280,Linen,RED,Supplier D,9.87,39
+2281,Silk,white,Supplier D,22.2,44
+2282,Jersey,Purple,Supplier B,17.11,45
+2283,Spandex,BLUE,Supplier C,17.89,24
+2284,Linen,Orange, Supplier E ,13.25,12
+,,,,,
+2286,Polyester,Grey,supplier e,11.73,43
+2287,Jersey,RED,Supplier A,13.72,37
+2288,Denim,Orange,Supplier E,7.42,12
+2289,Cotton,Orange,Supplier A,11.11,9
+2290,Jersey,Red,Supplier C,8.61,26
+2291,, Brown ,SUPPLIER C,18.84,10
+2292,Nylon,BLUE,Supplier A,24.14,35
+2293,Denim,-,Supplier B,8.02,7
+2294,Cotton,Yellow,Supplier D,18.9,18
+2295,N/A,Red,Supplier C,21.83,30
+2296,,Red,Supplier A,15.53,36
+2297,Wool,White,supplier c,16.75,11
+2298,Nylon,RED,Supplier E,15.84,17
+2299,Cotton,Yellow,Supplier C,18.43,33
+2300,Spandex,Orange,SUPPLIER B,16.99,22
+2301,Linen,Brown,Supplier C,15.21,5
+2302,Nylon,Grey,Supplier C,19.28,27
+2303,Denim,Green,SUPPLIER B,12.7,35
+2304,Cotton,Orange,Supplier D,22.61,13
+2305,Wool,White,Supplier C,10.57,12
+2306,Denim,Blue,Supplier A,22.07,40
+2307,Nylon,Blue,Supplier A,18.21,38
+2308,Wool,Green,Supplier B,13.08,20
+2309,Wool,Grey,Supplier D,14.46,37
+2310,Denim,Green,Supplier C,22.02,19
+2311,Nylon,White,Supplier D,17.21,5
+2312,Cotton,YELLOW,Supplier E,22.78,36
+2313,Denim,-,SUPPLIER A,19.38,5
+2314,Cotton,-,Supplier B,18.09,39
+2315,linen,Yellow,Supplier A,20.76,13
+2316,Rayon,Orange,Supplier D,15.51,45
+2317,Jersey,White,Supplier E,4.13,41
+2318,Linen,White,Supplier C,20.93,25
+2319,Nylon,yellow,Supplier E,9.67,14
+2320,Rayon,Blue,Supplier D,24.36,30
+2321,Cotton,Brown,Supplier A,4.74,21
+2322,Nylon,PURPLE,Supplier A,19.89,21
+2323,Wool,Red,supplier d,11.04,22
+2324,Nylon,White,SUPPLIER E,23,34
+2325,-,Yellow,Supplier D,6.28,41
+2326,Polyester,Yellow,Supplier E,6.03,18
+2327,Cotton,Yellow,Supplier E,12.32,31
+2328,Denim,White,Supplier E,23.55,18
+2329,Nylon,BROWN,Supplier D,15.87,18
+2330,Polyester,White,Supplier E,7.65,35
+2331,Jersey,red,Supplier E,23.99,10
+2332,Rayon,Purple,Supplier C,22.87,21
+2333,Nylon,Black,Supplier B,2.57,9
+2334,Polyester,Grey,supplier b,11.56,43
+2335,Nylon,Red,Supplier A,10.39,41
+2336,Polyester,Brown,Supplier A,15.91,42
+2337,Silk,blue,SUPPLIER A,23.55,23
+2338,Wool,Red,Supplier C,10.73,15
+2339,Spandex, Brown ,Supplier B,17.44,6
+2340,,Black,Supplier A,15.3,12
+2341,Wool,Orange,Supplier A,21.69,12
+2342,Jersey,Brown,Supplier D,23.23,30
+2343,Spandex,Orange,SUPPLIER D,12.67,8
+2344,Nylon, Brown ,Supplier A,24.87,25
+2345,Spandex,Green,Supplier B,22.1,41
+2346,Rayon,Brown,Supplier A,14.87,31
+2347,Polyester, Green ,Supplier A,5.92,23
+2348,Nylon,RED,Supplier D,5.86,14
+2349,Linen,Orange,supplier a,5.05,38
+2350,Polyester,Orange,Supplier B,21.76,37
+2351,COTTON,Red,Supplier E,12.4,31
+2352,Spandex,Yellow,Supplier D,19.12,12
+2353,Rayon,PURPLE,Supplier D,14.61,26
+2354,Linen,Brown,Supplier B,3.45,30
+2355,Rayon,Red,Supplier B,20.55,30
+2356,Wool,Green, Supplier B ,22.4,39
+2357,Polyester,Purple,Supplier A,15.15,25
+2358,Polyester,Green,Supplier A,8.28,31
+2359,Rayon,BLACK,Supplier D,6.99,40
+2360,Denim,Green,supplier b,22.3,23
+2361,,Grey,Supplier B,23.29,24
+2362,Nylon,Red,Supplier A,6.51,17
+2363,Linen,purple,Supplier D,18.79,27
+2364,,N/A,Supplier E,6.06,6
+2365, Nylon ,White,Supplier A,17.73,25
+2366,POLYESTER,Blue,Supplier B,16.39,39
+2367,Wool,Brown,supplier b,15.06,14
+2368,Cotton,Black,Supplier B,15.43,20
+2369,Linen,Orange,supplier a,9.38,8
+2370,Silk,Orange,Supplier A,23.34,25
+2371,Jersey,Brown,Supplier C,17.71,14
+2372,Jersey,Purple,Supplier E,15.83,26
+2373,Denim,Red,Supplier A,23.35,7
+2374,Cotton,Purple,Supplier B,7.78,14
+2375,wool,Purple,Supplier E,7.95,7
+2376,Spandex,Black,Supplier C,20.02,22
+2377,Wool,Blue, Supplier D ,14.03,40
+2378,denim,Grey,supplier b,4.38,43
+2379,Cotton,White,Supplier B,19.5,33
+2380,Wool,Blue,Supplier A,17.9,14
+2381,,Black,Supplier A,3.79,29
+2382,Polyester,Grey,Supplier D,20.75,34
+2383,Polyester,Purple,Supplier D,17.08,33
+2384,Cotton,White,Supplier B,20.17,36
+2385,Wool,Blue,Supplier A,19.12,38
+2386,Linen,Red,Supplier D,10.42,12
+2387,Polyester,Yellow,Supplier B,23.02,37
+2388,Cotton, Yellow ,Supplier C,12.13,6
+2389,Silk,BLUE, Supplier D ,19.71,5
+2390,Linen,Red,Supplier E,21.56,40
+2391,DENIM,Green,Supplier E,22.57,23
+2392,Cotton, Green ,SUPPLIER A,3.87,35
+2393,Silk,Grey,Supplier B,7.06,6
+2394,?,Purple,Supplier A,23.06,38
+2395,Wool,Black,Supplier C,21.8,19
+2396,Spandex,Brown,Supplier B,21.83,27
+2397,Wool, Black ,Supplier B,25.26,8
+2398,Silk,Grey,Supplier A,14.02,28
+2399,,Brown,Supplier B,10.8,39
+2400,,Blue,Supplier E,17.56,21
+2401,Denim,Brown,Supplier B,18.54,29
+2402,Silk, Red ,Supplier B,23,5
+2403,nylon,Brown,Supplier B,12.85,28
+2404,Rayon,Yellow,Supplier A,15.06 units,28
+2405,Polyester,White,Supplier A,19.27,42
+2406,Polyester,Orange,Supplier A,4.8,6
+2407,N/A,White,Supplier E,19.2,32
+2408,Jersey,PURPLE,Supplier C,7.15,36
+2409,Rayon, Blue ,Supplier B,24.01,15
+2410,Cotton,Green,Supplier C,15.7,36
+2411,Silk,Red, Supplier A ,6.76,40
+2412,Jersey,Purple,Supplier C,25.06,36
+2413,Polyester,Grey,SUPPLIER A,18.77,15
+2414,Denim,Grey,Supplier E,9.33,29
+2415,Nylon,Purple,Supplier E,23.89,36
+2416,,Brown,Supplier B,2.63,28
+2417,Nylon,Red,Supplier C,21.2,17
+2418,Wool,Grey,SUPPLIER A,10.82,41
+2419,Nylon,-,Supplier C,7.57,36
+2420,Linen,red,SUPPLIER A,15.03,5
+2421,,Yellow,supplier c,24.91,34
+2422,Linen,white,-,9.53,23
+2423,NYLON,Yellow,SUPPLIER C,2.98,37
+,,,,,
+2425,Cotton,PURPLE,Supplier B,20.7,14
+2426,Wool,?,Supplier E,9.53,38
+2427,Denim,Black,Supplier E,7.63,14
+2428,Denim,Purple,Supplier C,3.15,29
+2429,SPANDEX,Red,Supplier B,7.92,20
+2430,Spandex,Red,Supplier C,19.66,10
+2431,Wool,Brown,supplier a,15.98,21
+2432,Polyester,Black,Supplier B,9.31,7
+2433,Polyester,Black,Supplier B,10.58,33
+2434,Silk,Yellow,SUPPLIER D,6.89,45
+2435,silk,Purple,Supplier D,17.78,40
+2436,Linen,Brown,SUPPLIER D,12.02,13
+2437,Jersey,Red,Supplier E,19.92,16
+2438,,Orange,Supplier C,22.2,42
+2439,Linen,Black,NULL,21.63,19
+2440,Denim,Blue,supplier c,11.57,8
+2441,Spandex,Black,SUPPLIER A,8.42 units,39
+2442,Silk,Yellow,Supplier D,8.97,21
+2443,Silk, Green ,Supplier A,11.7,38
+2444,?,White,Supplier A,16.71,42
+2445,Linen,Yellow,SUPPLIER B,16.78,26
+2446,Denim,Orange,Supplier B,21.62,34
+2447,Denim,Orange,Supplier D,3.91,18
+2448,Denim,Green,Supplier A,18.64,34
+2449, Polyester ,White,Supplier C,13.69,16
+2450,Nylon,Orange,SUPPLIER E,20.55,34
+2451,Wool,Black, Supplier E ,11.92,8
+2452,Spandex,Green,Supplier B,18.8,45
+2453,linen,Yellow,Supplier D,7.58,16
+2454,Polyester,Orange,Supplier B,11.31,41
+2455,Cotton,Yellow,Supplier E,13.13,24
+2456,Cotton,Red,Supplier E,9.27,44
+2457,Denim,Brown,Supplier B,22.12,30
+2458,Rayon,Green,SUPPLIER E,24.24,39
+2459,Rayon,Black,Supplier D,19.34,36
+2460, Silk ,Green,Supplier D,7.99,5
+2461,Spandex,White,supplier a,18.81,37
+2462,Denim,Grey,Supplier B,2.6,35
+2463,Jersey,Grey,Supplier E,18.15,12
+2464,Cotton,Green,SUPPLIER E,17.24,13
+2465,,White,Supplier C,21.84,32
+2466,Silk,Grey,Supplier D,11.65,16
+2467,Spandex,Grey,Supplier B,7.03,41
+2468,Cotton,Brown,supplier e,18.87,16
+2469,Wool,Brown,Supplier E,10.9,33
+2470, Jersey ,Grey,Supplier C,24.38,34
+2471,Cotton,Brown,Supplier B,12.47,29
+2472,Jersey,white,Supplier D,5.05,43
+2473, Nylon ,black,Supplier A,19.2,7
+2474, Rayon ,Orange,Supplier A,3.7,15
+2475,Wool,Green,SUPPLIER B,14.27,13
+2476,Polyester,Green,SUPPLIER C,24.85,30
+2477,Cotton,GREEN,Supplier C,8.43,6
+2478,Rayon,yellow,Supplier C,10.51,26
+2479,Jersey, Grey ,Supplier B,12.2,43
+2480,Rayon,Green,Supplier E,23.84,35
+2481,Linen,Blue,Supplier C,18.43,5
+2482, Silk ,Grey,Supplier E,16.8,33
+2483,Spandex,Blue,supplier e,15.52,19
+2484,Cotton,Purple,Supplier A,17.61,19
+2485,Rayon, Grey ,Supplier E,13.24,25
+2486,Nylon,Brown,Supplier A,10.24,39
+2487,Jersey,Yellow,Supplier B,19.29,21
+2488,Cotton,Black,N/A,19.61,34
+2489,,Blue,Supplier C,17.86,17
+2490,Jersey,White,Supplier C,5.33,5
+2491,Cotton,Red,Supplier E,25.01,28
+2492,Spandex,Purple,supplier e,4.04,19
+2493,-,white,Supplier D,13.28,36
+2494,Polyester,PURPLE,Supplier B,22.38,16
+2495,Denim,White, Supplier D ,21.14,30
+2496,Linen,Red,Supplier A,20.19,29
+2497,Cotton,Orange,Supplier E,21.74,36
+2498,Rayon,Black,Supplier A,23.49,11
+2499,NULL,BROWN,Supplier B,5.52,37
+2500,,Red,Supplier C,17.86,7
+2501,Linen,Red,SUPPLIER D,5.71,34
+2502,Polyester,Brown,Supplier D,18,14
+2503,Linen,Blue,Supplier D,23.3,7
+2504,Wool,Grey,Supplier D,21.25,28
+2505,Rayon,BROWN,Supplier C,23.89,15
+2506,Silk,Black,Supplier A,11.65,12
+2507,Silk,BROWN,Supplier D,19.85 pcs,18
+2508,Spandex,Grey,Supplier A,2.7,15
+2509,Wool,Purple,Supplier E,11.71,27
+2510,,Grey,Supplier E,22.87,43
+2511,Cotton,Orange,Supplier E,3.66,20
+2512,,Brown,Supplier E,9.14,45
+2513,Cotton,Orange,Supplier A,5.86,29
+2514,WOOL,Red,Supplier C,18.13,13
+2515,Nylon,Purple,supplier d,6.96,39
+2516,Denim,Brown,supplier b,7.26,29
+2517,Denim,YELLOW,Supplier B,14.94,11
+2518,POLYESTER,Black,Supplier B,11.1,20
+2519,Wool,Red,SUPPLIER C,19.93,32
+2520,Polyester,Yellow,Supplier C,17.48,24
+2521,Rayon,Blue,Supplier A,18.11,9
+2522,Linen,Purple,Supplier D,18.1,36
+2523,Polyester,White,Supplier D,2.74,17
+2524,DENIM,white,Supplier A,9.03,6
+2525,Linen,White,supplier b,11.7,22
+2526,Wool,Black,Supplier A,23.48,38
+2527,Silk,Orange,Supplier C,11.69,44
+2528,Linen,black,Supplier B,3.3,23
+2529,Polyester,Brown,Supplier E,17.67,5
+2530,,Blue,Supplier E,13.3,8
+2531,Jersey,Green,Supplier C,20.88,34
+2532,Rayon,White,Supplier B,10.18,6
+2533,Linen,Brown,Supplier D,21.69,32
+2534,Nylon,Black,Supplier B,8.23 units,15
+2535,Polyester,black,Supplier B,5.68,5
+2536,Wool,ORANGE,Supplier A,10.72,42
+2537,Cotton,yellow,Supplier D,16.71,38
+2538,Jersey,Blue,Supplier B,8.86,19
+2539,cotton,Green,Supplier C,22.39,15
+2540,COTTON,White,Supplier B,8.63,23
+2541, Rayon ,Red,Supplier C,11.79,20
+2542,Rayon,NULL,Supplier A,24.62,27
+2543,,Black,Supplier D,9.03,29
+2544,Nylon,Green,Supplier C,20.25,16
+2545,Polyester,Green,Supplier E,17.84,45
+2546,,Orange,Supplier A,6.17,42
+2547,Jersey, White ,Supplier E,4.18,24
+2548,Silk,Orange,Supplier A,19.14,23
+2549,Denim,Yellow, Supplier E ,24.05,37
+2550,Wool,Purple,Supplier A,24.17,29
+2551, Spandex ,Orange,Supplier C,4.1,16
+2552,Nylon,Grey,SUPPLIER D,22.75,24
+2553,Rayon,Green,SUPPLIER A,22.85,14
+2554,?,Yellow,Supplier B,17.99,9
+2555,Denim,Black,Supplier C,9.28,19
+2556,-,Yellow,Supplier E,20.89,31
+2557,Cotton,Yellow,Supplier A,3.81,25
+2558, Rayon ,Orange,Supplier A,11.09,37
+2559,Jersey,Grey,Supplier A,10.25,38
+2560,Nylon,Red,Supplier B,5.05,31
+2561,Denim,Grey,Supplier E,17.84,16
+2562,Rayon,yellow,Supplier D,22.29,42
+2563,,White,supplier e,18.57,29
+2564,Linen,Black,Supplier D,11.44,45
+2565,,Black,Supplier A,7.85,14
+2566,SILK,Orange,Supplier D,19.33,9
+2567,Polyester,orange,Supplier A,16.21,29
+2568,Rayon,Orange,Supplier A,20.04,9
+2569,Polyester,White, Supplier D ,7.73,33
+2570,Nylon,Green,Supplier D,7.15,12
+2571,JERSEY,White,Supplier D,21.82,14
+2572,Spandex,Brown,Supplier E,14.82,17
+2573,Linen,Grey,Supplier A,17.86,38
+2574,Silk,Yellow,Supplier D,7.03,9
+2575,nylon,Green,SUPPLIER E,4.35,32
+2576,N/A,Green,Supplier D,22.57,30
+2577,Jersey,Purple,Supplier B,24.86,41
+2578,JERSEY,Orange,supplier c,25.16,36
+2579,SILK,Black,Supplier C,3.4,32
+2580,Silk,-,Supplier A,20.98,25
+2581,Polyester,Red,Supplier E,4.83,29
+2582,Rayon,Purple,Supplier B,20.25,34
+2583,Linen,Green,Supplier B,11.22,18
+2584,Denim,White,Supplier B,12.17,37
+2585,Jersey,Purple,Supplier B,12.21,12
+2586,-,Red,Supplier A,6.13,39
+2587,Rayon, White ,Supplier D,3.13,11
+2588,silk,Green,Supplier E,10.13,17
+2589,,Orange,Supplier E,22.34,26
+2590,Cotton,Red,Supplier D,23.82,27
+2591,polyester,White, Supplier C ,5.62,8
+2592,Denim,Red,supplier d,25.49,40
+2593,Wool, Orange ,Supplier D,14.57,35
+2594,SPANDEX,Blue,Supplier D,16.54,14
+2595,Rayon,Yellow,Supplier E,7.7,30
+2596,Polyester,Orange,Supplier D,10.73,11
+2597,,RED,Supplier E,11.15,9
+2598,Cotton,Brown,Supplier D,21.6,43
+2599,SPANDEX,Blue,Supplier C,11.62,40
+2600,Nylon,Brown,Supplier C,23.79,24
+2601,Silk,Orange,Supplier D,22,10
+2602,,Brown,Supplier B,16.77,5
+2603,Rayon,Blue,Supplier A,20.07,13
+2604,Cotton,Grey,Supplier D,5.95 pcs,35
+2605,Linen,Grey,Supplier E,7.42,8
+2606,Nylon, Green ,SUPPLIER E,22.28,43
+2607,Polyester,Grey,supplier c,15.97,27
+2608,Rayon,YELLOW,Supplier D,13.8,16
+2609,cotton,Black,Supplier E,9.68,8
+2610,Jersey,Green,Supplier B,6.67,42
+2611,Cotton,Orange,Supplier D,23.81,10
+2612,Jersey,Purple,Supplier D,18.62,22
+2613,Spandex,GREEN,N/A,20.98,26
+2614,Nylon,green,Supplier C,10.55,8
+2615,Cotton, Grey ,Supplier D,5.12,33
+2616,,White,supplier d,22.33,14
+2617,Silk,Purple,Supplier A,19.68,32
+2618,Cotton,Purple,Supplier B,20.66,35
+2619,Rayon,Brown,supplier e,14.88,9
+2620,,Black,supplier d,3.68,32
+2621,Nylon,green,Supplier D,3.73,14
+2622,NULL, Red ,Supplier E,7.25,40
+2623,Polyester,White,Supplier B,17.16,41
+2624,Silk,Black,Supplier A,18.08,38
+2625,Linen,Brown,Supplier D,5.78,39
+2626,Polyester,Black,Supplier A,9.46,19
+2627,,Purple,Supplier D,16.68,23
+2628,Spandex,yellow,Supplier B,11.08,42
+2629,Wool,Blue,Supplier B,5.32,34
+2630,Polyester,-, Supplier C ,8.31,15
+2631, Spandex ,Grey,Supplier C,20.74,9
+2632,Nylon,Blue,supplier a,23.02,33
+2633,Jersey,Orange,Supplier C,18.01,30
+2634,Wool,Purple,Supplier D,24.89,26
+2635,Rayon,Grey,Supplier B,10.98,13
+2636,,Blue,Supplier D,5.98,43
+2637,wool,Orange,supplier e,20.17,17
+2638,Silk, Blue , Supplier D ,9.11,12
+2639,Wool,Yellow,Supplier A,16.28,29
+2640, Rayon ,Orange,Supplier A,22.05,44
+2641,Wool,Green,SUPPLIER C,6.21,31
+2642, Rayon ,White,Supplier D,23.48,42
+2643,Jersey,Grey,Supplier B,6.22,22
+2644,,Blue,Supplier B,6.89,9
+2645,Wool,-,SUPPLIER B,8.13,22
+2646,Spandex,Grey,Supplier B,17.61,36
+2647,Wool,Black,Supplier E,25.43,12
+2648,Polyester,Orange,Supplier E,12.29,31
+2649,Denim,Grey,Supplier C,2.93,18
+2650,Silk,White,Supplier C,2.51,30
+2651,Spandex,Black, Supplier D ,15.88,5
+2652,Spandex,Purple,Supplier B,5.11,17
+2653,Cotton,Red,Supplier C,24.72,45
+2654,spandex,Orange,supplier a,11.88,8
+2655,Rayon,White,Supplier A,18.38,42
+2656,Polyester,Grey, Supplier C ,3.57,36
+2657,spandex,Grey,Supplier C,16.01,23
+2658,Silk,Orange,Supplier B,21.39,19
+2659,Denim,Black,SUPPLIER C,5.88,10
+2660,polyester, Grey ,Supplier B,24.53 units,41
+2661,polyester,Brown,Supplier A,10.59,38
+2662, Cotton ,Yellow,Supplier D,5.73,18
+2663,Nylon,Orange,Supplier E,14.61,22
+2664,Wool,Yellow,Supplier E,6.08,25
+2665,Linen, Black ,Supplier B,24.05,7
+2666,Rayon,Green,Supplier B,9.04,16
+2667,,GREY,SUPPLIER A,16.14,5
+2668,Cotton,Purple,Supplier E,4.85,36
+2669,Rayon,Black,Supplier D,3.52,7
+2670,,Purple,Supplier C,4.36,20
+2671,Rayon,Green,Supplier B,6,39
+2672, Cotton ,Red,Supplier E,13.7,41
+2673,,BLUE,supplier e,7.71,40
+2674,Silk,Brown,Supplier C,3.8,24
+2675,Cotton,Grey,Supplier C,11.39,28
+2676,Jersey,Purple,Supplier D,10.79,32
+2677, Cotton ,Blue,Supplier C,5.57,44
+2678,Nylon,orange,Supplier B,16.15,22
+2679,Denim, Red ,Supplier E,9.41,21
+2680,Polyester,Brown,N/A,17.54,34
+2681,Linen,Purple,Supplier B,7.28,34
+2682,Polyester,Grey,Supplier D,13.23,41
+2683,Silk,Green,Supplier C,14.77,20
+2684,Polyester,Yellow,Supplier C,4.92,23
+2685,Denim,White,Supplier B,2.55,39
+2686,Polyester,White, Supplier C ,19.48,28
+2687,Rayon,Brown,Supplier B,8.21,36
+2688,-,Grey,Supplier E,2.52,32
+2689,Silk,Green,Supplier E,11.45,20
+2690,Spandex,Red,supplier e,15.21,30
+2691,Wool,White,Supplier A,6.69,28
+2692,Jersey,Yellow,Supplier A,8.03,17
+2693,Denim,Blue, Supplier A ,3.16,27
+2694,Wool,Orange,?,11.58,17
+2695,Rayon,black,Supplier C,16.38,31
+2696,,Brown,Supplier A,8.5,26
+2697,linen,Blue,supplier e,25.21 pcs,18
+2698,Cotton,Black,Supplier E,13.75,17
+2699,nylon,Purple,Supplier E,16.33,38
+2700,Nylon,Red,Supplier D,22.33,32
+2701,N/A,Orange,Supplier C,3.25,39
+2702,jersey,Red,Supplier A,21.93,22
+2703,Rayon,Brown,Supplier E,16.33,21
+2704,Silk, Black ,Supplier D,6.59,28
+2705,Linen, Yellow ,NULL,8.97,31
+2706,jersey,GREEN,Supplier D,17.6,30
+2707,,yellow,Supplier C,3.63,11
+2708,RAYON,Blue,Supplier C,6.16,31
+2709, Cotton ,White,Supplier A,4.5,37
+2710,Wool,Brown,Supplier A,7.17,25
+2711,Jersey,Yellow,?,8.62,28
+2712,Jersey,Blue,Supplier A,10.84,19
+2713,,Purple,Supplier B,24.47,17
+2714, Cotton ,Red,Supplier A,6.38,16
+2715,,Red,Supplier D,24.61,13
+2716,,White,Supplier C,5.06,13
+2717,,Purple,Supplier C,20.2,45
+2718,?,PURPLE,supplier e,19.14,10
+2719,,brown,Supplier E,16.96,41
+2720,spandex,Green,Supplier D,22.74,24
+2721,Jersey, Purple ,Supplier B,22.59,18
+2722,Linen,Grey,Supplier B,18.7,15
+2723,Wool,Brown,Supplier D,16.92,19
+2724,Linen,White,Supplier D,8.5,21
+2725,POLYESTER,Red,supplier a,24.33,28
+2726,Spandex,Blue,supplier c,22.81,42
+2727,Spandex,Grey,Supplier D,11.34,37
+2728,,Blue,Supplier A,8.17,42
+2729,Wool,Yellow,SUPPLIER D,2.94,10
+2730,Polyester,Black,Supplier B,8.9,8
+2731,Wool,Green,Supplier B,12.6,33
+2732,Silk,Blue,supplier d,19.97,19
+2733,Wool,Grey,Supplier D,11.52,33
+2734,Rayon,ORANGE,Supplier C,10.22,10
+2735,Polyester,black,Supplier D,3.72,12
+2736,Denim,Green,Supplier B,16.47,23
+2737,Silk,blue,Supplier D,8.99,23
+2738,Wool,Red, Supplier A ,14.44,19
+2739,Wool,Green,SUPPLIER A,20.47,34
+2740,Cotton,Brown,Supplier D,16.09,42
+2741,Polyester,Grey,Supplier D,3.01,38
+2742,Jersey,Blue,Supplier D,21.99,9
+2743,Spandex,ORANGE,Supplier D,13.82,39
+2744,Spandex,Yellow,supplier b,17.56,28
+2745,Silk,White,Supplier A,17.83,6
+2746,Polyester,Blue,Supplier D,18.1,36
+2747,Cotton,Grey,Supplier C,5.18,21
+2748,POLYESTER,orange,Supplier E,9.78,6
+2749,Wool,Green,Supplier D,15.38,44
+2750, Polyester ,BLACK,Supplier E,21.34,34
+2751,Polyester,Green,Supplier B,19.34,45
+2752,SPANDEX,Brown,Supplier B,3.52,39
+2753,Cotton,White,Supplier A,15.7,16
+2754,?,Yellow,Supplier E,20.53,27
+2755,SPANDEX,Yellow,Supplier B,6.67,33
+2756,Silk,White,Supplier E,17.39,28
+2757,Silk,Black,Supplier D,20.33,28
+2758,,Black,Supplier A,19.01,40
+2759,,White,Supplier E,18.35,36
+2760,Polyester,Brown,Supplier A,12.37,18
+2761,Nylon,Green,Supplier A,6.33,38
+2762,Nylon,Brown, Supplier D ,2.56,40
+2763, Wool ,Green,Supplier C,9.02,10
+2764,Denim,Blue,Supplier A,23.09 units,30
+2765,Silk,WHITE,Supplier B,13.93,42
+2766, Spandex ,Red,Supplier B,20.36,17
+2767,Spandex,Black,Supplier A,23.95,24
+2768,Silk,Brown,supplier e,21.11,30
+2769,Wool,Grey,Supplier E,18.14 units,24
+2770, Spandex ,Orange,Supplier C,6.3,26
+2771,Nylon,White,Supplier B,11.4,39
+2772,,orange,Supplier A,23.48 pcs,22
+2773,wool,Blue,Supplier E,4.92,31
+2774,rayon,Brown,Supplier B,11.9,16
+2775,denim, Red ,Supplier D,6.98,24
+2776, Linen ,Green,Supplier E,10.72,24
+2777,Rayon,White,Supplier B,24.33,30
+2778,Nylon,Green,Supplier D,18.02,9
+2779,-,White,Supplier C,11.45,6
+2780,Jersey,Brown,Supplier A,17.84 pcs,35
+2781,Polyester,Blue,Supplier C,3.07,40
+2782,Wool,Brown,Supplier B,21.5,5
+2783,Wool,GREEN,Supplier D,5.13,19
+2784,Wool,Brown,Supplier B,5.45,13
+2785,Wool,Red,Supplier A,8.94 pcs,37
+2786,Linen,?,supplier c,12.37,31
+2787,Polyester,Green,Supplier A,11.37,20
+2788,Nylon,Brown,Supplier C,16.25,25
+2789,Rayon,Purple,Supplier D,11.63,33
+2790,Spandex,-,Supplier D,23.59,22
+2791,Wool,Yellow,Supplier B,18.64,23
+2792,Cotton,Red,Supplier C,15.66,17
+2793,Spandex,blue,Supplier E,24.5,17
+2794,Silk,Brown,Supplier A,14.85,19
+2795,-,red,Supplier C,13.05,39
+2796,Cotton,Brown,Supplier C,3.86,18
+2797,Wool,Red,Supplier B,19.18,43
+2798,Cotton,Grey,supplier c,15.97,5
+2799,Polyester,Yellow,Supplier C,23.44,27
+2800,DENIM,White,Supplier A,16.47,33
+2801,Rayon,Red,N/A,15.06,11
+2802,denim,Yellow,Supplier B,14.86,30
+2803,Jersey,Blue,Supplier D,15.83,9
+2804,Spandex,Blue,Supplier A,4.79 pcs,23
+2805,Nylon,Black,Supplier D,2.83,12
+2806,Cotton,Black,Supplier C,9.99 pcs,42
+2807,Polyester,Black,Supplier A,24.82,16
+2808,Rayon,Green,Supplier E,5.06,17
+,,,,,
+2810,Silk,Grey,NULL,16.21,23
+2811,Cotton,Red,Supplier D,9.31,11
+2812,Linen,Orange,Supplier E,8.83,33
+2813,Silk,Orange,Supplier C,14.81,26
+2814,Spandex,Orange, Supplier A ,5.74,26
+2815,,Black,Supplier A,18.66,43
+2816,,Yellow,Supplier D,25,20
+2817,Linen,?,Supplier D,19.72,38
+2818,Polyester,Blue,Supplier B,4.42,17
+2819,Jersey,Black,Supplier E,8.47,33
+2820,Spandex,Blue,Supplier C,22.84,28
+2821,Denim, Grey ,Supplier D,8.98,34
+2822,Nylon,Grey,Supplier B,16.71,42
+2823,Linen,Yellow,Supplier A,11.84,38
+2824,Jersey,Orange,Supplier A,11.52,14
+2825,Polyester,Brown,Supplier B,15.96,35
+2826,Silk,White,Supplier C,12.15,5
+2827,Spandex,Orange,Supplier E,23.12,29
+2828,,Grey,Supplier A,21.35,16
+2829,Spandex,Green,supplier d,13.9,41
+2830,Jersey,Brown,Supplier C,5.05,19
+2831,Spandex,GREY,Supplier C,22.35,7
+2832,Cotton,Grey,SUPPLIER B,24.76,10
+2833,Silk,Grey,Supplier E,5.57,38
+2834,Polyester,grey,Supplier A,8.59,25
+2835,Jersey,Brown,Supplier C,5.17,11
+2836,Wool,PURPLE,Supplier C,24.53,19
+2837,Nylon,Red,SUPPLIER C,13.05,15
+2838,SILK,Red, Supplier D ,20.58,16
+2839,Silk,Grey,Supplier A,20.45,44
+2840,Polyester,Brown,Supplier D,17.08,21
+2841,Nylon,Green,Supplier B,21.37,28
+2842,Spandex,Grey,Supplier C,20.34,27
+2843,Cotton,Green,Supplier C,17.01,40
+2844,Wool,Green,Supplier B,21.85,25
+2845,Denim,Brown,Supplier A,6.77,37
+2846,Linen,NULL,supplier b,12.99,45
+2847,Nylon,Blue,Supplier E,24.93,27
+2848,Linen,Green,supplier e,22.83,12
+2849,-,Purple,supplier c,20.81,29
+2850,Linen,Orange,SUPPLIER D,8.1,38
+2851,Nylon,Blue,Supplier D,10.17,37
+2852,Polyester,Grey,Supplier E,11.85,39
+2853,polyester,Purple,Supplier B,13.13,31
+2854, Spandex ,Grey,supplier b,21,33
+2855,Jersey, Purple ,Supplier C,10.29,6
+2856,Wool,Red,Supplier D,17.68,9
+2857,,Blue,Supplier A,9.97,26
+2858,denim,Purple,supplier e,21.08,16
+2859,COTTON,Grey,Supplier B,16.17,17
+2860,Polyester,Yellow,supplier b,5.88,18
+2861,Jersey,Orange,Supplier A,18.31,35
+2862,Rayon,Orange, Supplier D ,2.78,40
+,,,,,
+,,,,,
+2865,Denim,White,Supplier D,5.01,27
+2866,POLYESTER,White,Supplier E,21.44,11
+2867,Rayon,Yellow,Supplier E,18.5,25
+2868, Jersey ,Orange,Supplier E,15.06,31
+2869,Wool,Yellow,Supplier D,14.25,22
+2870,,Yellow,Supplier D,15.56,42
+2871,Jersey,?,Supplier C,21.33,43
+2872,Silk,purple,Supplier E,8.53,43
+2873,LINEN,Red,Supplier D,21.28,35
+2874,Silk,Red,Supplier B,15.29,5
+2875,Jersey,Blue,Supplier A,14.25,39
+2876,Nylon, Grey ,Supplier A,5.09,7
+2877,Wool,White,SUPPLIER C,22.22,19
+,,,,,
+2879,Denim,ORANGE,Supplier C,23.16,38
+2880,Wool, Orange ,Supplier B,18.15,5
+2881,Spandex,Purple,Supplier D,9.36,11
+2882,silk,Orange,Supplier E,24.69,17
+2883,?,Grey,Supplier A,19.11,36
+2884,Polyester,Brown,Supplier E,19.11,20
+2885,Silk,Black,-,25.13,25
+2886,Polyester,White,Supplier E,8.8,6
+2887,Denim,Black,Supplier E,13.04,44
+2888,Polyester,Grey,Supplier E,5.82,8
+2889,Jersey,Yellow,Supplier C,14.81,45
+2890,Silk,Black,Supplier D,23.41,31
+2891,Silk,White,Supplier E,11.52,6
+2892,Linen,PURPLE,Supplier B,7.31,6
+2893,Rayon,Green,Supplier E,11.34,29
+2894,Denim,Grey,Supplier E,22.49,21
+2895,Rayon,Red,Supplier D,25.44,38
+2896,Linen, Green ,Supplier A,16.84,19
+2897,,Black,Supplier C,24.52,39
+2898,Wool,White,Supplier D,6.37,6
+2899,Wool,Blue,Supplier D,23.93,10
+2900,Wool,Blue, Supplier D ,3.76,8
+2901,,White,Supplier B,5.19,7
+2902,Spandex, Red ,SUPPLIER E,20.15,31
+2903,Jersey,Blue,SUPPLIER D,3.7,37
+2904,Silk,Black,Supplier A,24.62,40
+2905,Rayon,Orange,Supplier D,7.69,44
+2906,Cotton,Blue,Supplier C,18.93,7
+2907,Polyester,White,Supplier D,10.55,32
+2908,DENIM,purple,SUPPLIER A,19.05,25
+2909,COTTON, Brown ,supplier d,14.12,35
+2910,-,Yellow,Supplier C,13.14,20
+2911, Linen , White ,Supplier E,22.77,19
+2912,Rayon,Green,Supplier C,17.26,30
+2913,Jersey,Black,Supplier A,10.4,10
+2914,Cotton, White ,Supplier D,11.19,6
+2915,Polyester,brown,Supplier C,19.6,9
+2916,Jersey,Grey,Supplier D,9.96,32
+2917,,Grey,Supplier D,15.36,8
+2918,Rayon,Blue,Supplier B,10.31,23
+2919,Polyester,Grey,Supplier E,18.06,13
+,,,,,
+2921,,Grey,Supplier E,12.71,27
+2922,Rayon,White, Supplier A ,3,42
+2923,Jersey,White,supplier a,6.94,29
+2924,Cotton,Brown,Supplier E,22.38,21
+2925,Wool,Brown,Supplier C,21.11,15
+2926,Linen,Orange,SUPPLIER B,5.9,25
+2927,Linen,Black,Supplier A,10.5,11
+2928,,Purple,supplier b,24.16,31
+,,,,,
+2930,,Grey,NULL,17.74,8
+2931,jersey,Blue,Supplier B,14.37,43
+2932,Rayon,Red,Supplier B,2.91,37
+2933,-,Blue,Supplier E,5.24,20
+2934,Spandex,Orange,Supplier B,25.14,20
+2935,Spandex, Purple ,Supplier D,17.66,42
+2936,Cotton,Green,Supplier C,9.03,21
+2937,Spandex,Orange,Supplier C,14.33,6
+2938,Nylon,Red,SUPPLIER B,15.77,36
+2939,denim,White,Supplier E,15.91,7
+2940,Linen,Orange,Supplier B,17.39,43
+2941,Spandex,Orange,Supplier D,18.07,11
+2942,Wool,Yellow,Supplier C,9.96,31
+2943,Denim,orange,Supplier B,7.51,27
+2944,Jersey,Orange,Supplier D,21.02,23
+2945,Jersey, Red , Supplier E ,18.45,27
+2946,Cotton,Green,Supplier B,17.65,45
+2947,Spandex,Yellow, Supplier C ,6.49,42
+2948,Wool,Black,Supplier D,2.93,22
+2949,Rayon,Blue,Supplier E,5.01,23
+2950,Denim, Orange , Supplier B ,20.81,43
+2951,Nylon,Black,Supplier A,7.58,27
+2952,-,Orange,Supplier D,21.12,21
+2953,COTTON,Yellow,Supplier C,10.26,6
+2954,Wool,Black,Supplier A,25.08,35
+2955,,Black, Supplier A ,14.02,37
+2956,Cotton,Blue,NULL,19.64,25
+2957,Polyester,Red,Supplier D,18.66,38
+2958,,White, Supplier D ,5.74,7
+2959,Polyester,Grey,Supplier D,11.53,37
+2960,Polyester,Grey,Supplier E,4.61,41
+2961,Spandex,Green,Supplier D,4.33,27
+2962,Polyester,BROWN,Supplier C,14.59,39
+2963,Linen,BROWN,Supplier C,12.44,28
+2964,Rayon,Grey,Supplier B,9.8,22
+2965,Polyester,White,Supplier D,6.76,21
+2966,Jersey,Grey,Supplier A,12.67,13
+2967,Polyester,Yellow,Supplier C,8.72,15
+2968,Nylon,Red,Supplier C,18.09,21
+2969,Rayon,Blue,Supplier B,11.58,17
+2970,Cotton,Orange,Supplier B,5.43,37
+2971,SPANDEX,White,Supplier A,21.89,23
+2972,Jersey,Brown,Supplier D,16.08,38
+2973,Rayon,Orange,Supplier D,15.66,42
+2974,Linen,Orange,Supplier A,22.46,36
+2975,Spandex,Brown,Supplier B,21.2,36
+2976,Linen,Grey,Supplier A,22.73,11
+2977,Spandex,Black,Supplier A,16.52,14
+2978,Wool,White,SUPPLIER C,11.96,17
+2979,Silk,Red,Supplier C,9.52,29
+2980,Spandex,Grey,Supplier A,19.8 pcs,28
+2981,Jersey,Green,supplier b,9.49,19
+2982,denim,WHITE,Supplier B,18.05,37
+2983,,White,Supplier E,6.11,40
+2984,,Brown,Supplier D,9.78,19
+2985,polyester,Green,Supplier B,2.77,13
+2986,Cotton,Yellow, Supplier D ,2.63,16
+2987,polyester,Black, Supplier B ,13.17,6
+2988,Wool,Green,Supplier E,21.38,40
+2989, Jersey ,Black,Supplier B,20.44,5
+2990,Wool,White, Supplier E ,5.29,7
+2991,Nylon, Red ,Supplier C,5.29,17
+2992,Polyester,Yellow,Supplier A,24.77,12
+2993,DENIM,Brown,Supplier C,3.92,6
+2994,Polyester,Black,Supplier E,15.79,13
+2995,,WHITE,Supplier B,13.88,25
+2996,Jersey,blue,Supplier D,22.01,8
+2997,Linen,Green,Supplier A,2.5,44
+2998,Spandex,Blue,Supplier C,23.94,20
+2999,Wool,Blue,Supplier E,22.24,34
+3000,LINEN,Red,Supplier A,16.18,11
+3001,RAYON,Purple,Supplier A,4.3,23
+3002,,Grey,Supplier B,21.25,31
+,,,,,
+3004,Jersey,Black,SUPPLIER E,12.98,28
+3005,Silk,orange,Supplier C,11.98,34
+3006,Polyester,Green, Supplier D ,21.3,44
+3007,Silk,Brown,Supplier D,5.5,17
+3008,Nylon,Red,Supplier D,17.86,6
+3009,Spandex,Orange,SUPPLIER A,15.71,8
+3010,SPANDEX,Yellow,Supplier C,3.54,5
+3011,Spandex,White,Supplier C,18.28,11
+3012,Wool,Grey,Supplier A,16.83,6
+3013,Spandex,Green,Supplier D,15.13,23
+3014,WOOL,BROWN,Supplier D,18.08,35
+3015,Silk,Black,Supplier B,8.72,27
+3016,N/A,Brown,Supplier D,14.12,17
+3017,Cotton,Grey,Supplier C,18.31,7
+3018,Linen,White,Supplier C,3.69,39
+3019,Polyester,Brown,Supplier D,19.68,20
+3020,, White ,Supplier E,19.34,13
+3021,N/A,Brown,Supplier A,6.7,38
+3022,Wool,Brown,SUPPLIER C,23.28,13
+3023,Silk,Grey,Supplier D,25.27,23
+3024,Rayon,Black,Supplier A,22.1,44
+3025,Wool,purple,Supplier E,17.5,29
+3026,Denim,Grey,Supplier A,2.81 pcs,26
+3027,Spandex,Brown,Supplier C,11.27,20
+3028,Silk,Yellow, Supplier D ,7.62,45
+3029,linen,Black,Supplier C,15.86,7
+3030,,Yellow,Supplier D,15.54,10
+3031,Linen,Yellow,Supplier E,24.46,14
+3032,Denim,Yellow,SUPPLIER D,22.51,21
+3033,Rayon,Yellow, Supplier D ,18.31,25
+3034,Rayon,yellow,Supplier C,14.2,12
+3035,Nylon,Brown,Supplier D,16.28,44
+3036,Denim,Black,Supplier C,9.02,32
+3037,Spandex,Black,supplier d,16.27,23
+3038,LINEN,Black,Supplier D,19.51,8
+3039,Nylon,Orange,N/A,10.96,23
+3040,Silk,White,Supplier E,19.08,39
+3041,Spandex,White,Supplier D,9.43,36
+3042,?,Orange,NULL,12.37,6
+3043,Denim,Grey,Supplier D,11.81,14
+3044,Rayon,Orange,supplier c,25.04,31
+3045,,Purple,Supplier B,13.95,36
+3046,Nylon,Orange,Supplier A,24.18,34
+3047,Nylon,BLUE,Supplier D,8.37,15
+3048,Denim,Black,Supplier C,22.3,42
+3049,Wool,White,Supplier E,25.15,34
+3050,Wool,Grey,Supplier A,3.09,43
+3051,Polyester,Grey, Supplier B ,7.18,45
+3052,,Yellow,Supplier D,20.08,35
+3053,Cotton,Grey,supplier c,4.49,39
+3054,Denim,White,supplier e,15.09 units,43
+3055,Spandex,Brown,Supplier D,22.62,38
+3056,Wool,White,Supplier A,23.93,9
+3057,Rayon,Black,supplier c,9.03,27
+3058,Cotton, White ,Supplier E,20.59,37
+3059,Wool,Brown,Supplier E,18.81,36
+3060,Cotton,green,NULL,20.05,20
+3061,Linen,Yellow,Supplier C,19.9,21
+3062,Jersey,N/A,Supplier C,22.27,33
+3063,Jersey,Yellow,Supplier B,11.6,22
+3064,-,YELLOW,Supplier D,12.27 units,32
+3065,Nylon,Brown,Supplier E,12.52,10
+3066,Silk,Orange,Supplier E,16.97,30
+3067,Cotton,BLUE,Supplier C,18.06 units,20
+3068,Silk,Orange,Supplier B,5.35,20
+3069,DENIM,red,Supplier C,13.71,44
+3070,Rayon,Grey,Supplier B,14.71,33
+3071,Denim,White,SUPPLIER C,11.73,25
+3072, Nylon ,Orange,Supplier E,18.64,35
+3073,Spandex,Brown,Supplier D,13.19,21
+3074,,White,Supplier C,24.42,36
+3075,Silk,Orange, Supplier B ,8.16,6
+3076,Polyester,Black,Supplier B,7.4,16
+3077,Nylon, Black ,Supplier A,14.98,31
+3078,Wool,Green,Supplier A,11.71 pcs,37
+3079,Spandex,Yellow,Supplier A,16.96,32
+3080,Wool,Black,Supplier D,13.9,27
+3081,Wool,Orange,Supplier D,24.04,35
+3082,Cotton,Red,Supplier D,7.3,5
+3083, Rayon ,White,Supplier B,14.17,26
+3084,Cotton,White,Supplier C,23.19,26
+3085,,Grey,Supplier D,16.96,16
+3086,Silk,White,Supplier D,21.86,42
+3087,Cotton,Blue, Supplier E ,20,32
+3088,Silk,Black,Supplier E,7.77,42
+3089,, Red ,Supplier A,22.32,21
+3090,Rayon,Yellow,Supplier C,19.44,38
+3091,?,Grey,Supplier A,23.54,28
+3092,Polyester,Orange,Supplier D,14.06,21
+3093,,Red,Supplier C,16.99,24
+3094,,White,Supplier E,4.97,39
+3095,Jersey,Black,Supplier A,20.32,7
+3096,Jersey,White,Supplier D,4.01 pcs,22
+3097, Nylon ,Grey,Supplier D,20.05,12
+3098,Wool,Orange,Supplier B,23.93,7
+3099,Nylon,Grey,Supplier D,10.25,19
+3100,Linen,ORANGE,Supplier A,7.54,14
+3101,Rayon,Blue,Supplier C,22.74,35
+3102,Wool,Blue,NULL,18.1,9
+3103,Rayon,Green,Supplier E,16.04,8
+3104,Cotton,Green,Supplier B,7.69,43
+3105,Nylon,Green,Supplier B,8.77,36
+3106,Polyester,Orange,Supplier B,10.41,29
+3107,Polyester,Grey,Supplier C,4.12,22
+3108,Rayon,Black,Supplier A,18.32,44
+3109,nylon,Grey,supplier d,22.75,12
+3110,Wool,White,Supplier A,21.76,32
+3111,Linen,Yellow,Supplier E,23.14,39
+3112,Wool,Red,Supplier E,20.77,40
+3113,Wool,Brown,Supplier B,14.09,29
+3114,Spandex,Orange,Supplier D,15.39,9
+3115,Denim,NULL,Supplier A,25.16,17
+3116,Wool,Red,Supplier E,4.72,45
+3117,Cotton,Grey,SUPPLIER C,5.73,34
+3118,Polyester,Yellow,Supplier D,25.26,37
+3119, Denim ,Brown,SUPPLIER D,4.32,15
+3120,Nylon,Red,Supplier A,5.26,8
+3121,Denim,Blue,?,22.55,27
+3122,Jersey,Green,Supplier A,12.25,27
+3123,Rayon,Purple,supplier a,23.71,33
+3124,Silk,Yellow,Supplier D,20.37,27
+3125,Silk,Purple,Supplier E,8.36,18
+3126,Spandex,Yellow,Supplier D,16.71,9
+3127,Silk,Grey,Supplier A,10.77,42
+3128,nylon,Grey,supplier c,3.81,34
+3129,Denim,Blue,Supplier A,24.42,6
+3130,,Red, Supplier D ,17.58,32
+3131,Cotton,Grey,Supplier D,25.37,9
+3132,,Green,Supplier D,17.07,16
+3133,Wool, Purple ,Supplier A,25.49,14
+3134,Denim,Brown,SUPPLIER B,11.77,42
+3135,Linen,White,Supplier B,22.48,21
+3136,spandex, Orange ,SUPPLIER B,25.38,12
+3137,spandex,Grey,Supplier C,6.92,42
+3138,Nylon,White,SUPPLIER D,14.57,38
+3139,JERSEY,N/A,Supplier E,14.48,39
+3140,Spandex,Grey,Supplier B,17.29,19
+3141,Polyester,Black,Supplier E,13.36,28
+3142,,White,Supplier D,9.93,17
+3143,Jersey,Red,Supplier D,3.29,15
+3144,Cotton,Purple,Supplier A,13.36,40
+3145,Linen,Orange,Supplier A,2.51,25
+3146,?,Yellow,Supplier B,13.22,34
+3147,Linen,Purple,Supplier B,8.38 units,22
+3148,Jersey,Yellow,Supplier A,9.17,45
+3149,Cotton,Brown,Supplier A,20.36,27
+3150,Cotton,Green,Supplier E,13.64,6
+3151, Jersey ,?,Supplier A,24.1,21
+3152,Nylon,Grey,SUPPLIER B,12.35,19
+3153,COTTON,Yellow,Supplier E,16.99,20
+3154,,Brown,Supplier C,25.19,25
+3155,Silk,Brown,Supplier C,16.42,31
+3156, Denim ,Purple,supplier a,22.99,9
+3157,Polyester,Purple,SUPPLIER A,24.89,44
+3158,Nylon,Purple,Supplier C,2.64,44
+3159,,Blue,supplier a,10.84,23
+3160,Linen,Brown,Supplier E,5.5,39
+3161,Cotton,Brown,Supplier D,8.3,11
+3162,Spandex,Purple,Supplier C,13.76,11
+3163,,Red,Supplier D,10.34,27
+3164,Rayon, Yellow ,Supplier E,8.3,17
+3165,Denim,Green,Supplier A,11.88,30
+3166,Linen,Orange, Supplier A ,16.12,24
+3167,Denim,Brown,Supplier D,7.13,37
+3168,DENIM,Grey,Supplier A,7.81,27
+3169,,Blue,Supplier D,13.14,42
+3170,Rayon,Black,Supplier D,14.72,13
+3171,denim,Orange,Supplier A,3.44,45
+3172,Linen,Red,Supplier D,7.39,38
+3173,,Green,Supplier B,4.51,21
+3174,rayon, Yellow ,Supplier B,24.34,11
+3175,Denim,Red,supplier c,18.69,7
+3176,Nylon,Blue,supplier c,14.1,37
+3177,Silk,Red,Supplier C,4.97 units,15
+3178,Spandex,Purple, Supplier C ,3.88,38
+3179,Jersey,purple,Supplier B,15.33,33
+3180,POLYESTER,BROWN,Supplier A,3.22,28
+3181, Polyester ,Purple,Supplier C,19.79,9
+3182,Spandex,Black,Supplier C,23.91,9
+3183,Denim,White,Supplier D,16.62,44
+3184,,Purple,Supplier C,2.81,41
+3185,Rayon,Black,Supplier D,23.89,22
+3186,Spandex,Yellow,Supplier E,15.21,11
+3187,Cotton,Purple,SUPPLIER D,10.8,32
+3188,Polyester,Red, Supplier D ,4.88,7
+3189,Silk,black,Supplier E,11.48,14
+3190,Spandex,RED,Supplier A,19.09,40
+3191,Cotton,grey,Supplier C,8.14,34
+3192,Polyester,White,Supplier C,23.81,20
+3193,,Orange,Supplier B,12.02,18
+3194,Polyester,Black,Supplier E,22.74,19
+3195,Polyester,Yellow,Supplier C,23.24,41
+3196,Nylon,Blue,Supplier B,11,44
+3197,RAYON,Red,Supplier A,4.36,11
+3198,Nylon,Grey,Supplier D,4.05,39
+3199,Jersey,Green,Supplier E,22.14,8
+3200,Silk, Grey ,Supplier C,3.62,8
+3201, Jersey ,White,Supplier D,18.71,30
+3202,Jersey,Red,Supplier B,21.23,28
+3203, Nylon ,Black,Supplier D,17.18,21
+3204,,Blue,Supplier D,24.76,11
+3205,Nylon,Black,Supplier A,15.57,5
+3206,Polyester,Brown, Supplier B ,10.08,38
+3207,Silk,Red,Supplier B,7.2,20
+3208,Wool,?,supplier a,22.17,29
+3209,Cotton,Red,Supplier D,8.4,37
+3210,Denim,Red,Supplier B,19,11
+3211,Cotton,Purple,Supplier D,18.26,41
+3212,SPANDEX, Orange , Supplier E ,20.56,33
+3213,Nylon,Black,Supplier D,10.38,37
+3214,DENIM,Black,Supplier A,17.05,11
+3215,Nylon,Grey,Supplier B,4.3,19
+3216,Rayon,Orange,supplier a,13.63,31
+3217,linen,Purple,supplier d,24.99,31
+3218,Silk,Red,Supplier D,10.42,21
+3219,Spandex,Green,Supplier D,8.62,8
+3220,Wool,Black,Supplier C,3.91,38
+3221,Polyester,Red,Supplier E,13,11
+3222,Silk,Purple,Supplier E,2.52,17
+3223,Linen,Green,Supplier A,2.72,18
+3224,Nylon,Red,Supplier A,5.32,30
+3225,Denim,Green,Supplier C,15.66,33
+3226, Spandex ,Purple, Supplier D ,17.3,29
+3227,Rayon,Green,Supplier C,10.86,10
+3228,RAYON, Yellow ,Supplier B,6.65,34
+3229, Rayon ,Yellow,Supplier D,10.92,21
+3230,Polyester,Red,Supplier B,21.49,22
+3231,,Blue,Supplier B,21.44,15
+3232,WOOL,Blue,Supplier C,10.59,13
+3233,,Black,Supplier E,25.09,38
+3234,Denim,Grey,Supplier B,15.77,32
+3235,Polyester,Blue,Supplier B,24.27,6
+3236,Jersey,?,Supplier E,9.12,14
+3237,Linen,Green,Supplier C,10.13,12
+3238,Wool,Brown,Supplier D,14.92,35
+3239,Denim,Grey,Supplier A,13.5,12
+3240,Wool,White,Supplier C,6.76,40
+3241,Cotton,White,Supplier B,15.95,28
+3242,Nylon,Blue,Supplier B,3.64,33
+3243,Spandex,Green,Supplier C,5.74,44
+3244,Silk,Black,SUPPLIER B,24.13,41
+3245,Silk,Brown,Supplier E,3.68,37
+3246,,Grey,SUPPLIER B,8.84,23
+3247,,Red,Supplier B,19.18,30
+3248,Jersey,black,Supplier E,20.75,36
+3249,Nylon,Red,SUPPLIER D,6.37,40
+3250,,Yellow,Supplier C,11.46 pcs,44
+3251,silk,Green, Supplier C ,3.91,5
+3252,linen,Yellow,Supplier D,15.11,23
+3253,Silk,Black,Supplier B,24.56,38
+3254,Jersey,Green,SUPPLIER E,5.36,14
+3255,spandex,Purple,Supplier C,22.99 units,7
+3256,Wool,Black,Supplier B,24.56,36
+3257,,Purple,Supplier B,16.13,22
+3258,Denim,Orange,Supplier C,23.94,14
+3259,Linen,GREEN,Supplier D,3.51,18
+3260,Nylon,yellow,Supplier E,7.42,22
+3261,Spandex,Blue,Supplier E,19.79,41
+3262,Denim,White,Supplier A,21.19,15
+3263,Silk, Green ,Supplier B,14.29,37
+3264,Wool,Brown,Supplier E,3.33,6
+3265,Nylon,Grey,Supplier C,21.6,22
+3266,Wool,White,Supplier C,5.74,43
+3267,Denim,-,Supplier B,24.92,21
+3268,Linen,Purple,Supplier E,10.33,19
+3269,Rayon,Yellow,Supplier B,5.12,31
+3270,NYLON,Yellow,supplier d,3.3,35
+3271,Polyester,Grey,Supplier B,23.39,19
+3272,Silk,Yellow,Supplier A,5.32,26
+3273,Wool,Blue, Supplier A ,23.09,33
+3274,Denim,Green,Supplier A,4.41,34
+3275,Rayon,Red,Supplier D,14.9,45
+3276,Rayon,Black,Supplier A,19.75,6
+3277,Spandex,Orange,Supplier B,23.71,44
+3278,,Brown,supplier b,16.87,26
+3279,Spandex,White,Supplier E,17.44,38
+3280,Nylon,Yellow,Supplier B,5.46,29
+3281,Denim,Red,Supplier A,21.91,5
+3282,linen,brown,Supplier D,23.51,43
+3283,Polyester,Blue,Supplier C,4.64,29
+3284,Rayon,Yellow,Supplier E,22.62,17
+3285,Spandex, Green ,Supplier D,15.95 units,8
+3286,Cotton,Red,Supplier E,14.09,39
+3287,Linen,White,Supplier E,13.07,12
+3288,Spandex, Grey ,Supplier E,7.6,15
+3289,DENIM, Grey ,supplier b,7.98,31
+3290,Jersey,Purple,Supplier B,19.66 pcs,40
+3291, Polyester ,Red, Supplier A ,24.74,11
+3292,,Grey,Supplier C,15.46,6
+3293,NYLON, Orange ,Supplier D,17.93,20
+3294,Linen,BLUE,-,19.23,45
+3295,Linen,Green,Supplier D,4.33,35
+3296,Denim,Black,Supplier B,21.35,34
+3297,,White,Supplier E,7.61,36
+3298,Jersey,Black,Supplier D,2.71,9
+3299,Rayon,Black,Supplier A,23.81,17
+3300,N/A,Grey, Supplier C ,14.7,30
+3301,SPANDEX,Brown,Supplier E,15.04,5
+3302,Denim,BLACK,Supplier B,18.08,26
+3303,DENIM,Black, Supplier C ,23.4,13
+3304,Wool,Green,Supplier B,23.06,28
+3305,Rayon,Red,Supplier D,4.98,45
+3306,Denim,Blue,Supplier A,14.95,20
+3307,Linen,Brown,Supplier A,8.23,11
+3308,Cotton,Green,Supplier D,17.79,40
+3309,POLYESTER,Purple,Supplier D,17.76,32
+3310,Rayon,Grey,Supplier C,20.57,42
+3311,Rayon,Yellow,Supplier E,18.08,45
+3312,Nylon,White,Supplier D,16.63,22
+3313,Silk,Purple,Supplier D,8.09 pcs,23
+3314,Nylon,Orange,Supplier E,8.18,15
+3315,Denim,White,Supplier B,22.68,7
+3316,,Green,Supplier A,17.57,45
+3317,Rayon,Purple, Supplier D ,15.66,17
+3318, Cotton ,Black,Supplier A,8.67,17
+3319,Cotton,Blue,Supplier B,23.46,28
+3320,Jersey,Brown,Supplier C,11.02 pcs,5
+3321,Rayon,Black,supplier a,16.2,28
+,,,,,
+3323,RAYON,Yellow,Supplier A,11.68,10
+3324,Nylon,black,Supplier D,3.36,15
+3325,Linen,grey, Supplier D ,12.59,38
+3326,Silk,White,Supplier C,3.79,45
+3327,Linen,Grey,Supplier A,6.78,25
+3328, Linen ,Orange,Supplier A,24.67,14
+3329,Nylon,Red,Supplier D,8.17,20
+3330,Rayon, Brown ,Supplier D,12.51,33
+3331,Cotton,Red,Supplier C,10.21,20
+3332,Wool,White,Supplier E,18.82,9
+3333,Nylon,BROWN,Supplier E,22.78,31
+3334,Nylon,White,Supplier A,16.76,21
+3335,Jersey,Red,Supplier D,11.33,19
+3336,Polyester,Orange,Supplier E,7.52,20
+3337,,Green,Supplier E,3.21,19
+3338,Silk,Grey,supplier a,11.82,42
+3339,Denim,Grey,Supplier D,15.19,25
+3340,Cotton,Purple,Supplier E,8.3,11
+3341,RAYON,Red,supplier e,24.98,11
+3342,Spandex,Green,supplier b,8.61,40
+3343,,Purple, Supplier C ,16.5,26
+3344,Cotton,Green,Supplier A,18.13,33
+3345,Nylon,red,Supplier C,18.36,31
+3346,Rayon,GREEN,Supplier C,11.98,42
+3347,Denim,Grey,Supplier A,6.53,11
+3348,Spandex,White,SUPPLIER D,9.1,42
+3349, Spandex ,Blue,Supplier E,8.8,39
+3350,Silk,Grey,Supplier A,21.33,45
+3351,JERSEY,BLUE,Supplier D,4.84,12
+3352,Spandex,Grey,Supplier E,9.2,42
+3353,Denim,Orange,Supplier B,4.59,19
+3354,SPANDEX,Green,Supplier E,10.26,13
+3355,DENIM,green,Supplier B,23.76,18
+3356,Polyester,Blue,Supplier C,22.57,24
+3357,,White,Supplier E,19.34,41
+3358,,Green,Supplier A,11.21,7
+3359,Linen,Green,Supplier E,8.87,9
+3360,N/A,Purple,Supplier E,23.68,22
+3361,Spandex, Purple , Supplier D ,21.66,16
+3362,Polyester,Grey,Supplier E,22.69,8
+,,,,,
+3364,Cotton,Blue,Supplier D,14.94,7
+3365,Polyester,Brown,Supplier D,22.81,45
+3366,Spandex,Brown,Supplier A,12.41,27
+3367,Linen,White,supplier a,3.65 pcs,14
+3368,,Purple,Supplier C,7.88,44
+3369,Polyester,Orange,Supplier A,21.73,39
+3370,Denim,Blue,Supplier E,11.01,16
+3371,Wool,Brown,Supplier B,6.11,42
+3372,Polyester,Orange,Supplier D,20.35,12
+3373,Jersey,Green,Supplier A,23.9,35
+3374,Silk,Purple,Supplier A,16.49,26
+3375,Rayon,Yellow,Supplier A,13.17,36
+3376,Linen,Purple,Supplier B,20.83,15
+3377,Linen,YELLOW,Supplier E,18.46,12
+3378,COTTON,Red,Supplier E,16.26,43
+3379,wool,Grey,Supplier D,4.66,10
+3380,nylon,purple,Supplier A,3.8,42
+3381,Jersey,Black,Supplier E,13.44,28
+3382,Silk,BLACK,Supplier C,19.19 units,30
+3383,Cotton,Red,Supplier B,22.45,19
+3384,silk,Purple,Supplier A,14.42,26
+3385,Nylon,Purple,Supplier E,7.71,32
+3386,Wool,Orange,Supplier C,23.24,27
+3387,Denim,Orange,Supplier D,24.46,43
+3388,Nylon,Blue,SUPPLIER C,14.54,9
+3389,Linen, Brown ,Supplier D,15.55,22
+3390,,Grey,Supplier D,21.34,31
+3391,Nylon,Green,Supplier C,8.39,15
+3392,Denim,White,Supplier A,21.2,13
+3393,Polyester,Green,SUPPLIER B,22.77,42
+3394,Silk,RED,Supplier A,3.6,20
+3395, Jersey ,Red,Supplier A,22.67,24
+3396,-,Blue,Supplier E,6.52,37
+3397,Rayon,Purple,supplier a,18.21,16
+,,,,,
+3399,Wool,Orange,SUPPLIER D,16.46,5
+3400,Nylon,Grey,Supplier B,4.19,42
+3401,Cotton,Orange,Supplier E,17.46,30
+3402,Nylon,Orange,Supplier B,18.05,28
+3403,Silk,White,Supplier E,6.65,40
+3404,Wool,WHITE,Supplier B,5.26,15
+3405,Polyester,Black,Supplier D,14,19
+3406,Cotton,White,Supplier D,2.59,38
+3407,Wool,Red,Supplier D,5.57,38
+3408,Jersey,Brown,Supplier D,4.85,36
+3409,,Yellow,Supplier B,13.78,11
+3410,cotton,Purple,Supplier B,24.78,32
+3411,Rayon,Black,Supplier B,21.81,17
+3412,Jersey,Purple,?,16.83,10
+3413,Rayon,Orange,SUPPLIER A,20.86,43
+3414,Rayon,Brown,supplier d,14.56,29
+3415,Rayon, Grey ,Supplier B,11.86,28
+3416,polyester,Green,Supplier D,4.18,13
+3417,?,Brown,Supplier D,19.86,34
+3418,Jersey,Green,Supplier E,21.79,14
+3419,Spandex,White,SUPPLIER A,9.95 pcs,39
+3420, Rayon ,Grey,Supplier D,22.66,35
+3421,,Purple,Supplier D,4.83,28
+3422,Nylon,Grey,Supplier A,24.87,14
+3423,?,Brown,Supplier A,16.09,42
+3424,Denim,Orange,Supplier A,25.37,42
+3425,Rayon,Yellow,Supplier B,16.46,40
+3426,Nylon,Black,Supplier B,12.2,24
+3427,Nylon,Black,SUPPLIER A,4.5,13
+3428,wool,Black,Supplier C,3.36,34
+3429,Rayon, Orange ,Supplier C,13.56,24
+3430,Polyester,Black, Supplier A ,18.79,30
+3431,-,Green, Supplier E ,9.49,12
+3432,polyester,White,Supplier E,2.83,40
+3433,Silk,RED,Supplier B,17.26,18
+3434,Silk,Red,Supplier C,25.43,45
+3435,Denim,Purple,Supplier E,8.8,29
+3436,Spandex,Black,Supplier D,21.22,43
+3437,Cotton,green,Supplier B,19.79,35
+3438,COTTON,Red,Supplier D,12.85,24
+3439,Denim,White,Supplier A,17.06,36
+3440,Silk,Red,Supplier D,10.14,31
+3441,Jersey,Green,Supplier A,9.5,12
+3442,Cotton,white,Supplier B,11.71,23
+3443,Rayon,Red,Supplier A,17.23,13
+3444,Rayon,Purple,Supplier E,16.73,31
+3445,Polyester,Purple,Supplier E,25.28,9
+3446,Rayon,Yellow,Supplier E,11.29,24
+3447,Polyester,Blue,Supplier E,7.61,29
+3448, Denim ,Green,Supplier E,13.39,36
+3449,Polyester,Grey,Supplier D,15.49,9
+3450,Spandex,Orange,Supplier B,18.9,38
+3451,Nylon,Blue,Supplier C,6.73,7
+3452,Polyester,Green,Supplier C,20.57,42
+3453,,Blue,Supplier B,22.35,31
+3454,Silk,Orange, Supplier D ,20.49,7
+3455,Wool, Blue ,Supplier A,21.68,12
+3456,Polyester,Yellow,Supplier C,22.57,21
+3457,Polyester,WHITE,Supplier A,23.04,24
+3458,Wool,Orange, Supplier E ,24.15,6
+3459,Jersey,YELLOW,Supplier B,11.26,26
+3460,Silk,White,Supplier D,8.86,11
+3461,Polyester,Green,Supplier B,7.3,24
+,,,,,
+3463,Jersey,Purple,Supplier C,21.4,16
+3464,Cotton,Yellow,Supplier D,5.71,23
+3465,Jersey,Red,Supplier E,4.53,10
+3466,Jersey,Black,supplier e,19.15,45
+3467,,Red,SUPPLIER B,13.9,45
+3468,, Brown ,Supplier D,23.86,37
+3469,Silk,Purple,Supplier A,10.82,26
+3470,nylon,Orange,Supplier C,23.06,44
+3471,Silk,Brown,Supplier A,15.83,12
+3472,Jersey,Brown,Supplier A,10.74,6
+3473,Rayon,Green,Supplier C,19.36,8
+3474,Cotton,Black,Supplier B,2.52,15
+3475,Rayon,Grey,Supplier E,23.68,33
+3476,Jersey,Blue,Supplier A,13.31,14
+3477,Spandex,Yellow,Supplier C,5.16,45
+,,,,,
+3479,Nylon,Red,Supplier C,22.8,19
+3480,Jersey,white,-,16.89,23
+3481,Jersey,Green,Supplier E,11.68,18
+3482,Wool,Blue,SUPPLIER A,21.07,13
+3483,Cotton, Orange ,Supplier C,7.36,19
+3484,Rayon,Brown,Supplier D,11.0 pcs,22
+3485,Rayon,Black,Supplier E,8.2,8
+3486,Polyester,Blue,Supplier D,13.4,28
+3487,Nylon,WHITE,Supplier B,20.57,11
+3488, Denim ,Orange, Supplier E ,22.86,31
+3489,,Yellow,Supplier A,7.85,6
+3490,Spandex,GREY, Supplier D ,6.97,43
+3491,Silk,Orange, Supplier D ,9.44,20
+3492,Denim,green, Supplier C ,12.01 units,37
+3493,,blue,Supplier C,8.59,17
+3494,Linen,Green,Supplier D,18.93,11
+3495,Jersey,Green,Supplier B,13.99,44
+3496,Polyester,White,Supplier E,11.35 pcs,43
+3497,,White,Supplier C,6.93,12
+3498,,Orange,Supplier A,22.24,5
+3499, Jersey ,Black,supplier d,14.97,33
+3500,Polyester,Grey,Supplier C,17.37,34
+3501,Linen,Blue,Supplier B,5.42,31
+3502,Wool,White,Supplier C,22.59,19
+3503,Wool,Brown,Supplier E,9.87,17
+3504,wool,Green,Supplier B,17.23,33
+3505,POLYESTER, White ,Supplier C,23.45,30
+3506,Silk,Yellow,Supplier C,14.95,26
+3507,,Brown,Supplier A,7.55,22
+3508,Jersey,Yellow,SUPPLIER E,10.19,43
+3509,POLYESTER,Black,supplier a,21.02,18
+3510,Rayon,Blue,Supplier D,12.15,27
+3511,Polyester,Red,N/A,20.75,43
+3512,Denim,Grey,Supplier A,2.54,8
+3513,Spandex,Grey, Supplier E ,13.52,5
+3514,Spandex,Red,Supplier A,14.96,29
+3515,Jersey,Black,Supplier D,6.08,20
+3516,Rayon,Brown,Supplier C,8.65,24
+3517,Denim,red,Supplier C,9.41,40
+3518,Polyester,Orange,Supplier B,17.71,44
+3519,Silk,Green,Supplier B,23.71,7
+3520,DENIM, Yellow ,Supplier A,13.7,9
+3521,NYLON,YELLOW,Supplier E,14.27,13
+3522,Jersey,Black,Supplier A,13.88,26
+3523,Wool,Red,Supplier C,7.86,30
+3524,Cotton,Black,Supplier D,22.96,17
+3525,Spandex,Red,Supplier B,11.9,12
+3526,Rayon,Yellow,SUPPLIER A,4.53,17
+3527,Wool, Brown ,Supplier D,24.01,39
+3528,Linen,Orange,Supplier C,9.61,22
+3529,WOOL,Yellow,Supplier E,19.34,22
+3530,,Grey,Supplier E,21.41,38
+3531,Jersey,orange,Supplier C,9.22,38
+3532,Silk,green,Supplier C,21.7,19
+3533,Silk,Yellow,Supplier B,23.56,6
+3534,Nylon,Black,Supplier D,22.49 units,8
+3535,Linen,Green,?,21.78,26
+3536,Linen,Brown,Supplier B,14.25,27
+3537,Rayon,Red,Supplier C,14.09,44
+3538,Polyester,Purple,Supplier C,2.65,7
+3539,Polyester,Grey,Supplier E,14.39,29
+3540,Linen,Blue,Supplier E,5.3,22
+3541,Nylon,White,Supplier D,20.91,40
+3542,Rayon,Blue,Supplier A,23.16,34
+3543,Jersey,White,Supplier E,5.32,32
+3544,spandex,Grey,Supplier B,7.56,43
+3545,Polyester,WHITE,Supplier A,14.5,28
+3546, Linen ,Blue,SUPPLIER D,13.97,42
+3547,Wool,PURPLE,Supplier A,19.5,42
+3548,Polyester,Black, Supplier A ,13.73,25
+3549,Denim,Red,Supplier C,23.4,7
+3550,Denim,?,Supplier B,20.84,5
+3551,Nylon,Blue,Supplier D,20.6,14
+3552,Silk,Purple,Supplier E,22.7,12
+3553,Rayon,Red,Supplier B,3.68,44
+3554,Polyester,Blue,Supplier C,23.32,15
+3555,cotton,White,Supplier A,6.19,31
+3556,,Brown,SUPPLIER B,8.14,19
+3557,Polyester,PURPLE,Supplier D,14.39,29
+3558,Rayon,yellow,Supplier D,21.62,35
+3559,silk, Red ,Supplier B,3.98,16
+3560,Polyester,Red, Supplier D ,24.54,25
+3561,Wool,Blue,Supplier B,20.59,21
+3562,Rayon,?,Supplier B,20.51,5
+3563,Linen,Green,Supplier B,6.4,20
+3564,Silk,black,supplier c,25.18,27
+3565,Spandex,Grey,Supplier A,18.1,12
+3566,Wool,Grey,SUPPLIER E,16.73 pcs,5
+3567,Polyester,Grey,supplier e,24.52,24
+3568,Denim,Blue, Supplier B ,11.36,8
+3569,Cotton,Green,Supplier E,20.38,29
+3570,Nylon,GREY,Supplier A,6.96,41
+3571,Linen,White,Supplier E,7.91,28
+3572,Nylon,Blue,Supplier D,12.68,25
+3573,Linen,Green,Supplier B,18.91,30
+3574, Polyester ,Yellow,Supplier E,16.19,31
+3575,Denim,Orange, Supplier B ,8.29,8
+3576,DENIM,White,N/A,5.06,27
+3577,Jersey,Purple,supplier b,19.56,45
+3578,Silk,Grey,Supplier E,16.66,43
+3579,Jersey,Red,Supplier B,4.87,29
+3580,Spandex,Yellow,Supplier E,8.26,34
+3581,Spandex,Yellow,Supplier D,18.61,22
+3582,Rayon,purple,Supplier C,18.25,43
+3583,Wool,Green,Supplier B,24.24,45
+3584,,Purple, Supplier D ,22.68,15
+3585,linen,Orange,Supplier E,21.13,43
+3586,Linen,Grey,Supplier B,3.23,39
+3587,Wool, White ,Supplier A,23,28
+,,,,,
+3589,Denim, Purple ,Supplier B,8.45,22
+3590,,PURPLE,Supplier C,10.89,34
+3591,,Green,Supplier D,18.05,28
+,,,,,
+3593, Silk ,Black,Supplier A,19.74,21
+3594,Jersey,Black,Supplier E,13.05,33
+3595,Linen,Black,Supplier C,16.74,16
+3596,,Black, Supplier B ,15.03,5
+3597,Spandex,Blue,Supplier A,15.05,38
+3598,Silk,White,Supplier B,8.87,26
+3599,Cotton,Black,Supplier E,8.55,8
+3600,Wool,Brown,SUPPLIER A,15.55,12
+3601,Silk,Blue,Supplier E,23.58,8
+3602,Wool,Red,Supplier C,24.75,41
+3603,?,NULL,Supplier E,7.89,17
+3604,Silk,Grey,Supplier B,16.59,42
+3605,Polyester,White,Supplier E,14.83,25
+3606,Wool,orange,Supplier C,5.57,16
+3607,nylon,Red,Supplier C,21.01,35
+3608,,Grey,Supplier E,5,14
+3609,Linen,Purple,Supplier D,20.26,41
+3610,Cotton,Blue, Supplier B ,21.82,17
+3611,Polyester, Brown ,Supplier A,19.46,43
+3612,Nylon,Black,supplier a,2.97,8
+3613,Rayon,Green,Supplier B,23.35 pcs,28
+3614,,Blue,Supplier A,7.57,37
+3615,,Purple,Supplier A,16.66,24
+3616,Denim,White,Supplier A,23.75,40
+3617,Linen,Orange,Supplier E,24.7,9
+3618,Wool,Red,Supplier C,7.61,36
+3619,Linen,Red,Supplier E,4.02,8
+3620,Wool, Yellow ,Supplier D,10.73,19
+3621,Rayon,Purple,Supplier C,22.12,25
+3622,,Brown,Supplier A,12.64,40
+3623,Silk,Green,Supplier B,12.91,35
+3624,LINEN,Grey,Supplier D,5.07,34
+3625,Linen, Yellow ,Supplier E,4.89,36
+3626,-,Red,Supplier B,9.72,39
+3627,linen,Yellow,Supplier D,16.72,30
+3628,jersey,Purple,Supplier E,15.12,19
+3629,Jersey,Blue,Supplier A,2.8,34
+3630, Linen ,Red,Supplier B,17.55,5
+3631,Denim,Black,Supplier B,3.66,13
+3632,,Red,Supplier C,6.1,23
+3633,Nylon,GREEN,supplier c,10.23,40
+3634,Spandex,Purple,Supplier C,5.83,41
+3635,WOOL,Black,SUPPLIER A,2.95,42
+3636,Rayon,Yellow,Supplier E,7.42,27
+3637,Spandex,Orange,Supplier B,2.8,43
+3638,,Brown,Supplier C,14.45,36
+3639,Polyester, Purple ,Supplier D,10.51,33
+3640,Spandex,Blue,Supplier C,13.03,32
+3641, Rayon ,Grey,Supplier A,5.16,6
+3642,,Brown,Supplier D,19.27,24
+3643,Wool, Red ,Supplier E,14.93,37
+3644,, Black ,Supplier A,9.56,10
+3645,Jersey,orange,Supplier A,18.9,23
+3646,,White,Supplier B,5.69,11
+3647,LINEN,Brown,Supplier D,12.18,37
+3648,Silk,White,Supplier D,9.56,18
+3649,Silk, Purple ,Supplier C,9.7,38
+3650,Wool,Blue,Supplier B,20.72,6
+3651,Linen, Green ,Supplier E,13.65,13
+3652,Denim, Blue ,Supplier B,7.9,33
+3653,Denim,Grey,Supplier E,24.9,43
+3654,rayon,Red,SUPPLIER A,17.11,13
+3655,Spandex,White,Supplier A,22.71,29
+3656,Nylon,Yellow,Supplier B,23.06,20
+3657,Rayon,White,Supplier B,5.18,39
+3658,Denim,Grey,Supplier A,21.21,22
+3659,Wool,Green,Supplier B,15.25,8
+3660,JERSEY,Blue,Supplier E,3.73,39
+3661,Nylon,Yellow,SUPPLIER B,13.9,5
+3662,Linen,orange,Supplier B,15.41,23
+3663,Cotton,Black,Supplier E,16.18,9
+3664,Wool,Brown,Supplier A,21.02,32
+3665,Nylon,green,Supplier E,17.46,9
+3666,Silk,White,Supplier A,11.12,36
+3667,Spandex,Blue,Supplier D,4.74,22
+3668,Nylon,Brown,Supplier B,8.11,38
+3669,Linen,Red,Supplier C,19.97,30
+3670,Nylon,Green,Supplier D,23.54,43
+3671,SILK,Green,Supplier A,24.12,32
+3672,JERSEY,-,Supplier E,13.82,16
+3673,Linen,White,Supplier B,11.38,42
+3674,Wool,Grey,Supplier B,2.65,12
+3675,Spandex,Brown,Supplier D,2.75,43
+3676,,Yellow,Supplier D,11.8,39
+3677,,Blue,Supplier A,13.17,34
+3678,,Orange,Supplier C,13.46,13
+3679,Cotton,Green,Supplier A,23.56,30
+3680,Nylon,Yellow,Supplier E,4.35,18
+3681,Nylon,Orange,Supplier B,7.83,41
+3682,Rayon,Blue,Supplier B,24.68,5
+3683,Rayon,Purple,Supplier C,3.81,44
+3684,Jersey,Green,supplier c,21.59,43
+3685,Rayon,Yellow,Supplier B,16.68,14
+3686,Wool,Grey,Supplier A,20.26,22
+3687,Spandex,Black,Supplier E,10.31,8
+3688,Denim,orange,Supplier B,21.96,11
+3689,linen,Brown,Supplier D,14.55,25
+3690,Polyester,Blue,Supplier E,3.06,36
+3691,Linen,PURPLE,Supplier C,23.83,34
+3692, Jersey ,Purple,supplier b,14.17,24
+3693,Polyester,Green,Supplier C,2.98,35
+3694,Polyester,NULL,Supplier E,11.44,29
+3695,,purple,Supplier C,12.57,6
+3696,silk,Black,supplier b,15.79,21
+3697,Silk,Purple,supplier e,14.83,5
+3698,Linen,Yellow,Supplier B,23.25,9
+3699,Silk,Yellow, Supplier C ,23.96,30
+3700,Spandex,Purple,Supplier A,21.36,11
+3701,,Red,supplier b,8.81,12
+3702,COTTON,Blue,Supplier C,6.96,45
+3703,Silk,Orange,Supplier A,14.2,31
+3704,Jersey,Orange,Supplier B,22.49,24
+3705,Rayon,Brown,Supplier A,19.12,36
+3706,Jersey,Yellow,Supplier D,12.05,39
+3707,Silk,orange,Supplier B,18.58,12
+3708,Linen,Blue,Supplier E,17.46,16
+3709,Rayon,Grey,Supplier D,19.12,41
+3710,Jersey,Brown,Supplier C,11.31,38
+3711,Jersey,Orange,-,10.52,12
+3712, Spandex ,orange,Supplier C,25.49,38
+3713,Spandex,WHITE, Supplier B ,17.71,29
+3714,Silk,Grey,Supplier B,9.91,25
+3715,Linen,Yellow,Supplier B,11.16,16
+3716,Spandex,Green, Supplier D ,11.62,6
+3717,Jersey,Blue,supplier d,19.28,44
+3718,Spandex,Red,Supplier E,20.81,32
+3719,Denim,Black,Supplier B,19.41,32
+3720,N/A,red,Supplier A,19.78,35
+3721,Denim,purple,Supplier B,6.59,30
+3722,Polyester,Brown,Supplier E,22.08,40
+3723,Cotton,Brown,Supplier C,14.9,20
+3724,Rayon,Orange,Supplier B,8.43,42
+3725,Rayon,Black,Supplier E,2.9,33
+3726, Jersey ,Blue,Supplier B,5.91,6
+3727,rayon,red,Supplier E,21.02,17
+3728,N/A,Orange,Supplier A,6.18,42
+3729,Wool,Brown,Supplier D,10.58,10
+3730,Spandex,Yellow,Supplier E,15.72,14
+3731,Polyester,Black,Supplier B,5.56,19
+3732,Linen,Blue,Supplier B,9.61,30
+3733,Silk,Black,Supplier B,15.8,26
+3734,RAYON,Yellow,supplier a,21.44,5
+3735,Spandex,Brown,supplier b,17.14,24
+3736,,Red,Supplier D,13.21,41
+3737,Spandex,Red,SUPPLIER D,16.94,6
+3738,Nylon,N/A,Supplier D,5.69,31
+3739,Nylon,Purple,Supplier B,13.57,26
+3740,Jersey,Purple,Supplier A,25.19,18
+3741,COTTON,Grey,Supplier E,18.13,18
+3742,Linen,Purple,Supplier E,24.26,42
+3743,Cotton,Yellow,Supplier D,11.84,6
+3744,Rayon,Purple,Supplier C,24.61,27
+3745,Spandex,Red, Supplier C ,8.09,7
+3746,rayon,Red,Supplier C,5.01,6
+3747,SPANDEX,PURPLE,Supplier B,11.59,31
+3748,Denim,red,Supplier C,15.69,26
+3749,Linen,Brown,SUPPLIER D,8.48,21
+3750,Jersey,Blue,Supplier E,22.23,25
+3751,Silk,Blue,N/A,14.75,32
+3752,Cotton,Black,Supplier B,17.29,40
+3753,,Grey,Supplier E,9.47,36
+3754, Spandex ,Grey,Supplier B,22.66,37
+3755,Wool, Black ,Supplier A,17.75,14
+3756,Jersey,Grey,Supplier E,3.2,15
+3757,, Green ,Supplier C,7.94,29
+3758,Spandex,Yellow,Supplier A,19.85,9
+3759,Nylon,Grey,Supplier E,17.73,39
+3760,Denim,Orange,Supplier D,24.06,44
+3761,Linen,grey,Supplier C,9.5,24
+3762,Silk,White,Supplier E,19.22,34
+3763,Cotton,white,Supplier E,24.29,24
+3764,Polyester,NULL,Supplier C,22.16,39
+3765,Spandex,Blue,Supplier D,20.97,7
+3766,Polyester,Red,Supplier A,23.76,13
+3767,Silk,Blue,supplier d,22.68,23
+3768,,Red,Supplier A,10.24,23
+3769,Nylon,Green,supplier e,8.52,15
+3770,Rayon,White,Supplier E,13.44,22
+3771,Silk,Purple,Supplier C,18.58,28
+3772,Nylon,Yellow,Supplier E,15.81,17
+3773,LINEN,Grey,Supplier E,4.53,36
+3774,Silk,ORANGE,Supplier E,22.89,44
+3775,WOOL,Purple,Supplier D,14.44,35
+3776,Polyester,Black,Supplier A,9.95,22
+3777,POLYESTER,Black,Supplier D,21.28,32
+3778,Wool,Purple,Supplier B,20.62,13
+3779,,Grey,Supplier D,9.69,11
+3780,Linen,Orange,Supplier B,16.69,32
+3781,Polyester,Yellow,Supplier E,15.69,34
+3782,Wool,Yellow,Supplier E,10.87,44
+3783,Nylon,Purple,SUPPLIER C,4.44,37
+3784,Cotton,Yellow,Supplier B,24.66,13
+3785,Rayon,Brown,SUPPLIER D,6.88,8
+3786,Silk,Black,Supplier B,17.62,10
+3787,Jersey,Brown,Supplier B,17.2,44
+3788,Jersey,Blue,Supplier E,20.93,27
+3789,Spandex,Grey,Supplier D,24.63,5
+3790, Rayon ,Black,Supplier B,23.66,21
+3791,Denim,Purple,Supplier A,23.8,15
+3792,Rayon,Black,Supplier A,2.95,41
+3793,Wool,Red,Supplier D,13.84,21
+3794,Polyester,Orange,Supplier E,5.99,5
+3795,Linen,Blue,Supplier D,19.88,23
+3796,Spandex,Brown,Supplier C,6.85,39
+3797,Spandex,blue,Supplier C,3.08,29
+3798,Jersey,Yellow,Supplier B,4.97,24
+3799, Spandex ,Purple,Supplier C,6.89,22
+3800,Spandex,White,SUPPLIER C,11.15,39
+3801,Spandex,BLUE,Supplier D,4.5,7
+3802,Jersey,White,Supplier A,7.44,21
+3803,Jersey,Black,Supplier B,11.33,39
+3804,Jersey,red,Supplier E,11.93,45
+3805,Denim,Black,Supplier A,22.45,11
+3806,,Purple,Supplier C,17.83,20
+3807,Denim,Grey,Supplier B,6.66,5
+3808,Nylon,Purple,Supplier D,13.67,7
+3809,Silk,N/A,Supplier D,21.61,7
+3810,WOOL, Orange ,Supplier B,11.41,20
+3811,Wool,Orange,Supplier A,5.5,21
+3812,DENIM,Grey,Supplier D,18.07,17
+3813,Jersey,White,Supplier E,24.54,31
+3814,spandex,Red,Supplier B,2.64,18
+3815,Spandex,Red,Supplier E,24.03,9
+3816,Spandex,White,Supplier B,9.96,43
+3817,,YELLOW,Supplier D,5.85,17
+,,,,,
+3819,RAYON,Red,Supplier D,10.03,37
+3820,Spandex,Yellow,Supplier B,4.72,35
+3821,Jersey,Green,SUPPLIER B,19.12,23
+3822,Rayon, Blue ,Supplier D,6.86,33
+3823,rayon,Purple,Supplier C,17,5
+3824,Rayon,Orange, Supplier E ,16.26,28
+3825,Denim,White,Supplier A,15.15,21
+3826,Silk,ORANGE,supplier b,6.74,24
+3827,Spandex,Grey,SUPPLIER A,21.04,23
+3828,Silk, Grey ,Supplier B,11.24,42
+3829,Silk,Red,Supplier D,18.41,41
+3830,Spandex,Red,supplier d,11.92,33
+3831,Linen,Red,SUPPLIER A,11.67,32
+3832,Rayon,black,Supplier B,12.55,40
+3833,JERSEY,Orange,Supplier C,13.02,34
+3834,Spandex,White,Supplier A,19.15,34
+3835,Denim,orange,Supplier D,3.83,43
+3836,Polyester,Orange,Supplier C,4.17,12
+3837,Jersey,NULL,SUPPLIER A,5.98,19
+3838, Denim ,Brown,supplier d,16.32,37
+3839,Nylon,Green,Supplier A,24.09,32
+3840,?,Yellow,Supplier A,16.85,28
+3841,jersey,Green,Supplier D,9.44,43
+3842, Nylon ,Yellow,Supplier A,10.38,19
+3843,,Blue,supplier c,12.38,36
+3844,Spandex,grey,Supplier E,23.04,16
+3845, Wool ,Grey,Supplier E,3.98,29
+3846,Nylon,Orange,Supplier D,20.37,20
+3847,Denim,Purple,Supplier C,25.21,22
+3848,Wool,Purple,supplier e,6.78,15
+3849,Denim,White,Supplier D,13.16,44
+3850,NYLON,Blue,Supplier A,16.31,25
+3851,Polyester,?,Supplier C,3.72,12
+3852,Denim,White,Supplier B,15.17,11
+3853,Spandex,White,Supplier C,10.4,15
+3854,Nylon,Yellow,Supplier B,20.71,45
+3855,COTTON,Blue,Supplier C,22.94,38
+,,,,,
+3857,Polyester,Blue,supplier d,10.44,38
+3858,COTTON,Black,Supplier C,10.88,40
+3859,Cotton,Orange,Supplier D,17.55,27
+3860, Denim ,Blue,Supplier B,24.66,6
+3861,Spandex,Red,Supplier A,23.3,32
+3862, Spandex ,Green,Supplier B,12.2,12
+3863,Spandex,Purple,Supplier B,21.56,9
+3864,Jersey, Blue ,Supplier D,10.1,31
+3865,Silk,Purple,supplier a,2.97,18
+3866,Denim,Red,Supplier A,17.69,27
+3867, Polyester ,Grey,Supplier D,24.18,42
+3868,Jersey,Brown,Supplier C,5.82,13
+3869,Linen,White,Supplier E,6.44,18
+3870,Linen,Red, Supplier B ,10.11,45
+3871,Polyester,Black, Supplier B ,5.71,36
+3872, Nylon ,White,Supplier C,13.92,19
+3873,Nylon,Grey,Supplier A,21.07,40
+3874,Linen,Black,Supplier C,17.17,17
+3875,Linen,Purple, Supplier A ,20.46,9
+3876, Polyester , Black ,supplier d,7.39,25
+3877,Silk,Blue,Supplier A,11.59,35
+3878,Nylon,Black, Supplier D ,21.18,15
+3879,Denim,ORANGE,Supplier A,6.38,20
+3880,Nylon,Green, Supplier E ,13.17,13
+3881, Nylon ,Yellow,Supplier A,21.98,9
+3882,Wool,Red,Supplier E,20.4,41
+3883,Silk,Orange,Supplier C,23.14,27
+3884,POLYESTER,Black,Supplier A,7.61,42
+3885,N/A,Black,Supplier E,9.23,18
+3886,Cotton,Red,Supplier A,9.15,15
+3887,Jersey,Black,Supplier A,15.87,37
+3888,Silk,Green,?,2.96,16
+3889,Linen,Blue,Supplier C,8.06,35
+3890,Silk, Brown ,Supplier D,5.54,36
+3891,Nylon,ORANGE,Supplier B,23.9,45
+3892,Rayon,Purple,Supplier C,15.13,10
+3893,Linen,purple,Supplier C,20.34,44
+3894,Polyester,Black,Supplier E,14.65,35
+3895,Linen,Purple,Supplier A,14.33,42
+3896,,Grey,Supplier E,20.05,37
+3897, Silk ,Green,supplier a,6,8
+3898,Spandex,Yellow,Supplier A,22.31,28
+3899,Cotton,Black,Supplier B,23.92,38
+3900,Spandex,Grey,Supplier E,8.93,19
+3901,Rayon,Brown,Supplier E,18.47,32
+3902,Rayon,Green,Supplier B,8.72,23
+3903,Polyester,Yellow,Supplier D,17.61,13
+3904,Polyester,Purple,Supplier B,13.11,40
+3905,Silk,Brown,Supplier E,8.6,22
+3906,Rayon, Grey ,Supplier C,24.22,36
+3907, Cotton ,Brown,Supplier A,18.22,29
+3908,Cotton,Purple,Supplier A,4.98 units,32
+3909,Silk,Grey,supplier d,15.45,45
+3910,Polyester,White,Supplier E,9.42,45
+3911,Polyester,Blue,Supplier B,8.88,16
+3912,Polyester,Black,Supplier E,6.67,12
+3913,Denim,BLUE,Supplier E,11.97,33
+3914,Rayon,Purple,Supplier C,12.39,34
+3915,Rayon,Black,Supplier D,15.31,38
+3916,Polyester,Grey,SUPPLIER E,23.33,13
+3917,Cotton,Orange,Supplier B,7.51,45
+3918,NYLON,Black,Supplier B,21.69,38
+3919,,BLACK,Supplier D,9.6,35
+3920,Denim,Grey,Supplier B,24.34,6
+3921,jersey,Orange,Supplier B,19.54,22
+3922,Jersey,Blue,Supplier B,8.02,9
+3923,Denim,Yellow,SUPPLIER C,24.52,26
+3924,Linen,Grey,Supplier B,10.44,8
+3925,Jersey,Green,supplier a,10.52,8
+3926,Jersey,Green,Supplier E,6.82,42
+3927,,Purple,supplier a,12.14,33
+3928,Nylon,ORANGE,Supplier C,5.78,30
+3929,Linen,Green,Supplier C,6.48,19
+3930,Denim,Blue,Supplier A,13.03,7
+3931,Jersey,Red,Supplier A,6.16,35
+3932,,White,Supplier A,6.1 units,7
+3933,Polyester,Brown,Supplier E,21.56,12
+3934,Rayon,Blue,Supplier C,11.87,32
+3935,Silk, Red ,Supplier C,19.97,29
+3936,Denim,Grey,Supplier C,7.74,45
+3937,,?,Supplier D,24.68,9
+3938,linen,BLUE,Supplier B,8.1,12
+3939,Rayon,N/A,Supplier C,9.62,38
+3940,Jersey,Blue,Supplier A,8,18
+3941,Spandex,yellow,Supplier A,6.2,34
+3942,Cotton,Brown,Supplier B,19.97,25
+3943,Rayon,Brown,Supplier B,11.51,7
+3944,,White,Supplier A,21.29,37
+3945,Wool,Blue,Supplier B,25.15,38
+3946,,Yellow,Supplier C,5.83,19
+3947,Rayon, Blue ,Supplier D,13.51,43
+3948, Polyester ,Red,Supplier A,11.62,11
+3949,Silk,Red,Supplier D,20.49,12
+3950,Polyester,Orange,SUPPLIER E,3.87,20
+3951,Cotton,Red,SUPPLIER E,4.97,22
+3952,Spandex,Yellow,Supplier A,15.7,37
+3953, Linen ,Orange,Supplier C,23.29,43
+3954,Linen,NULL,Supplier E,19.22,14
+3955,Nylon, Yellow ,Supplier C,18.12,13
+3956,Silk,Red, Supplier A ,24.34,45
+3957,Silk,Purple,Supplier D,11.84,34
+3958, Wool , Grey ,Supplier B,16.37,13
+3959,Jersey,Yellow,Supplier D,14.19,39
+3960, Jersey ,Black,Supplier D,13.2,45
+3961,nylon,Yellow,Supplier A,2.56,38
+3962,spandex,Grey, Supplier A ,4.53,18
+3963,Spandex,Black,Supplier C,17.92,24
+3964,Denim,Yellow,Supplier C,11.65,22
+3965,Spandex,white,Supplier B,22.81,33
+3966,Denim,Yellow,Supplier D,18.12,37
+3967,Linen,Yellow,Supplier B,8.5,31
+3968, Wool ,Green,Supplier C,15.67,42
+3969,Polyester,Brown,Supplier B,23.69,25
+3970,Spandex,White,Supplier B,18.95,22
+3971,,Black,Supplier C,17.43,25
+3972,,Yellow,Supplier B,15.94,19
+3973,Polyester,Red,supplier d,6.05,29
+3974,Linen,Yellow,Supplier E,3.25,17
+3975,Cotton,White,SUPPLIER C,20.86,10
+3976,Cotton,Green,Supplier C,16.63,37
+3977,Nylon,Black,Supplier E,21.97,43
+3978,Cotton,Green,SUPPLIER D,6.12,28
+3979,Linen,Yellow,Supplier B,20.66,28
+3980,Nylon,Green,Supplier A,13.34,20
+3981,Jersey, Black ,Supplier D,6.96,19
+3982,Nylon,purple,Supplier B,13.27,39
+3983,Nylon,GREY,Supplier E,22.09,27
+3984,Jersey,Red,Supplier A,22.05,15
+3985, Silk ,Purple,Supplier B,24.95,18
+3986,Nylon,-,Supplier C,9.43,28
+3987,Rayon,White,Supplier D,14.99,28
+3988,Linen,Black,Supplier D,4.09,39
+3989,Polyester,White,Supplier D,9.92,39
+3990,Denim,Red,Supplier D,23.99,9
+3991,Nylon, Purple ,Supplier E,23.77,33
+3992,Cotton,Red,supplier d,6.72,25
+3993,Nylon,Yellow, Supplier E ,4.29,23
+3994,Denim, Black ,Supplier E,20.57,19
+3995,Cotton,Purple,Supplier A,12.15,8
+3996,Nylon,black,supplier e,21.97,40
+3997,Silk,brown,Supplier E,22.34,13
+3998,Cotton,Blue,supplier d,24.42,23
+3999,Rayon,Blue,Supplier B,13.73,20
+4000,Spandex,YELLOW,Supplier B,5.3,7
+4001,Wool,BLACK,Supplier E,8.11,43
+4002,Rayon, Yellow ,SUPPLIER C,9.75,22
+4003,Silk,Green,supplier d,16.61,37
+4004,Jersey, Black ,supplier b,17.14,19
+4005,Spandex,Green,Supplier B,2.81,18
+4006,,Blue,Supplier B,8.26,34
+4007,Denim,NULL,SUPPLIER B,11.18,10
+4008,Denim,Red,Supplier C,20.77,7
+4009,Jersey,Brown,Supplier E,11.52,16
+4010,Wool,-,Supplier D,20.06,6
+4011,Denim,Purple,Supplier C,6.02,12
+4012,NYLON,Yellow, Supplier E ,20.56,24
+4013,Jersey,Red,Supplier D,9.91,36
+4014,Jersey,Grey,Supplier E,11.4,32
+4015,Nylon,Red,Supplier A,12.58,44
+4016,Cotton,Green,Supplier A,23.51,12
+4017,Silk,Green,Supplier A,25.13,31
+4018,Wool,White,Supplier C,23.27,6
+4019,Spandex,Brown,Supplier A,20.84,28
+4020, Silk ,Blue,SUPPLIER C,5.57,37
+4021, Linen ,Purple,Supplier B,20.86,5
+4022,LINEN,Green,Supplier E,5.01,23
+4023, Jersey ,Yellow,Supplier B,14.25,17
+4024,RAYON,Red,supplier e,3.09,26
+4025,Linen,Blue,Supplier B,15.59,29
+4026,Cotton,Purple,Supplier B,4.54,28
+4027,Rayon,GREEN,Supplier B,14.07,32
+4028,Rayon,Blue,Supplier E,3.8,7
+4029, Wool ,Green,Supplier D,7.36,23
+4030,Polyester,Yellow,Supplier D,16.8,19
+4031, Spandex ,Blue,Supplier B,14.16,45
+4032,Polyester,Purple,Supplier D,18.55,10
+4033,,Purple,Supplier E,10.23,36
+4034,Rayon,Blue,Supplier B,4.34,33
+4035,Wool,?,Supplier C,21.78,28
+4036,jersey,GREY,Supplier B,9.24,39
+4037,Spandex,Red,Supplier A,24.59,44
+4038, Nylon ,Black,Supplier C,6.32,21
+4039,Jersey,Blue,SUPPLIER B,4.98,21
+4040,Wool,yellow,Supplier D,8.28,22
+4041,Denim,Orange,Supplier C,4.78,42
+4042,Linen,BLACK,N/A,3.25,7
+4043,denim,Green,Supplier B,12.62,32
+4044,Polyester,Blue,Supplier E,19.78,35
+4045,Linen, Blue ,Supplier B,6.44,35
+4046,,Purple,Supplier A,19.27,39
+4047,Rayon,Green,SUPPLIER D,24.48,22
+4048,POLYESTER,Purple,Supplier E,22.61,25
+4049,Spandex,White,Supplier D,15.15,12
+4050,Silk,Grey,Supplier D,21.64,14
+4051,COTTON,BLACK,supplier e,22.06,30
+4052,Polyester,Purple,Supplier A,9.4,23
+4053,Nylon,BLACK,Supplier D,9.38,8
+4054,Denim,Red,supplier d,23.59,41
+4055,Polyester,Orange,Supplier B,15.81,37
+4056,Polyester,Brown,Supplier D,17.6,36
+4057,Cotton,Orange,Supplier C,15.11,40
+4058,Wool,White,Supplier C,17.81,23
+4059,Spandex,Orange,Supplier C,22.1,19
+4060,Polyester,Green,Supplier D,10.09,16
+4061,Linen,blue,Supplier C,10.98,25
+4062,Linen,Green,Supplier A,4.31,29
+4063,Cotton,Orange,Supplier B,9.36,38
+4064,Nylon,Blue,Supplier A,9.15,29
+4065,NULL,White,Supplier B,21.29,16
+4066,Cotton,Yellow,Supplier B,10.53,18
+4067,Rayon, Blue ,Supplier E,6.73,9
+4068,Spandex,Purple,Supplier C,6.06,12
+4069,Polyester,Orange,Supplier B,13.36,34
+4070,Cotton,Orange,Supplier A,5.1,44
+4071, Jersey ,Purple,Supplier C,25.06,39
+4072,Silk,Green,Supplier B,9.84,38
+4073,Spandex,Black,supplier e,9.58,8
+4074,Jersey,Grey,Supplier A,9.79,25
+4075,Cotton, White ,Supplier D,17.36,12
+4076,Silk,Grey,-,11.55,38
+4077,Nylon,Orange,Supplier E,20.5,28
+4078,Wool,Red,SUPPLIER E,19.41,22
+4079,Nylon,Green,Supplier E,3.06,13
+4080,,White,SUPPLIER D,23.73,8
+4081,Rayon,Blue,SUPPLIER E,24.97,38
+4082,Denim,Blue,Supplier D,9.23,15
+4083,Spandex,Green,SUPPLIER E,10,45
+4084,Polyester,Green,Supplier A,24.63,28
+4085,Nylon,Brown,Supplier E,8.3,33
+4086,Rayon,Brown,Supplier A,18.38,26
+4087,Jersey,Black,Supplier D,7.73,44
+4088,Polyester,White,Supplier B,11.88,32
+4089,Silk,Green,Supplier A,16.05,42
+4090,Wool,Red,Supplier C,20.89,31
+4091,Cotton, Purple ,Supplier B,10.09,22
+4092,Wool,Red,Supplier D,20.64,32
+4093,Jersey,Green,Supplier C,20.77,41
+4094,SILK,White,Supplier D,15.07,5
+4095,Wool,Orange,Supplier C,7.13,36
+4096,Rayon,Green,SUPPLIER D,8.58,18
+4097,Spandex,Black,Supplier C,21.39,20
+4098,Rayon,Brown,supplier d,14.29,35
+4099,Polyester,Black,SUPPLIER E,8.55,40
+4100,Polyester,Orange,Supplier B,16.82,22
+4101,,Yellow,Supplier A,6.51,25
+,,,,,
+4103, Cotton ,Grey,Supplier C,10.57,16
+,,,,,
+4105,Silk,Red,Supplier D,4.75,36
+4106,Polyester,Blue,Supplier B,9.4,32
+4107,Polyester, Red ,Supplier B,6.79,13
+4108,Spandex,Blue,Supplier C,16.59,45
+4109,Denim,White,Supplier D,13.74,5
+4110,linen,Purple,Supplier E,4.82,23
+4111,Linen,Orange,Supplier A,22.68,31
+4112,Polyester,Black,?,3.56,34
+4113,Polyester,GREY,Supplier B,7.72,12
+4114,,Orange,Supplier E,4.01,34
+4115,Denim,Black, Supplier B ,10.41,14
+4116,Denim,White,Supplier D,9.55,30
+4117,Denim,Purple,supplier a,15.17,27
+4118,Jersey,Purple,Supplier E,13.01,39
+4119,Wool,Blue,Supplier D,14.28,31
+4120,Linen,Orange,Supplier E,7.56,24
+4121,Nylon,Green,supplier a,5.52,18
+4122,Polyester,Blue,Supplier C,23.93,38
+4123,Jersey,Black,Supplier B,4.19,38
+4124,Denim,Black,Supplier C,18.49,13
+4125,Cotton,White,Supplier A,13.19,16
+4126,Polyester,Red,Supplier B,17.45,9
+4127,Nylon, Orange ,Supplier B,5.15,38
+4128,SPANDEX,Brown,Supplier A,4.98,37
+4129,Denim,white,Supplier C,3.97,25
+4130,Wool,Blue,Supplier C,21.4,6
+4131,Silk,Orange,supplier e,21.51,9
+4132,Denim,Brown,Supplier B,21.9,21
+4133,Denim,Green,Supplier B,10.94,44
+4134,DENIM,Orange,Supplier B,19.3,33
+4135,Rayon,Yellow, Supplier B ,12.71,33
+4136,Denim,White, Supplier A ,7.88,23
+4137,Silk,White,Supplier A,12.42,22
+4138,NYLON,Orange,Supplier C,24.26,36
+4139,?,Green,Supplier E,5.1,13
+4140,polyester,White,Supplier E,7.01,6
+4141, Spandex ,Green,Supplier C,24.33,20
+4142,Wool,Black, Supplier D ,8.75,24
+4143,cotton,Orange,Supplier D,15.63,40
+4144,rayon,Orange,Supplier C,9.66,28
+4145,Linen,Red,Supplier A,25.16,38
+4146,Denim,Grey, Supplier C ,21.04,26
+4147,,Brown,Supplier E,5.76,39
+4148,Wool,Red,Supplier A,2.73,5
+4149,Nylon,Purple,Supplier E,3.66,32
+4150,Denim,Green,Supplier A,21.44,42
+4151,Jersey,Purple,Supplier E,21.13,42
+4152,Rayon,Black,Supplier C,13.4,13
+4153,Rayon,Red,Supplier C,18.33,34
+4154,Polyester,Red,supplier a,4.28,28
+4155,Silk,Purple,Supplier B,13.47,41
+4156,Denim,Red,supplier b,6.37,38
+4157,Jersey,Orange,Supplier A,13.51,20
+4158,Cotton,Brown,Supplier A,20.6,28
+4159,Rayon,Red,Supplier A,12.93,27
+4160,Spandex,Black,SUPPLIER B,3.89,44
+4161,Linen,Brown,Supplier A,19.04,10
+4162,Nylon,GREEN,Supplier D,14.25,35
+4163,jersey,White,Supplier E,9.2,33
+4164, Cotton ,Brown,Supplier B,5.31,33
+4165,Cotton,Black,Supplier A,12.55,23
+4166,Polyester,Grey,Supplier E,5.04,28
+4167,,Blue,Supplier C,23.27,14
+4168,Spandex,Green,Supplier A,15.73,12
+4169,Rayon,Blue, Supplier E ,17.55,6
+4170,Cotton,Black,Supplier B,24.97,19
+4171,Jersey, Purple ,Supplier B,2.75,25
+4172,Wool,Green,Supplier A,16.44,14
+4173, Rayon ,Purple, Supplier A ,12.75,10
+4174,Linen,Red,Supplier B,5.62,18
+4175,Linen,Purple, Supplier C ,9.83,32
+4176,,Blue,Supplier B,4.36,30
+4177,Rayon,Green,SUPPLIER B,24.43,19
+4178,Spandex,White,Supplier B,15.66,8
+4179,Jersey,black,Supplier E,22.42,5
+4180,Polyester,Red,-,21.54,31
+4181,Spandex,Yellow,Supplier A,20.3,17
+4182,Silk,Black,Supplier C,5.97,22
+4183,,Grey,Supplier A,3.71,31
+4184,NULL,Purple,Supplier D,20.76,42
+4185,Wool,Brown,Supplier B,24.33,42
+4186,Rayon,Grey,Supplier A,4.88,31
+4187,,Orange,Supplier C,24.77,15
+4188,Denim,Grey,Supplier A,23.14,17
+4189,Jersey,Blue,Supplier D,17.41,16
+4190,Jersey,RED,Supplier E,11.56,6
+4191,,Blue,Supplier B,8.83,8
+4192,Polyester,?,Supplier D,2.59,44
+4193,Linen, Grey ,Supplier D,9.35,21
+4194,Rayon,Orange,Supplier C,13.85,38
+4195,Cotton,Blue,Supplier B,5.48,43
+4196,Linen,Blue,Supplier E,13.33,5
+4197,Denim,Green,Supplier A,19.84 units,13
+4198,Cotton,Grey,Supplier C,17.1,36
+4199,Rayon,Green,Supplier B,21.99,14
+4200,NULL,Green,Supplier E,5.08,17
+4201,Jersey,Green, Supplier A ,15.44,31
+4202,LINEN,Grey,Supplier C,20.67,9
+4203,Polyester, Grey ,Supplier A,9.93,20
+4204,Wool,Orange,Supplier B,21.74,6
+4205,Spandex,Yellow,Supplier E,7.93,34
+4206,Wool,Red,Supplier E,25.05,25
+4207,Linen,Green,Supplier C,18.13,20
+4208,Rayon,Brown,Supplier E,20.28,24
+4209, Nylon ,Blue,Supplier B,13.39,39
+4210,Spandex,Yellow,Supplier D,21.14,40
+4211,Spandex,yellow,supplier c,5.03,35
+4212,Linen,Orange,Supplier A,11.59,19
+4213,SILK,Yellow,supplier c,10.72,26
+4214,Linen,Grey,SUPPLIER D,4.25,24
+4215,spandex,Green,supplier b,20.92 pcs,37
+4216,Polyester,Brown,Supplier A,10.42,24
+4217,SILK,Grey,Supplier A,17.42,38
+4218,Silk,Yellow,Supplier A,15.82,14
+4219,Silk,Grey,Supplier B,9.18,31
+4220, Wool , Yellow ,Supplier E,13.97,14
+4221,Cotton,Green,Supplier D,14.42,42
+4222,,Green,Supplier A,5.55,34
+4223,,Brown,Supplier C,19.14,11
+4224,NULL,BLUE,Supplier A,11.71,27
+4225,Spandex,Orange,Supplier B,22.33,41
+4226,Nylon,YELLOW,Supplier E,20.25,45
+4227,Silk,Grey,Supplier D,5.78,6
+4228,,Purple,supplier d,24.91,40
+4229,SILK,Black,Supplier E,7.38,10
+4230,Rayon,Green,Supplier E,9.96,29
+4231,Rayon, White ,Supplier D,9.58,26
+4232,Rayon,Red,Supplier C,10.88,7
+4233,Denim,Black,Supplier D,19.28,16
+4234,Spandex,N/A,Supplier D,8.32,44
+4235,Polyester,Purple,Supplier D,20.94,11
+4236,Jersey,Brown,Supplier D,5.24,26
+4237,Wool,Black,Supplier C,19.44,19
+4238,Nylon,Red,Supplier D,16.93,6
+4239,Linen,Red,Supplier A,17.56,34
+4240,N/A,Blue,Supplier B,14.86,20
+4241,Spandex,Red,Supplier A,19.86,8
+4242,Nylon, White ,Supplier A,22.73,16
+4243,Rayon,Purple,Supplier C,10.38,37
+4244,Wool,Green,SUPPLIER A,11.31,23
+4245,Cotton,Green,Supplier E,5.79,17
+4246,,Grey,Supplier C,21.96,8
+4247,Polyester,Orange,Supplier A,16.35,24
+4248,Wool,White,supplier a,15.07,7
+4249,Linen,Yellow,Supplier A,8.49,20
+4250,Spandex, Grey ,Supplier C,22.9,34
+4251,Wool,Grey,Supplier D,23.99,18
+4252,?,Orange,Supplier A,13.51,21
+4253,Denim,Yellow,Supplier C,5.26 units,27
+4254,Jersey,brown,Supplier A,16.57,5
+4255,Jersey, Red ,Supplier A,17.85,11
+4256,Wool,Grey,Supplier E,8.18,5
+4257,Polyester,Grey,Supplier D,6.55,43
+4258,Spandex,Grey,Supplier B,17.8,15
+4259,Linen,Brown,Supplier D,9.18,14
+4260,NULL,White,Supplier B,4.9,25
+4261,,Blue,Supplier E,7.52,29
+4262,Denim,Black,Supplier C,12.16,9
+4263,Silk,Orange,Supplier B,15.99,40
+4264,Polyester,Grey, Supplier C ,9.23,24
+4265,Linen,Yellow,Supplier D,7.08,23
+4266,Cotton,Blue,Supplier D,13.03,8
+4267,wool,Red,Supplier D,10.83,6
+4268,Polyester,White,supplier a,13.34,12
+4269,Silk,WHITE,Supplier B,10.11,10
+4270,Jersey,purple,Supplier E,15.68,14
+4271,Nylon,Purple,Supplier E,22.46,37
+4272,Jersey,BLUE,Supplier E,6.51,42
+4273,Jersey,Orange,Supplier A,24.06,19
+4274,Spandex,Orange,SUPPLIER B,11.92,32
+4275, Cotton ,Blue, Supplier E ,11.96,26
+4276,jersey,Red,Supplier D,14.79,30
+4277,Cotton,Purple, Supplier D ,12.89,19
+4278,Rayon,Black,SUPPLIER D,24.2,31
+4279,cotton,Purple,Supplier C,13.02,15
+4280,spandex,Black,Supplier C,15.62,5
+4281,Nylon,BLUE,Supplier E,16,28
+4282,,Black,Supplier C,6.59,34
+4283,Polyester,Blue,Supplier A,5.37,29
+4284,Denim,Orange,Supplier A,10.41,7
+4285,Jersey,BLUE,supplier a,7.77,17
+4286,Linen,BROWN,supplier b,5.05,35
+4287,Jersey,Grey,Supplier A,4.45,35
+4288,Rayon,Purple,Supplier E,17.53,26
+4289,RAYON,Black,Supplier E,23.23,39
+4290,denim,Brown,Supplier D,4.89,9
+4291,Wool,BLACK,Supplier C,17.8,10
+4292,Denim,Grey,Supplier E,19.7,15
+4293,Cotton,Yellow,Supplier C,23.51,18
+4294,Wool,NULL,Supplier B,23.47,22
+4295,Spandex,Blue,Supplier A,10.1,6
+4296,Wool,Red,Supplier E,18.32,10
+4297,Linen, Orange ,-,8.12,11
+4298,Linen,White,supplier b,10.81,35
+4299,Cotton,Brown,Supplier C,12.13,33
+4300,,blue,Supplier E,13.64,11
+4301,Wool,Red,Supplier E,12.12,11
+4302,RAYON,Green,Supplier B,20.07,29
+4303,Nylon,Orange,Supplier C,23.79,17
+4304,Jersey,Red, Supplier C ,13.1,27
+4305,Linen, Yellow ,supplier a,4.92 pcs,19
+4306,Denim,White,Supplier E,7.92,11
+4307,Denim,Green,SUPPLIER A,22.41,10
+4308,Cotton,Brown,Supplier E,15.51,8
+4309,Linen, Yellow ,Supplier D,21.65,22
+4310,Silk,Green,supplier e,11.52,30
+4311,Wool,Purple,Supplier A,23.8,21
+4312,Jersey,White,Supplier E,17.39,42
+4313,Cotton,Purple,Supplier D,15.58,10
+4314,Silk,Green,Supplier E,10.51,31
+4315,Rayon,Purple,Supplier E,25.17,26
+4316,Silk,Brown,Supplier E,24.06,9
+4317,Wool,Black,supplier b,9.83,39
+4318,Wool,Grey,Supplier A,11.32,31
+4319,Cotton,Yellow,Supplier D,17.82,5
+4320,Denim,Blue,NULL,13.12,22
+4321,Jersey,red,Supplier B,20.29,33
+4322,Rayon,Grey,SUPPLIER A,7.59,41
+4323,Nylon,White,Supplier A,6.53,39
+4324,Cotton,Red,Supplier B,3.98,6
+4325, Silk ,Grey,Supplier C,22.41,16
+4326,Nylon,White,Supplier E,24.89,8
+4327,Spandex,Blue,Supplier A,21.62,45
+4328,Nylon,Black,Supplier B,17.59,28
+4329,Nylon,White,Supplier E,23.92,5
+4330,Polyester,Brown, Supplier E ,5.38,14
+4331,Rayon,Grey,Supplier B,20.16,44
+4332,Wool, Blue ,Supplier E,13.1,30
+4333,Spandex,Brown,Supplier B,10.02,41
+4334,Polyester,Brown,Supplier C,9.14,12
+4335,Nylon,Green,Supplier E,25.34,13
+4336,,Blue,supplier c,12.41,28
+4337,Cotton,Brown,Supplier E,24.75,19
+4338,Silk,Black,Supplier A,10.02,37
+4339,Linen,Black,Supplier E,15.42,32
+4340,Spandex,Orange,Supplier E,13.22,26
+4341,Nylon,Yellow,Supplier B,9.4,7
+4342,Jersey,Black,Supplier C,23.81,21
+4343,wool,Blue,Supplier E,21.94,45
+4344,Jersey,Grey,Supplier C,7.98,29
+4345,Rayon,Yellow,Supplier E,14.25,35
+4346,Spandex,Orange,Supplier E,23.78,20
+4347,Cotton,Purple,supplier e,13.32,19
+4348,Wool,Blue, Supplier A ,14.15,29
+4349,Denim,Blue,Supplier D,16.74,31
+4350,Nylon,White,Supplier B,2.5,7
+4351,Polyester,Grey,Supplier B,12.12,5
+4352,Rayon,Grey,Supplier E,13.54,5
+4353,Denim,Black,Supplier B,24.38,45
+4354,Silk,Red,SUPPLIER C,20.31,35
+4355,Jersey,Green,Supplier B,2.85,9
+4356,Cotton,-,Supplier D,23.23,20
+4357,Linen,Purple,Supplier A,5.36,26
+4358,Rayon,Green,Supplier A,9.09,25
+4359,Wool,Purple,Supplier A,12.31,41
+4360,Silk,Orange,supplier e,25.19,45
+4361,Polyester,Yellow,Supplier C,17.65,10
+4362,Polyester,Purple,SUPPLIER B,17.24,34
+4363,Polyester,Black,Supplier A,20.02,38
+4364,Polyester,Orange,Supplier A,17.69,44
+4365,Denim,Yellow, Supplier B ,9.97,13
+4366,Cotton,Orange,Supplier C,16.84,42
+4367,Cotton,Grey,Supplier A,19.31,42
+4368,Polyester,Yellow,Supplier C,22.22,42
+4369,Linen,Brown,Supplier D,25.46,13
+4370,Linen,Black,Supplier E,24.45,42
+4371,Rayon,-,Supplier E,15.05,31
+4372,Nylon,Red,Supplier D,10.3,25
+4373,Wool,Red,Supplier E,5.28,7
+4374,Nylon,White,Supplier B,25.22,14
+,,,,,
+4376,Polyester,Black,Supplier A,9.56,42
+4377,Spandex,Orange,Supplier B,8.6,37
+4378,Denim,Grey,Supplier C,19.73,37
+4379,Wool,Yellow,Supplier D,10.8,34
+4380,Cotton,YELLOW,Supplier A,18.43,24
+4381,Polyester, Grey ,Supplier D,19.7,6
+4382,Linen,yellow,Supplier B,22.22,35
+4383,Linen,Green,Supplier C,16.86,40
+4384,Linen,Orange,Supplier A,19.01,7
+4385,silk,Yellow,Supplier E,6.72,37
+4386,DENIM,Purple,Supplier A,4.42,41
+4387,Polyester,Purple,Supplier B,18.26,20
+4388,Spandex,White,Supplier C,15.05 pcs,42
+4389,,Orange,Supplier B,8.91,40
+4390,Silk,Grey,Supplier C,11.35,18
+4391,,Black,Supplier C,5.65,8
+4392,Cotton,Yellow,Supplier A,15.36,18
+4393,Nylon,Black,Supplier C,2.78,16
+4394,silk,Green,supplier d,4.06,28
+4395,DENIM,Green,Supplier E,12.89,8
+4396,NULL,Brown,Supplier E,15.57,15
+4397,WOOL,White,Supplier C,4.68,15
+4398,,Grey,Supplier D,12.37,33
+4399,Cotton,Purple,Supplier A,13.86,11
+4400,Linen,Black,supplier a,6.52,44
+4401,Cotton,Yellow,Supplier C,5.43,9
+4402,Wool,Grey,Supplier E,23,22
+4403,Silk,Red,SUPPLIER C,12.88,9
+4404,Denim,Yellow,supplier a,24.27,28
+4405,Jersey,White,Supplier D,18.4,28
+4406,Silk,Black,Supplier C,21.9,26
+4407,Cotton,Black,Supplier B,12.19,15
+4408,Wool,Grey,Supplier A,21.23,34
+4409,Linen,Black,Supplier C,6.25,11
+4410,Jersey,Purple,Supplier D,24.88,7
+4411,silk,Black,Supplier C,25.32,40
+4412,nylon,Brown,Supplier A,17.63,15
+4413, Silk ,Yellow,Supplier A,17.9,11
+4414,Rayon,Orange,Supplier D,7.93,37
+4415,Spandex,Blue,Supplier B,19.31,13
+4416,Polyester,Yellow,Supplier D,23.72,31
+4417,Cotton,Grey,Supplier C,15.03,26
+4418, Linen ,Grey,Supplier A,22.76,21
+4419,Rayon,White, Supplier E ,8.58,10
+4420,Denim,N/A,Supplier D,17.59,11
+4421,Polyester, Blue ,Supplier B,14.1,33
+4422,Rayon,Blue,Supplier D,7.69,27
+4423,,Purple,Supplier B,22.35,32
+4424,Denim,Yellow,Supplier E,10.37,21
+4425,Cotton,Grey,Supplier E,19.89,17
+4426,?,Orange, Supplier E ,16.26,40
+4427,Polyester,Red,Supplier B,13.94,20
+4428,Nylon,ORANGE,Supplier A,19.56,7
+4429,,White,Supplier B,23.26 units,24
+4430,Cotton,NULL,Supplier C,14.77,41
+4431,Wool,Purple,Supplier E,5.08,30
+4432,SILK,Red,Supplier B,6.61,17
+4433,Jersey,Blue,Supplier C,21.43,36
+4434,Silk,Brown,Supplier D,9.87,26
+4435,,Green,Supplier A,8.44,32
+4436,Wool,Blue,supplier e,22.61,6
+4437,,Purple,Supplier A,22.2,36
+4438,Denim,grey,Supplier B,24.21,18
+4439,Spandex,Yellow,Supplier B,15.34,43
+4440,Rayon,Purple,supplier b,4.04,15
+4441,,Black,Supplier A,24.43,26
+4442,Rayon,Brown,Supplier A,7.57,12
+4443,Rayon,Grey,N/A,6.18,42
+4444, Nylon ,Blue, Supplier D ,15.1,18
+4445,Wool,White,Supplier A,9.9,43
+4446,Spandex,Green,Supplier E,12.93,39
+4447,Polyester,GREY,Supplier B,17.93,6
+4448,Nylon,?,Supplier B,24.13,5
+4449,Rayon,Green,supplier b,14.08,42
+4450,Spandex,Green,supplier a,22.51,38
+4451,Denim,Grey,SUPPLIER E,18.29,28
+4452,Jersey,Orange,Supplier D,4.98,31
+4453,Cotton, Green ,?,23.19,31
+4454,Linen,Brown,Supplier E,19.95,32
+4455,Wool,Blue,supplier b,15.04,18
+4456,,Purple,SUPPLIER B,19.79,26
+4457,WOOL,Purple, Supplier B ,3.01,42
+4458,Spandex,Grey,?,8.9,40
+4459, Cotton ,Purple,Supplier A,21.02,42
+4460, Denim ,Purple,Supplier B,24,16
+4461,Jersey,Red,Supplier A,10.8,9
+4462,,Orange,Supplier B,5.43,31
+4463,Linen,Grey,Supplier E,8.61,28
+4464,Cotton,Green,Supplier E,17.06,9
+4465,Silk,Blue,Supplier D,8.54,33
+4466,Linen,Orange,Supplier D,16.89,23
+4467, Rayon ,Yellow,Supplier A,7.5,27
+4468,Polyester,Yellow,Supplier B,12.81,30
+4469,Nylon,Yellow,Supplier E,10.39,43
+4470,Jersey,Orange,Supplier B,22.9,13
+4471,NULL,Purple,Supplier D,7.92,21
+4472,Linen,Red,Supplier D,5.21,19
+4473,Cotton,Orange,Supplier A,16.62,35
+4474,Spandex,Purple,Supplier A,11.96,29
+4475,Polyester,Red,Supplier C,22.11,26
+4476,Wool,Green,Supplier A,24.04,33
+4477,Nylon,Blue,Supplier D,23.92,9
+4478,Wool,Grey,Supplier D,21.47,12
+4479,Linen,Orange, Supplier A ,25.08,25
+4480,NYLON,Red,Supplier A,22.4,28
+4481,Rayon,Red,Supplier B,19.79,20
+4482,Polyester,RED,Supplier B,6.52,9
+4483,,Green,Supplier B,23.64,44
+4484,Jersey,Purple,Supplier B,23.92,20
+4485,Cotton,Red,SUPPLIER B,21.13,15
+4486,,Orange,Supplier B,5.5,11
+4487,Jersey,Grey, Supplier E ,19.48,21
+4488,Denim,Brown,Supplier A,22.38,16
+4489,,Yellow,Supplier A,17.97,40
+4490,Rayon,Brown,Supplier B,13.02,15
+4491,Silk,Black,Supplier E,14.59 units,36
+4492,Spandex,White,SUPPLIER E,3.33,39
+4493,Silk,Brown,Supplier B,5.21,21
+4494,Nylon,Brown,Supplier A,11.48,25
+4495,Wool,GREY,Supplier C,8.77,18
+4496,Polyester,Orange,Supplier B,21.73,16
+4497,Polyester,Brown,Supplier D,7.5,17
+4498,COTTON,White,Supplier C,20.38,22
+4499,Nylon, Black ,Supplier E,17.41,37
+4500,,Black,Supplier A,17.04,40
+4501,Jersey,Yellow,Supplier C,19.0 units,6
+4502,Rayon,PURPLE,Supplier E,25.19,31
+4503,Cotton,Yellow,Supplier D,3.16,15
+4504,N/A,Green,SUPPLIER A,3.75,7
+4505,COTTON,Brown, Supplier B ,21.33,15
+4506,SPANDEX,Grey,Supplier D,14.27,26
+4507,Denim,Orange,Supplier C,9.07,8
+4508,Denim,Brown,Supplier C,23.72,28
+4509,Jersey,Blue,Supplier C,17.75,15
+4510,Silk,grey,Supplier B,24.25,38
+4511,Nylon,Yellow,Supplier C,8.35,44
+4512,Rayon,Orange,Supplier A,9.68,16
+4513,Jersey,Red,Supplier A,4.95,23
+4514,Rayon,Red, Supplier E ,12.65,6
+4515,-, Green ,Supplier C,5.01,44
+4516,Denim,Black,Supplier B,20.31,36
+4517,Polyester,BLACK,supplier c,24.43,39
+4518,Linen,Brown,Supplier E,2.71,19
+4519,Polyester,Yellow,Supplier C,21.45,14
+4520,Polyester,GREY,Supplier A,12.25,40
+4521,Denim,White,Supplier B,17.06,12
+4522,Jersey,Yellow,Supplier E,7.77,42
+4523,Silk,YELLOW,Supplier C,20.42,29
+4524,cotton, Orange ,Supplier B,12.37,31
+4525,Wool,Purple,Supplier D,24.71,45
+4526,Spandex,Brown,Supplier D,18.24,15
+4527,Jersey,Grey,Supplier E,23.19,38
+4528,Spandex,Grey,Supplier A,9.56,30
+4529,Spandex,Red,Supplier B,18.69,25
+4530,Polyester,Black,Supplier C,21.98,9
+4531,Polyester,Purple,Supplier C,7.9,9
+4532,POLYESTER,Brown,Supplier D,20.3,20
+4533,Wool, Green ,SUPPLIER C,23.66,32
+4534,Wool,Orange,Supplier A,5.28,5
+4535,Denim,Yellow,Supplier C,17.2,39
+4536,,Red,Supplier E,10.81,12
+4537,Cotton,Black,supplier a,11.73,12
+4538,SPANDEX,Purple,supplier a,8.2,34
+4539,Wool,Green,Supplier D,4.27,8
+4540,Cotton,Orange,Supplier B,5.99,35
+4541,Silk,Orange,Supplier A,11.57,45
+4542,Jersey,Blue,Supplier C,6.59,22
+4543,Polyester,Orange,Supplier A,10.24,45
+4544,Polyester, Orange ,Supplier B,7.59,6
+4545,Denim,Red,Supplier E,19.84,17
+4546,Spandex,Grey,Supplier B,4.03,23
+4547,SPANDEX,White,supplier c,8.81,14
+4548,Rayon,Green,SUPPLIER B,16.89,36
+4549,Cotton, Black ,Supplier B,2.83,18
+4550,Silk,Brown,Supplier C,18.61 pcs,37
+4551,Silk,Brown,Supplier D,22.6,10
+4552,Rayon,Red,Supplier B,9.84,36
+4553,nylon,Blue,Supplier B,8.24,16
+4554,Silk,White,Supplier A,16.78,22
+4555,?,Brown,Supplier A,8.93,8
+4556,Jersey,Black,Supplier A,19.23,45
+4557,Silk,Orange,SUPPLIER D,11.34,10
+4558,wool,Black,SUPPLIER A,18.47,35
+4559,Silk,blue,Supplier B,16.38,27
+4560,POLYESTER,Blue,Supplier A,5.94,21
+4561,Jersey,Orange,Supplier B,23.03,13
+4562,Linen,Purple,Supplier D,5.78,30
+4563,COTTON,-,Supplier C,17.68,18
+4564,Linen,Red,Supplier D,8.99,43
+4565,Nylon,Orange,Supplier E,4.21,14
+4566,Cotton,blue,Supplier B,5.88,44
+4567,Denim,Brown,Supplier C,9.45,6
+4568,Nylon,-,Supplier B,15.38,27
+4569,Spandex,Red,Supplier A,7.02,32
+4570,Nylon,White,Supplier B,5.26,16
+4571,,Blue,Supplier E,20.48,40
+4572,Denim,Brown,Supplier D,6.1,40
+4573,Cotton,Purple,Supplier B,5.16,32
+4574, Jersey ,Yellow,Supplier E,3.8,19
+4575,Jersey,Purple,Supplier C,21.94,30
+4576,Jersey,Red,supplier d,25.5,7
+4577,Linen,Brown, Supplier D ,7.5,12
+4578,Linen,Black,Supplier A,14.48,37
+4579,Polyester,White,Supplier D,16.74,30
+4580,Spandex, Brown ,Supplier A,3.47,12
+4581,Polyester,Grey,Supplier E,24.76,45
+4582,Linen,white,Supplier E,11.53,33
+4583,Wool,Yellow,Supplier A,13.64,28
+4584,wool,Purple,supplier d,23.98,41
+4585,Linen,Grey,supplier e,10.85,33
+4586,Polyester,black,Supplier E,6.81,12
+4587,Rayon,Orange,Supplier E,11.47,21
+4588,Linen,grey,Supplier E,5.69,43
+4589,,Brown, Supplier C ,19.47,22
+4590,Silk,Black,Supplier A,9.61,11
+4591,Rayon,Yellow,Supplier A,15.34,42
+4592,Linen,orange,Supplier C,3.54,42
+4593,SPANDEX, Black ,Supplier B,6.79,15
+4594,SPANDEX,Brown,SUPPLIER C,13.44,41
+4595,Polyester,N/A,Supplier E,19.97,31
+4596,Nylon,GREEN,SUPPLIER D,2.9,35
+4597,Silk,Orange,Supplier E,18.31,8
+4598,Jersey,Brown,supplier c,15.65,44
+4599,Polyester,Grey,Supplier E,21.34,41
+4600,Jersey,Black,Supplier D,12.85,8
+4601, Cotton ,Green,Supplier B,15.9,36
+4602,Linen,White,Supplier A,13.42,8
+4603,Jersey,BROWN,Supplier B,22.93,40
+4604,Spandex,White,Supplier D,18.57,20
+4605,Rayon,BLACK, Supplier B ,9.46,24
+4606,Denim,Brown,Supplier A,9.48,41
+4607,Wool,Grey,Supplier A,4.07,28
+4608,Denim, Purple ,Supplier A,16.41,31
+4609,Rayon,Purple,Supplier A,14.3,18
+4610,Rayon,Brown,Supplier D,23.85,17
+4611,Jersey,Blue,Supplier D,5.97,26
+4612,Polyester,Black,Supplier D,16.21 units,43
+4613,Jersey,-,Supplier D,21.7,22
+4614,Polyester,Orange,Supplier B,14.69,37
+4615,Polyester,Red,supplier c,13.16,21
+4616,Jersey,Grey,Supplier A,11.92,5
+4617,,Blue,Supplier A,6.07,12
+4618,Wool,Red, Supplier A ,20.53,10
+4619,Linen,black,Supplier C,16.59,32
+4620,Silk,Yellow,Supplier B,2.89,32
+4621,SPANDEX,Orange,Supplier E,22.71,8
+4622,,Green,Supplier D,18.09,28
+4623,Rayon,Grey,Supplier B,11.61,8
+4624,Wool,Blue,Supplier D,16.7,28
+4625, Cotton ,Red,Supplier B,12.71,30
+4626,Cotton,Black,supplier e,22.57,22
+4627,,Brown,Supplier D,6.95,9
+4628,Denim,Black,Supplier A,3.84,12
+4629, Jersey ,Purple,Supplier C,17.74,20
+4630,Spandex,blue,Supplier D,7.11,23
+4631,Denim,Yellow,supplier d,20.81,34
+4632,Spandex,White,Supplier B,23.29,12
+4633,Silk,Grey,Supplier B,9.17,24
+4634,Spandex,NULL,Supplier D,11.26,15
+4635,Linen,Yellow,Supplier A,5.78,39
+4636,Silk,Green,Supplier C,25.2,37
+4637,,Black,Supplier C,22.13,35
+4638,spandex,Green,Supplier A,20.78,24
+4639,spandex,Green,Supplier E,4.72,33
+4640,Jersey,Yellow,supplier e,23.82,8
+4641,Rayon,Red,Supplier B,16.97,9
+4642,Wool,Purple,Supplier B,7.94,34
+4643,Linen,Orange,Supplier E,23.69,5
+4644,Linen,-,Supplier D,18.74,40
+4645,Wool,Blue,Supplier C,19.76,6
+,,,,,
+4647,Wool,Purple,Supplier D,17.89,11
+4648,Cotton,BLUE,Supplier B,21.24,31
+4649,Silk,Purple,Supplier C,21.12,28
+4650,Denim,Brown,Supplier C,10.9,27
+4651,,Yellow,Supplier C,2.74,44
+4652,Wool,Orange,Supplier D,6.36,33
+4653,Wool,-,Supplier E,16.12,34
+4654,,Red,Supplier B,8.24,6
+4655,Rayon,purple,Supplier E,22.66,39
+4656,SILK,Brown,Supplier A,8.69,31
+4657,Wool,Blue, Supplier A ,23.52,19
+4658,LINEN,Red,Supplier A,20.82,20
+4659,Rayon,Grey,-,16.12,32
+4660,Polyester,Yellow,supplier b,23.25 units,10
+4661,Rayon,Red,Supplier C,12.15,8
+4662,Wool,White,Supplier D,19.82,21
+4663,Jersey, Brown ,Supplier A,24.38,18
+4664,Polyester, Yellow , Supplier A ,17.04,40
+4665,,Orange,Supplier C,19.98,30
+4666,Polyester,White, Supplier C ,19.47,44
+4667,Silk,Purple,Supplier B,10,8
+4668,Polyester, Grey , Supplier E ,18.97,33
+4669,Jersey,Green, Supplier A ,10.2,44
+4670,Cotton,Orange,Supplier D,18.9,23
+4671,NULL,Brown,Supplier E,18.81,8
+4672,LINEN,N/A,Supplier C,20.39,37
+4673,Polyester,Purple,Supplier A,16.55,23
+4674, Linen ,WHITE,Supplier A,3.91,43
+4675,Silk, Black ,Supplier D,25.42,8
+4676,Rayon,Purple,Supplier A,6.76,38
+4677,Denim,Orange,supplier e,17.55,36
+4678,Denim,Grey,Supplier E,9.18,31
+4679,Polyester,Grey,Supplier C,11.04,25
+4680,Cotton,Yellow,Supplier C,23.71,12
+4681,Polyester,Blue,Supplier C,7.27,6
+4682,Denim,Orange,Supplier E,20.18,31
+4683,Nylon,orange,Supplier E,12.33,41
+4684,Polyester,Orange,Supplier A,8.51,20
+4685, Cotton ,White,Supplier E,24.68,35
+4686,Polyester,blue,Supplier C,10.7,45
+4687,,Grey,Supplier C,16.59,6
+4688,JERSEY,White, Supplier B ,23.68,6
+4689,Denim,Black,Supplier E,20.18,20
+4690,Linen,Black,Supplier E,8.49 pcs,21
+4691,Rayon,Yellow,Supplier D,7.84,28
+4692,Rayon,Red,Supplier D,12.47,33
+4693,Wool,Orange,Supplier E,7.57,38
+4694,,Brown,SUPPLIER E,21.73,6
+4695,Nylon,Black,supplier d,3.71,19
+4696,,Grey,Supplier B,21.34,10
+4697,Linen,Black,Supplier B,14.77,44
+4698,Silk,Blue,Supplier A,12.32,9
+4699,Linen,Grey,Supplier B,23.95,15
+,,,,,
+4701,,GREEN,Supplier A,19.11,24
+4702,Nylon,brown,Supplier A,19.45,37
+4703,Cotton,Brown,Supplier C,21.67,34
+4704,Polyester,Purple,Supplier E,2.64,36
+4705,Spandex, Red ,supplier d,4.92,38
+4706,Silk,Blue,Supplier B,6.75,9
+4707,Nylon,Green,Supplier C,16.14,27
+4708,Denim,Grey,Supplier E,14.68,18
+4709,Cotton,Blue,Supplier E,8.26 pcs,30
+4710,Polyester, Yellow , Supplier B ,4.6,21
+4711, Polyester ,Red,Supplier A,6.43,44
+4712,Rayon,Brown,Supplier A,13.21,19
+4713,WOOL,Orange,Supplier E,18.47 pcs,35
+4714,jersey,Green,Supplier D,6.43,24
+4715,Linen,Black,Supplier B,7.36,32
+4716,NYLON,ORANGE,Supplier A,8.06 pcs,26
+4717,Nylon,Brown, Supplier D ,4.78,36
+4718,Spandex,Red,Supplier E,10.42,26
+4719,spandex,Brown,Supplier E,8.18,12
+4720,Wool,Red, Supplier C ,5.68,25
+4721,Cotton,Yellow, Supplier D ,9.57,18
+4722,Jersey,Yellow,Supplier A,20.98,9
+4723,Rayon,Black,Supplier D,6.42,43
+4724,silk,Black,Supplier E,11.5,17
+4725,Wool,Green,Supplier A,15.65,10
+4726,Denim,Red,Supplier C,22.21,16
+4727,Nylon,Green,Supplier D,6.92,10
+4728,Polyester,Blue,Supplier E,3.27,15
+4729, Spandex ,Yellow,Supplier D,21.69,43
+4730,Silk,Blue,Supplier C,22.75,32
+4731,Cotton,Purple,Supplier B,20.7,34
+4732,Rayon,Yellow,Supplier E,25,20
+4733,cotton,YELLOW, Supplier A ,22.89,10
+4734,Spandex,black,Supplier D,18.89,15
+4735,Wool,Yellow,Supplier C,17.43,14
+4736,Linen,White,Supplier C,6.86,13
+4737,Linen,Red,Supplier B,17.97,18
+4738,Cotton,Red,Supplier A,8.79 units,18
+4739,Jersey,Green,Supplier E,4.14,14
+4740,,Green,Supplier A,8.61,39
+4741,Rayon,Green,Supplier E,21.32,26
+4742,,Green,Supplier D,10.54,29
+4743, Jersey ,White,Supplier A,24.7,6
+4744,Polyester,Red,Supplier D,5.88,26
+4745,Polyester,Grey,Supplier B,17.94,21
+4746,Rayon,White,Supplier E,9.91,30
+4747,Rayon,RED,Supplier B,17.78,36
+4748,Linen,Red,Supplier E,11.89,14
+4749,nylon,Brown,Supplier C,25.28,24
+4750,Wool,Brown,Supplier C,7.63,7
+4751,Polyester,Yellow, Supplier E ,13.12,22
+4752,Silk,Blue,Supplier E,19.49,40
+4753,Silk,Red,Supplier E,16.47,24
+4754,polyester,Yellow,Supplier D,8.91,6
+4755,Jersey,Red,Supplier E,17.77,14
+4756,Jersey,Black,Supplier C,5.52,36
+4757,Silk,green,Supplier B,14.1,9
+4758,WOOL,Brown,Supplier E,7.88,36
+4759,Denim,Red,Supplier C,7.25,11
+4760,Nylon,Yellow,Supplier E,16.3,35
+4761,,Grey,Supplier C,14.2,26
+4762,Silk,Purple,Supplier C,16.2,41
+4763,Jersey,Blue,Supplier E,14.65,45
+4764,Wool,Orange,Supplier C,23.65,42
+4765,silk,Grey,Supplier A,10.9,17
+4766, Cotton ,Yellow,Supplier C,22.33,30
+4767,Polyester,Purple,Supplier B,19.76,37
+4768,Rayon,grey,Supplier C,14.96,7
+4769,,Black,Supplier C,19.19,6
+4770,Polyester, Red , Supplier D ,5.47,37
+4771,Cotton,White,Supplier A,5.81,28
+4772,Wool,Brown,Supplier D,2.51 pcs,15
+4773,spandex,GREY,Supplier C,10.23,30
+4774,Rayon,Blue,Supplier B,11.1,13
+4775,Wool,Red,Supplier B,12.87,39
+4776,Cotton,Red,SUPPLIER E,17.89,22
+4777,Cotton,Red,Supplier B,10.88,12
+4778,Jersey,Black,Supplier C,19.69,36
+4779,Jersey,purple,Supplier E,6.06,42
+4780,Polyester,?,Supplier C,11.45,30
+4781,Polyester,Grey,Supplier E,5.62,33
+4782,Denim,White,Supplier C,14.45,24
+4783,Rayon,Black,Supplier C,12.61,25
+4784,Silk,White,Supplier A,12,39
+4785, Wool ,Purple,Supplier B,17.59,38
+4786,Silk,White,supplier c,2.7,36
+4787,Denim,White,Supplier B,6.08,5
+4788,Cotton,Purple,Supplier E,21.82,21
+4789,Polyester,Black,Supplier D,17.44,31
+4790,Spandex, Yellow ,Supplier B,16.5 pcs,25
+4791,Polyester,Black,Supplier B,19.57,43
+4792,Silk,Green,Supplier A,19.52 units,35
+4793,Polyester,Red,supplier c,24.89,18
+4794,Polyester,orange,Supplier D,17.83,6
+4795,Jersey,RED,Supplier D,14.3,17
+4796,Silk,Red,Supplier B,5.31,7
+4797,COTTON,Grey,Supplier C,7.03,45
+,,,,,
+4799,Denim,Brown,supplier b,7.8,10
+4800,Linen,Blue,Supplier A,10.85,29
+4801,Jersey,Blue,Supplier D,15.15,39
+4802,Polyester,Orange,Supplier B,11.08,12
+4803,Nylon,Black,Supplier E,7.5,8
+,,,,,
+4805,Jersey,Red,Supplier C,8.46 pcs,25
+4806,Nylon,Purple,Supplier B,4.76,45
+4807,Nylon,Green,Supplier E,20.4,37
+4808,Polyester,Green,Supplier B,11.08,23
+4809,Silk,NULL,Supplier E,11.15,12
+4810,Linen,Red,NULL,4.13,26
+4811,Silk,Brown,Supplier A,24.62,27
+4812, Jersey ,Purple,SUPPLIER B,6.27,11
+4813, Nylon ,Red,Supplier E,16.3,26
+4814,JERSEY, Blue ,Supplier A,19.62,19
+4815,Cotton,Black,Supplier B,13.84,41
+4816,cotton,Purple,Supplier B,20.7,37
+4817,Wool,ORANGE,Supplier E,11.19,5
+4818,Nylon,Brown, Supplier E ,23.73,8
+4819,Jersey,Blue,Supplier E,23.48,42
+4820,Cotton,Green,Supplier D,22.54,8
+4821,,Red,Supplier C,9.93 pcs,7
+4822,Polyester,ORANGE,supplier d,3.14,27
+4823,Linen,Yellow,Supplier B,10.65,23
+4824,Linen,PURPLE,Supplier C,11.07,21
+4825,Wool,Green,Supplier C,15.55,22
+4826,Rayon,Yellow,Supplier E,10.28,33
+4827,Linen,Red,Supplier A,24.71 units,12
+4828,Denim, Grey ,SUPPLIER A,4.02,25
+4829,Denim,BLACK,Supplier B,20.31,12
+4830,Silk,black,Supplier A,4.6,25
+4831,POLYESTER,White,Supplier B,21.44,6
+4832,Jersey,Brown, Supplier A ,17.93,13
+4833,Denim, Grey ,Supplier B,5.46,15
+4834,Wool,Green,Supplier E,13.27,31
+,,,,,
+4836,POLYESTER,White,Supplier A,18.82,28
+4837,NYLON,Purple,Supplier B,16.6,30
+4838,Wool,Brown,Supplier D,4.51,24
+4839,Denim,Red,Supplier D,21.92,42
+4840,Nylon,Yellow,Supplier D,2.93,45
+4841,Nylon,Blue,Supplier C,7.34,8
+4842,Wool,Grey,Supplier A,24.98,31
+4843,Polyester,Grey,Supplier B,13.07,27
+4844,Nylon,Yellow,Supplier B,17.34,35
+4845,Wool,Purple,SUPPLIER C,19.46,6
+4846,Silk,White,Supplier A,11.09,44
+4847,Denim,Black,Supplier C,5.66,40
+4848,Denim,Green,SUPPLIER B,18,19
+4849,Denim,Grey,Supplier D,23.72,36
+4850,Spandex,Brown,Supplier D,3.69,41
+4851,Nylon,Yellow,Supplier E,11.08,37
+4852,Polyester,brown,Supplier C,18.01 pcs,44
+4853,Polyester,Yellow,Supplier C,21.32,42
+4854,Rayon,Green,Supplier B,12.42,5
+4855,Nylon,White,Supplier A,11.28,25
+4856,Silk,Purple,Supplier B,9.14,44
+4857,Wool,Black,?,23.37,41
+4858,Cotton,White,Supplier D,11.92,8
+4859,Denim,Green,Supplier D,19.39,13
+4860,Silk,Green,Supplier A,11.58,6
+4861,Polyester,Purple,Supplier A,11.66,41
+4862,Denim,blue,Supplier A,8.6,6
+4863,Rayon,Purple,Supplier B,14.53,19
+4864,Wool,Brown,Supplier E,6.98,31
+4865,Jersey,BLACK,Supplier B,14.1,36
+4866,Spandex,Purple,Supplier C,23.92,16
+4867,JERSEY,Purple,supplier c,5.66,24
+4868,Polyester,Orange,Supplier E,8.64,43
+4869,Linen,White, Supplier E ,9.26,25
+4870,Nylon,Yellow,Supplier C,15.45,8
+4871,Wool,Blue,Supplier A,4.31,40
+4872,Rayon,Brown,NULL,10.58,44
+4873,Rayon,Orange,Supplier D,24.78,28
+4874,Spandex,Black,Supplier D,19,17
+4875,,white,Supplier E,25.17,7
+4876,Rayon,Purple,Supplier C,3.88,14
+4877,Cotton,Purple, Supplier B ,20,42
+4878,Nylon,Grey,SUPPLIER E,5.73,26
+4879,Denim,White,Supplier A,21.82,14
+4880,Nylon, White ,Supplier A,11.19,36
+4881,Jersey,Blue,Supplier D,17.79,35
+4882,Silk,GREY, Supplier D ,16.01,17
+4883,Jersey, White ,Supplier B,11.46,43
+4884,Silk, White ,Supplier B,6.5,18
+4885,Wool,Black,Supplier C,12.7 pcs,42
+4886,Silk,Green,Supplier E,18.66,28
+4887,Cotton,Grey,Supplier E,10.74,22
+4888,Cotton,Brown,SUPPLIER C,4.44,16
+,,,,,
+4890,Wool,Black,Supplier A,14.15,23
+4891,wool,Purple,Supplier A,10.15,35
+4892,Cotton,Orange,Supplier E,10.79 units,8
+4893,Spandex,Purple,Supplier E,9.86,36
+4894,Silk,Black,Supplier C,23.27,9
+4895,Denim,Green,Supplier A,24,12
+4896,Spandex,Red,Supplier A,3.55,11
+4897,-,Purple, Supplier C ,16.78,6
+4898,Nylon,black,Supplier D,17.91,12
+4899,Silk,Orange,Supplier B,19.62,44
+4900,POLYESTER,-,Supplier A,5.92,37
+4901,Denim,blue,Supplier A,14.26,45
+4902,Polyester,Purple,Supplier C,17.54,7
+4903,Cotton,White,supplier e,18.77,30
+4904,Polyester,Green,Supplier E,19.43,13
+4905,Linen,Green,Supplier A,23.74,21
+4906,,Grey,Supplier D,22.84,10
+4907,COTTON,White,Supplier A,21.09,28
+4908,Jersey,Green,Supplier A,14.81,11
+4909,Spandex,Grey, Supplier A ,12.85,39
+4910,Linen,Red,Supplier E,15.42,20
+4911,Polyester,Red,Supplier B,5.2,27
+4912,Polyester,Purple,Supplier A,15.52,13
+4913,POLYESTER,Grey,Supplier C,3.48,24
+4914,,BLACK,Supplier D,2.79,35
+4915,Spandex,Purple,Supplier A,21.65,33
+4916,Silk,PURPLE,Supplier D,17.78,32
+4917,Polyester,Brown,Supplier B,16.7,18
+4918,Spandex,Red,SUPPLIER A,3.64,6
+4919,Rayon,Black,supplier d,14.75,25
+4920,Jersey,Brown, Supplier D ,20.34,21
+4921,Cotton,Yellow,Supplier D,7.35,31
+4922,Jersey,Purple,supplier b,5.48,18
+4923,Denim,Grey,supplier e,8.27,26
+4924,Rayon,Red, Supplier C ,16.28,7
+4925,NYLON,Green,supplier d,19.4,43
+4926,Linen,Green,Supplier E,5.73,24
+4927,Cotton,Green,Supplier C,13.06,44
+4928,Denim,Yellow,supplier a,19.95,39
+4929,Spandex,Yellow,Supplier C,23.31,39
+4930,-,Yellow,Supplier B,8.87,15
+4931,Polyester,Blue,Supplier A,24.87,28
+4932,Wool,GREEN,SUPPLIER B,23.52,20
+4933,Denim,Grey,SUPPLIER E,19.38,43
+4934,Silk,White,Supplier C,18.41,31
+4935,jersey,Brown,Supplier D,21.08,21
+4936,Silk,purple, Supplier A ,13.62,43
+4937,Spandex,Orange,Supplier D,6.97,6
+4938,Cotton,Brown,Supplier A,25.18,14
+4939,Nylon,Black,N/A,5.63,18
+4940,NULL,PURPLE,Supplier A,17.81,10
+4941,Linen,Orange, Supplier B ,13.95,16
+4942,Cotton,Red,Supplier B,4.84,12
+4943,Wool,Purple,Supplier E,24.12,38
+4944,Nylon,White,Supplier E,18.74,37
+4945,Linen,Blue,Supplier C,13.19,24
+4946,Polyester,Purple,Supplier C,13.75,37
+4947,Polyester,Grey,Supplier B,23.34,22
+4948,Denim,Yellow,Supplier C,8.17,32
+4949,Rayon,Red,Supplier C,25.21 pcs,16
+4950,Jersey,Blue,Supplier B,18.69,6
+4951, Denim ,Brown,supplier b,23.44,26
+4952,Jersey,Red,Supplier D,19.66,30
+4953,Spandex,Orange, Supplier B ,5.1,36
+4954,Spandex,blue,Supplier B,19.47,44
+4955,,Green,Supplier D,16.43,24
+4956,Wool,Yellow,Supplier E,16.53,38
+4957,,Green,Supplier A,15.09,38
+4958,Cotton,Black,Supplier A,12.42,20
+4959,,Brown,supplier e,14.91,34
+4960,Denim,Yellow,SUPPLIER B,13.87,42
+4961,Denim, White ,Supplier A,21.82,22
+4962,Cotton,Blue, Supplier C ,12.13,19
+4963,Silk,Purple,SUPPLIER D,17.3,23
+4964,Linen,Black,Supplier A,17.81,36
+4965,Linen,Blue,Supplier A,9.64,40
+4966,Nylon,Green,Supplier A,23.26,18
+4967,,Brown,Supplier B,19.4,15
+4968,,Purple,Supplier A,12.11,43
+4969,Polyester,black,Supplier B,3.23,11
+4970,SILK,Grey,Supplier E,19.29,12
+4971,wool,Green,Supplier C,15.74,22
+4972,Wool,Orange,Supplier D,7.03,6
+4973,Rayon,Blue,Supplier E,4.16,10
+4974,JERSEY,RED,Supplier C,19.71,9
+4975,,Purple,Supplier C,3.18,37
+4976,Nylon,White,Supplier C,9.49,39
+4977,Nylon,Purple,supplier d,17.82,40
+4978,Spandex,ORANGE,Supplier D,22.92,18
+4979,spandex,Black,Supplier D,6.4,8
+4980,Silk,Brown,Supplier A,10.04,35
+4981,Linen,Yellow,supplier a,6.81,24
+4982,JERSEY,Grey,Supplier B,7.55,33
+4983,,BROWN,Supplier A,23.36,12
+4984,Linen,Red,SUPPLIER A,20.93,35
+4985,WOOL,White,Supplier C,8.9,26
+4986,Spandex,Grey, Supplier D ,3.79,26
+4987,Denim,Yellow,Supplier B,21.3,21
+4988,Spandex,Green,Supplier B,7.03,13
+4989,,Black,SUPPLIER B,6,8
+4990,Rayon,green,Supplier D,17.19,27
+4991,Nylon,Green,Supplier A,24.29,19
+4992,Cotton,White,Supplier A,6.69,15
+4993,Cotton,Black,Supplier E,17.78,44
+4994,Linen,Orange,Supplier B,4.33,34
+4995,Spandex,Grey,Supplier C,12.87,13
+4996,Rayon,Red, Supplier D ,6.96,41
+4997,Cotton, Green ,Supplier B,19.74,34
+4998,DENIM,Blue,Supplier D,25.35,16
+4999,Polyester,Blue,supplier e,14.64,31
+5000,wool,Blue,Supplier E,5.01,43
+5001,Rayon,Red,supplier d,6.66,18
+5002,Spandex,Blue,Supplier E,8.72,33
+5003,Polyester,Blue,Supplier A,22.53,7
+5004,Denim,Red,supplier d,16.93,16
+5005,Rayon,Green,supplier e,9.9,10
+5006,Denim,Red,Supplier E,4.61,5
+5007,Spandex,Red,Supplier E,6.66,35
+5008,Nylon,Brown,Supplier B,4.12,27
+5009,Nylon,White,Supplier E,10.24,30
+5010,Denim,Yellow,Supplier D,9.29,24
+5011,Linen,White,Supplier A,19.94,14
+5012,Polyester,Blue,Supplier E,18.93,37
+5013,Nylon,Yellow, Supplier E ,12.35,37
+5014,Nylon,green,Supplier B,15.42,14
+5015,jersey,Yellow, Supplier C ,15.86,6
+5016,SPANDEX,Red,Supplier A,6.63,41
+5017,Linen,Black,Supplier A,6.4,33
+5018,Denim,Purple,Supplier C,3.57,17
+5019,,Black,Supplier E,22.45,7
+5020,NULL,Red,Supplier C,4.6,29
+5021,LINEN, Brown ,Supplier E,9.55,41
+5022,Cotton,Black,Supplier C,5.94,39
+5023,Denim,White,Supplier B,5.4,29
+5024,Rayon, White ,Supplier C,10.8,42
+5025,Silk,White,Supplier C,8.14,45
+5026,Silk,Orange,Supplier C,17.12,14
+5027,,Red,Supplier C,22.24,16
+5028,Nylon,Red, Supplier C ,20.03,35
+5029,Wool,BLACK,Supplier B,20.25,13
+5030,Cotton,Brown,Supplier D,15.15,35
+5031,Polyester,Orange,Supplier C,5.84,36
+5032,Nylon,PURPLE,SUPPLIER D,14.22,24
+5033,Polyester,Orange,supplier c,17.47,39
+5034,Nylon,N/A,Supplier D,22.25,34
+5035,,Brown,Supplier D,3.48,29
+5036,Silk,WHITE,Supplier A,8.19,14
+5037,Silk,Black,Supplier D,24.2,30
+5038,Wool,Orange,supplier a,18.44,28
+5039,Silk,Yellow,Supplier E,10.96,18
+5040,Cotton,BROWN,Supplier C,17.19,24
+5041,Nylon,Green,Supplier B,25.38,37
+5042,Rayon,White,Supplier C,15.91,35
+5043,Spandex,Grey,Supplier D,19.6,32
+5044,WOOL,Brown,Supplier A,12.37,36
+5045,Denim,Grey,N/A,9.45,6
+5046,Spandex,Orange,Supplier B,18.93,21
+5047,Jersey,Black,Supplier D,20.89,29
+5048,,Green,Supplier B,18.38,12
+5049,WOOL,Yellow,Supplier A,4.29,32
+5050,Cotton,Brown,Supplier A,7.74,13
+5051,Cotton,Yellow, Supplier D ,23.01,31
+5052, Cotton ,Grey,Supplier B,21.13,8
+5053,Wool,Orange,Supplier B,15.83,26
+5054,Spandex, Blue ,SUPPLIER D,21.09,43
+5055,Polyester,Brown,Supplier A,14.12,22
+5056,Cotton,Yellow,Supplier A,25.28,38
+5057,Spandex,Blue,Supplier B,20.15,8
+5058,SILK,Grey,Supplier A,17.31,22
+5059,Rayon,Yellow,supplier d,25.16,11
+5060,Jersey,Purple,SUPPLIER C,16.89,38
+5061,Cotton,Green,Supplier B,24.93,29
+5062,Cotton,Grey,Supplier E,13.08,36
+5063,Denim, Brown ,Supplier A,19.35,34
+5064,Denim,Purple,Supplier D,18.95,42
+5065,Polyester,Blue,Supplier B,9.1,7
+5066,Rayon,Red,Supplier C,8.15,31
+5067,Polyester,Grey,Supplier C,7.73,32
+5068,Wool,Green,Supplier A,16.68,32
+5069,Spandex,Purple,Supplier C,18.27,38
+5070,Linen,Grey,Supplier A,6.33,7
+5071,Denim,Orange,Supplier E,5.71,22
+5072,Rayon,Blue,Supplier C,3.57,18
+5073,Linen,Red,SUPPLIER A,16.73,23
+5074,wool,Grey, Supplier B ,23.19,10
+5075,Silk,Black,Supplier B,9.39,43
+5076,Polyester,Black,Supplier E,24.62,26
+5077,Wool,Orange,Supplier E,23.13,23
+5078,Silk,Green,Supplier B,15.01,15
+5079,Denim,Black,Supplier D,22.6,44
+5080,Silk,Blue,Supplier A,24.43,22
+5081,Wool,Red,Supplier A,19.97,5
+5082, Polyester ,Brown,SUPPLIER E,4.12,14
+5083,Rayon,Green,Supplier E,6.8,8
+5084, Jersey ,Red,Supplier B,15.89,34
+5085, Cotton ,White,Supplier E,5.75,11
+5086,Denim,Blue,Supplier E,17.93,41
+5087,-,Purple,SUPPLIER A,12.63,39
+5088,Denim,Blue,Supplier B,2.97,31
+5089, Nylon ,Red,Supplier A,16.68,18
+5090,RAYON,Black,Supplier C,8.44,25
+5091,WOOL,Red,Supplier B,12.28,6
+5092,Nylon,Red,Supplier E,23.94,36
+5093,Cotton,Green,Supplier D,7.93,25
+5094, Silk ,Yellow,SUPPLIER B,15.71,11
+5095,Polyester,Orange,SUPPLIER E,22.84,35
+5096,Nylon,Grey, Supplier B ,21.88,5
+5097,Polyester, Purple ,Supplier A,9.62,30
+5098,Rayon,Red,Supplier D,3.1,14
+5099,,Brown,Supplier C,12.15,37
+5100,Linen,White,Supplier D,3.49,13
+5101,,Brown,SUPPLIER D,15.95,41
+5102,SILK,Red,Supplier D,13.62,37
+5103,Denim,Black,Supplier B,16.15,43
+5104,RAYON,Green,Supplier D,18.77,6
+5105,Jersey,Green,supplier e,18.79,20
+5106,JERSEY,purple,Supplier E,16.56,11
+5107,Linen,Black,Supplier C,4.92,24
+5108,Rayon,PURPLE,Supplier A,19.56,23
+5109,JERSEY,Yellow,Supplier A,17.67,31
+5110,,Black,supplier e,8.29,33
+5111,Linen,Orange,Supplier A,9.02,18
+5112,Rayon,Purple,Supplier A,17.38,10
+5113,Cotton,Black,Supplier B,8.41,9
+5114,nylon,Red,Supplier E,10.34,7
+5115,Denim,Orange,Supplier B,10.93,8
+5116,Linen,Orange,Supplier B,6.42,21
+5117,Silk,Purple,Supplier A,11.05,32
+5118,,Grey,SUPPLIER B,10.36 units,21
+5119,Polyester,White,Supplier D,4.98,39
+5120,cotton,ORANGE,SUPPLIER D,17.31,17
+5121,Spandex,Purple,SUPPLIER C,12.11,29
+5122,Denim,black,SUPPLIER C,21.22,32
+5123,Jersey,Black,Supplier A,15.87,32
+5124,,Red,supplier e,20.92,29
+5125,Jersey,yellow,Supplier C,15.88,32
+5126,,Brown,Supplier A,8.62,41
+5127,, Blue ,Supplier B,21.86,17
+5128,Linen,Orange,Supplier B,17.59,29
+5129,Silk,White,Supplier B,3.23,25
+5130,Silk,Red,Supplier C,9.11,25
+5131,Denim,Brown,Supplier E,22.91,37
+5132,Jersey,Blue,Supplier D,25.34,27
+5133, Polyester ,Orange,Supplier E,21.88,29
+5134, Wool , Brown ,NULL,19.47,26
+5135,Jersey,Red,Supplier A,16.27,9
+5136,Wool,Black,Supplier B,7.35,5
+5137, Silk ,black,Supplier C,20.73,45
+5138,Wool,Brown,Supplier A,5.88,28
+5139,Denim,Grey,Supplier A,9.45,30
+5140,,Green,Supplier C,5,24
+5141,Nylon,Red,Supplier A,18.6,44
+5142, Spandex ,Yellow,Supplier E,12.99,37
+5143, Wool ,Grey,Supplier E,25.31,19
+5144,Nylon, Black ,Supplier A,8.32,8
+5145,Silk,Orange,Supplier D,7.08,16
+5146,Rayon,BLUE,SUPPLIER B,20.18,39
+5147,Linen,Orange,Supplier A,23.45,40
+5148,Nylon,Yellow,Supplier D,14.73,36
+5149,Wool,Orange,Supplier B,24.9,16
+5150,Rayon,Green,Supplier A,24.77,31
+5151,Rayon,Yellow,Supplier C,6.06,41
+5152,Rayon,Brown,Supplier D,24.27,30
+5153,Linen,Red,Supplier D,22.96,28
+5154,Nylon,Orange,Supplier D,21.95,8
+5155,Cotton,GREEN,Supplier D,7.28,11
+5156,Polyester,Green,Supplier C,9.69,26
+5157,LINEN,White,Supplier A,6.67,10
+5158,Linen,Orange,Supplier E,20.67,33
+5159,Nylon, White ,SUPPLIER E,6.24,7
+5160,NYLON,Black,Supplier D,15.81,16
+5161,Nylon,Purple,Supplier A,20.62,38
+5162,JERSEY,Black,SUPPLIER E,18.83,8
+5163,Spandex,Blue,Supplier D,14.56,27
+5164,Jersey,red,Supplier B,3.2,6
+5165,Jersey,Brown,Supplier A,23.7,31
+5166,cotton,Blue,-,18.11,12
+5167,DENIM,Purple,supplier e,8.4,12
+5168,Linen,Grey,Supplier E,7.18,44
+5169,Jersey,White,Supplier A,10.48,29
+5170,SPANDEX,Orange,Supplier E,9.34,31
+5171,Denim,black,Supplier B,9.54,29
+5172,nylon,Purple,Supplier A,3.78 pcs,15
+5173,Jersey,White,Supplier D,8.71,9
+5174,Wool,Grey,Supplier D,24.67,31
+5175,,Blue,supplier d,14.78,27
+5176,Nylon,Black,supplier a,10.09,13
+5177,cotton,White,Supplier B,25.35,45
+5178,Silk,Blue,Supplier D,7.37,23
+5179,Spandex,Brown,Supplier A,6.96,5
+5180,,Brown,SUPPLIER A,20.55,25
+5181,,Black,Supplier C,7.9,8
+5182,Rayon,Purple,Supplier A,5.4,42
+5183,Jersey,Brown,Supplier D,16.58,38
+5184,Wool,Black,Supplier D,5.38,45
+5185,Silk,Green,Supplier B,19.33,28
+5186,Spandex,Brown,Supplier D,6.89,26
+5187,cotton,Grey,Supplier C,5.74,36
+5188,Cotton,PURPLE,Supplier D,20.23,12
+5189,Nylon,Grey,Supplier C,14.31,41
+5190,Polyester,Green,Supplier B,18.16,21
+5191,Nylon,GREY,Supplier B,12.69,8
+5192,Cotton,Blue,Supplier A,24.61,37
+5193,Nylon,Brown,Supplier D,17.35,21
+5194,Jersey,Orange,Supplier D,18.26,24
+5195,Nylon,Grey,Supplier E,19.48,10
+5196,Denim,Black,Supplier D,14.73,40
+5197,Linen,Orange,Supplier C,21.7,27
+5198,Jersey,yellow,Supplier C,15.14,11
+5199,Polyester,Red,Supplier E,19.52 pcs,15
+5200,SILK,Brown,Supplier A,16.01,35
+5201,RAYON,Black,Supplier B,22.1,26
+,,,,,
+5203,Wool,Red,supplier c,16.73,8
+5204, Denim ,Yellow,Supplier D,20.36,40
+5205,Jersey,Black,Supplier D,25.31,41
+5206,Nylon,Red,Supplier A,24.39,34
+5207,Jersey,Grey,Supplier D,8.52,26
+5208,Polyester, White ,Supplier E,5.69,30
+5209,Cotton,Blue,Supplier B,15.92,8
+5210, Linen ,orange,Supplier D,16.47,13
+5211,Linen,Green,Supplier E,20.89,11
+5212,Cotton,Green,SUPPLIER E,24.12,9
+5213,Linen,Grey,Supplier E,5.63,26
+5214,Spandex,Orange,Supplier D,16.69,17
+5215, Jersey ,grey, Supplier E ,18.1,30
+5216,Spandex,black,Supplier C,24.8,24
+5217,,Green,Supplier B,19.53,25
+5218,Cotton,Brown,Supplier B,16.27 pcs,8
+5219, Cotton ,BLUE,Supplier B,18.52,22
+5220,,Purple,Supplier D,8.62,22
+5221,Nylon,Blue,Supplier E,5.98 pcs,13
+5222,Linen,Green,Supplier C,15.04,6
+5223,Denim,Purple,Supplier A,12.38,28
+5224,?,Green,Supplier A,5.15,13
+5225,Polyester,White,Supplier E,3.59,15
+5226,SPANDEX,PURPLE,Supplier C,12.96,22
+5227,Spandex,White,Supplier B,18.9,38
+5228,Silk, Blue ,Supplier A,10.6,15
+5229,-,Green,Supplier E,10.98,16
+5230,Denim,blue,Supplier A,4.22,21
+5231,Denim,Black,Supplier E,11.29,45
+5232,Polyester,Red,Supplier D,17.05,14
+5233, Polyester ,Green,Supplier B,17.49,45
+5234,,Red,Supplier B,24.71,13
+5235,,Brown,Supplier C,24.48,38
+5236,,White,Supplier D,8.73,13
+5237,linen,Green,Supplier E,5.99,19
+5238,Wool,brown,Supplier B,7.33,21
+5239,Silk, Purple ,Supplier E,9.85,36
+5240,Rayon,Red, Supplier E ,22.05,40
+5241,Rayon,Black,Supplier E,11.52,16
+5242,Cotton, Blue ,Supplier D,15.64,27
+5243,Silk,Orange,Supplier D,3.72,25
+5244,denim,Yellow,Supplier C,11.05,40
+5245,,Blue,Supplier C,17.68,34
+5246,Nylon, Yellow ,Supplier D,22.68,11
+5247,,Green,Supplier C,19.67,10
+5248,Wool,Grey,Supplier E,16.77,40
+5249,,Blue,SUPPLIER E,5.66,9
+5250,Silk,Red,Supplier D,4.91,40
+5251,,Red,Supplier D,18.73,38
+5252,Denim,N/A,Supplier B,16.61,36
+5253,Jersey,Brown,Supplier A,12.76,41
+5254,Linen,Brown,Supplier E,16.2,8
+5255,Linen,Green,Supplier D,13.92,34
+5256,Linen,Purple,Supplier A,23.4,9
+5257, Nylon ,Orange,Supplier D,18.18,42
+5258,Jersey,purple,SUPPLIER C,23.92,21
+5259,Jersey,Grey,Supplier C,10.32,27
+5260,POLYESTER,Purple,Supplier E,4.76,5
+5261,Nylon,Blue,Supplier D,4.25,5
+5262,Cotton,Green,Supplier E,8.42,26
+5263,Denim,White,Supplier C,14.46,44
+,,,,,
+5265,wool,Orange,Supplier C,23.78,28
+5266,Denim,Black,Supplier E,5.88,39
+5267,Rayon,Black,Supplier D,18.74,37
+5268,Denim,Yellow,Supplier E,8.94,35
+5269,Polyester,Yellow,Supplier E,25.44,37
+5270,Wool,Purple,Supplier D,16.96,45
+5271,SPANDEX,ORANGE,Supplier B,9.85,42
+5272,Jersey,Black,Supplier B,13.85,45
+5273,?,Orange,Supplier E,19.65,28
+5274,Wool,Red,Supplier E,19.52 units,10
+5275, Denim ,Brown,Supplier C,19.57,34
+5276,,Black,Supplier A,16.01,16
+5277,Denim,grey,Supplier E,21.41,37
+5278,Wool,Yellow,SUPPLIER E,17.3 pcs,30
+5279,Jersey,Orange, Supplier A ,14.47 pcs,16
+5280,Denim,Purple, Supplier A ,14.88,13
+5281,Wool,Orange,Supplier D,10.42,36
+5282,Polyester,green,Supplier B,8.31,11
+5283,Jersey,Orange,Supplier C,10.34,30
+5284,Polyester,Blue,Supplier D,20.4,29
+5285,Polyester,Red,Supplier E,15.28,45
+5286,?,Black,supplier e,10.25,34
+5287,SILK,Red,Supplier C,12.96,22
+5288,Nylon,BLACK,Supplier E,2.55,5
+5289,Silk,BROWN,-,16.95,8
+5290, Rayon ,Brown,Supplier C,8.93,12
+5291,DENIM,Black,Supplier C,16.48,25
+5292,Silk,Purple,Supplier A,6.34,40
+5293,Wool,Purple,Supplier D,5.48,38
+5294,Spandex,Red,Supplier B,22.99,7
+5295,Rayon,Blue,Supplier D,10.51,16
+5296,Nylon,Grey,Supplier E,20.94,38
+5297,Denim,Grey,Supplier A,14.41,42
+5298,Polyester,Grey,Supplier C,21.14,37
+5299,,Red,Supplier E,21.93,28
+5300,jersey,Green,Supplier E,6.29,38
+5301,spandex,Red,Supplier A,4.64,37
+5302,Rayon,Yellow,Supplier A,7.19,7
+5303,Silk,PURPLE,Supplier C,4.75,21
+5304,Polyester,White,Supplier E,3.03,30
+5305, Denim ,Yellow,Supplier E,5.02,32
+5306,Nylon,purple,Supplier E,16.91,21
+5307,Jersey,Yellow,Supplier B,18.72,13
+,,,,,
+5309,,Purple,Supplier D,20.37,27
+5310,Linen,Purple,Supplier B,6,41
+5311, Cotton ,GREEN,Supplier B,12.55,37
+5312,Linen,Yellow,Supplier C,20.31,30
+5313,Silk,White,Supplier A,21.17,35
+5314,,Yellow,Supplier D,16.94,12
+5315,Denim,Black,Supplier C,23.5,31
+5316,Rayon,Grey,Supplier C,8.98 units,30
+5317,Silk,Purple,Supplier B,24.92,11
+5318,Nylon,BLUE,supplier b,13.55,35
+,,,,,
+5320,Nylon,Green,Supplier D,10.62,34
+5321,Denim, Purple ,Supplier D,13.86,18
+5322,Cotton,Grey,supplier c,24.08,26
+5323,Spandex,GREY,Supplier D,17.35,13
+5324,denim,Red,Supplier B,12.74,38
+5325,Silk,BLACK,Supplier A,13.99,16
+5326,Silk,ORANGE, Supplier D ,25.24,10
+5327,Wool,White,Supplier A,12.68,27
+5328,Polyester,Grey,Supplier E,3.12,39
+5329,Linen,Purple,Supplier B,11.98,43
+5330,Polyester,Black,Supplier B,24.13,5
+5331,Spandex,Yellow,Supplier E,3.64,38
+5332, Linen ,Black,Supplier D,15.8,41
+5333,cotton,Red,Supplier E,21.92,44
+5334,Denim,Blue,Supplier A,10.08,34
+5335,Cotton,Orange,Supplier D,10.13,27
+5336,Linen,white,Supplier B,9.72,28
+5337,Silk,Black,Supplier C,19.18,26
+5338, Jersey ,Brown,Supplier B,13.56,9
+5339, Spandex ,Purple,Supplier E,18.2,40
+5340,Silk,Orange,Supplier D,7.12,28
+5341,,Grey,Supplier A,19.23,12
+,,,,,
+5343,Rayon,Red,Supplier C,2.51,13
+5344,POLYESTER,Brown,Supplier C,15.6,25
+5345,Linen, Grey ,Supplier E,11.96,11
+5346,Silk,Black,Supplier C,20.96,25
+5347,Wool,White,Supplier B,11.77,18
+5348,Linen,Green,SUPPLIER C,24.47,33
+5349,Linen,Green,Supplier B,21.2,28
+5350,Linen,White,Supplier D,25.17,34
+5351, Spandex ,White,Supplier B,11.22,16
+5352,Polyester,Blue,Supplier C,6.79,8
+5353,Nylon,Green,Supplier D,3.89,19
+5354,Polyester,Purple,Supplier E,16.62,16
+5355,Rayon,Black,Supplier D,15.82,32
+5356,,BLUE,Supplier D,19.32,26
+5357,Wool,Red,Supplier B,14.21,14
+5358,jersey, Red ,Supplier A,15.16,37
+5359,Silk,Red,Supplier B,9.87,20
+5360,Wool,Orange,Supplier E,12.56,43
+5361,Rayon,Orange,Supplier C,8.48,27
+5362,Cotton,Grey,Supplier C,22.93,26
+5363,,Blue,Supplier E,7.61,42
+5364,Polyester,Red,Supplier E,15.94,24
+5365,Nylon,Orange,Supplier A,16.4,39
+5366,Denim,Purple,SUPPLIER C,7.42,10
+5367,Silk,Red,Supplier C,14.28,23
+5368,Linen,Blue,Supplier E,10.91,15
+5369,Nylon, Green ,Supplier C,20.44,33
+5370,rayon,Blue,Supplier E,22.32,39
+5371,Spandex,Purple,Supplier E,13.28,15
+5372,Denim,Brown,Supplier D,14.04,22
+5373,Silk,Yellow, Supplier B ,18.94 units,33
+5374,Jersey,Brown,Supplier D,17.04,43
+5375,,Blue,Supplier E,14.55,26
+5376,Jersey,black,Supplier C,11.66,26
+5377,Wool,Brown,Supplier D,13.14,8
+5378,Jersey,blue, Supplier A ,20.06,14
+5379,Cotton, Blue ,Supplier B,22.0 units,37
+5380, Nylon ,Green,Supplier C,8.19,22
+5381,Denim,Blue,Supplier D,21.69,33
+5382,Denim,PURPLE,Supplier D,17.57,20
+5383,Nylon,Yellow,Supplier A,15.82,39
+5384,Spandex,Purple,Supplier A,20.26,21
+5385,NYLON,Grey,Supplier D,5.98,29
+5386,Nylon,Blue,Supplier D,14.66,33
+5387,Polyester,Blue,Supplier E,9.27,36
+5388,Wool,BROWN,Supplier D,19.61,10
+5389,Cotton, Green ,Supplier D,12.38,20
+5390,Silk,Purple,supplier b,19.3,23
+5391,Linen,Purple,Supplier C,21.3,35
+5392,,Green,Supplier A,22.89,39
+5393,Cotton,Purple,Supplier A,13.88,12
+5394,Denim, Blue ,Supplier A,6.16,5
+5395,,Black,Supplier D,18.58,44
+5396,Wool,Red,N/A,14.47,40
+5397,Silk,Green,Supplier C,11.72,22
+5398,Nylon,Red,Supplier B,10.12,17
+5399,Jersey,Purple,Supplier D,16.13,6
+5400,Denim,Red,Supplier E,16.35,41
+5401,Polyester,Purple,Supplier C,16.8 units,22
+5402,wool,Orange,SUPPLIER A,10.17,11
+5403,Polyester,Black,Supplier D,19.87,25
+5404,Polyester,Green,Supplier C,20.75,20
+5405,Wool,Black,Supplier B,5.13,22
+5406,,Red,Supplier D,13.5,38
+5407,Rayon,Black,Supplier C,4.74,6
+5408,wool,Yellow,Supplier C,24.22,17
+5409,SILK,Yellow,Supplier A,5.77,12
+5410,Nylon,Black,Supplier E,3.23,41
+5411,Rayon,Blue,supplier d,2.54,32
+5412,Silk,Grey,SUPPLIER B,23.57,29
+5413,Rayon,Black,supplier e,17,23
+5414,Jersey,Yellow,Supplier B,14.58,33
+5415,nylon,Orange,Supplier C,9.02,19
+5416,Rayon,Red,Supplier E,3.03 pcs,34
+5417,Polyester,BROWN, Supplier E ,19.02,8
+5418,Silk, Black ,Supplier D,7.44,45
+5419,Nylon,Green,Supplier B,17.91,13
+5420,Nylon,Orange,Supplier D,4.34,41
+5421,Nylon,Grey,Supplier E,18.15 units,35
+5422,Wool,Orange, Supplier C ,25.3,36
+5423,Wool,Brown,Supplier A,24.52,24
+5424,Rayon,grey,Supplier A,12.48,24
+5425,Jersey,Red,Supplier A,18.84,6
+5426,Linen,Black,Supplier B,17.36,32
+5427,Polyester,white,Supplier D,22.56,35
+5428,Jersey,Blue,Supplier B,19.67,12
+5429,Spandex,White,Supplier B,18.97 units,32
+5430,,Purple,Supplier A,17.9,8
+5431,Jersey,Brown,Supplier C,3.98,29
+5432,Cotton,Yellow,Supplier B,5.8,37
+5433,Rayon,Blue,SUPPLIER E,4.79,22
+5434,Nylon,Blue,Supplier A,19.45,41
+5435,Nylon,Purple,Supplier B,16.75,25
+5436,Rayon,Grey,Supplier B,22.79,21
+5437,Spandex,Yellow, Supplier C ,4.29,39
+5438,Spandex,White,Supplier C,12.4,45
+5439,Rayon,Blue,Supplier A,10.45,23
+5440,,Green,Supplier C,24.01,39
+5441,nylon,Black,Supplier A,8.29,19
+5442,Cotton,ORANGE,Supplier E,4.25,18
+5443,,Blue,Supplier B,20.05,18
+5444,Cotton, Red ,Supplier B,9.36,20
+5445, Wool ,Brown,Supplier A,4.79,39
+5446,Polyester,Black,SUPPLIER D,24.5,34
+5447,Polyester,Purple,Supplier C,6.7,13
+5448,SPANDEX,Grey,supplier c,5.1,8
+5449,Polyester,black,Supplier B,8.69,7
+5450,Rayon,Black,Supplier B,23.74,25
+5451,Silk,Black,Supplier C,17.77,44
+5452,Jersey,Brown,Supplier D,8.09,20
+5453,Wool,Green,Supplier B,8.95,10
+5454,Jersey,Orange,Supplier D,13.23,19
+5455,Denim,purple,Supplier B,19.68,40
+5456,Denim,White,Supplier D,22.31,31
+5457,Nylon,Purple,Supplier A,6.75,9
+5458,Silk,RED,Supplier A,17.44,40
+5459,Jersey,Brown,Supplier B,5.33,22
+5460,Polyester,Purple,Supplier A,24.28,36
+5461,Rayon,Red,Supplier D,15.65,38
+5462,Denim,Grey,Supplier D,8.06,8
+5463,jersey,Red,Supplier A,10.57,19
+5464,COTTON,White,Supplier A,8.58,41
+5465,Rayon,Orange,Supplier D,2.97,30
+5466,N/A,Orange,Supplier B,14.37,5
+5467,Spandex,Purple,Supplier E,3.6,33
+5468,Polyester,Black,Supplier A,5.82,36
+5469,Wool,Grey,Supplier E,17.43,42
+5470,Polyester,Blue,Supplier B,16.05,25
+5471,Polyester,orange,Supplier B,9.96,28
+5472,Polyester,Purple,Supplier E,11.72,36
+5473,Nylon, Black ,NULL,3.14,11
+5474,Linen,brown,Supplier E,10.03,25
+5475,Rayon,Black,Supplier A,14.6,7
+5476,-,orange, Supplier C ,16.75,33
+5477,Cotton,Red,Supplier D,4.69,43
+5478,Wool,White,Supplier A,24.67,40
+5479,Nylon,Blue,Supplier C,17.55,25
+5480,Spandex,Yellow,Supplier C,15.34,42
+5481,Rayon,Brown,Supplier A,5.4,19
+5482,Polyester,Grey,Supplier B,15.49,44
+5483,Polyester,Green,Supplier E,18.03,5
+5484,,?,N/A,5.31,24
+5485,Denim,Brown, Supplier E ,24.41,10
+5486,Wool,Red,Supplier D,7.84,12
+5487,Polyester,Orange,Supplier C,24.05,9
+5488,Silk,Black,Supplier A,14.44,31
+5489,Jersey,WHITE,SUPPLIER C,20.24,17
+5490,Polyester,ORANGE,Supplier C,8.68,37
+5491,Denim,Orange,Supplier B,7.81,45
+5492,-,Orange,Supplier B,21.79,32
+5493,Linen,Yellow,Supplier B,18.66,15
+5494,Nylon,Orange,Supplier D,12,7
+5495,Silk,White,Supplier C,18.83,45
+5496,Jersey,Yellow,Supplier A,12.92,32
+5497,Nylon,Black, Supplier E ,8.41,39
+5498,Jersey,White,Supplier E,21.67,35
+5499,Polyester,Black,Supplier A,19.57,34
+5500,Denim,Red,Supplier E,6.15,30
+5501,Spandex,Grey,Supplier B,11.91,28
+5502,Spandex,Red,Supplier C,8.12,18
+5503,Polyester,Grey,Supplier D,23.81,31
+5504,Wool,Black,Supplier A,13.85,16
+5505,Spandex,Green,Supplier D,19.47,41
+5506,Spandex,Brown,Supplier C,7.69,34
+5507,Wool,Yellow,Supplier A,3.35,28
+5508,Jersey,Grey,Supplier D,3.44,28
+5509,Rayon,Grey,Supplier E,3.66,27
+5510,,Brown,Supplier C,17.57,6
+,,,,,
+5512,Denim,Grey,Supplier D,15.66,7
+5513, Nylon ,Purple,SUPPLIER D,24.69,12
+5514,Wool,Blue,Supplier A,2.71,11
+5515,Polyester,Black,supplier e,6.55,39
+5516,Wool,Black,Supplier B,16.42,15
+5517,Cotton,Orange,Supplier C,10.11,19
+5518,,BROWN,Supplier C,4.96,34
+5519,N/A,Grey,Supplier C,7.23,13
+5520,Silk,White,Supplier E,23.63,39
+5521, Rayon ,Purple,Supplier C,3.86,44
+5522,Rayon,Black,Supplier A,25.23 pcs,6
+5523,Silk,Red,Supplier E,25.23,23
+5524,Polyester,Orange,Supplier B,10.76,27
+5525,Nylon,White,Supplier D,8.06,27
+5526,Rayon,Purple,Supplier A,11.39,19
+5527,Nylon,Black,Supplier B,4.4,10
+5528,Silk,N/A,Supplier A,24.28,23
+5529,Nylon,Blue,Supplier B,4.25,18
+5530,Jersey,Green,Supplier E,23.6,15
+5531,Linen,Red,Supplier D,17.85,7
+5532,Nylon,White, Supplier A ,8.54,12
+5533,Polyester,yellow,Supplier E,10.71,44
+5534,Polyester,Brown,Supplier D,9.85,10
+5535,,Brown,Supplier C,19.23,17
+5536,Cotton,Grey,Supplier E,21.9,36
+5537,Wool,Green,Supplier A,14.01,24
+5538, Linen ,Brown,SUPPLIER C,5,43
+5539,Nylon,Black,Supplier A,14.5,45
+5540,Wool,blue,Supplier C,4.54,23
+5541,Nylon,BLUE,Supplier B,17.17,32
+5542, Wool ,Blue,Supplier E,16.06,26
+5543,Spandex,Purple,Supplier D,7.14,43
+5544,Spandex,Yellow, Supplier B ,10.84,34
+5545,Rayon,Yellow,Supplier D,4.59,34
+5546,Polyester,Yellow, Supplier D ,20,33
+5547,Jersey,Grey,Supplier A,16.62,6
+5548,Silk,Yellow,Supplier B,6.42,26
+5549,Cotton,Green,Supplier B,4.04,45
+5550,Wool,Blue,Supplier D,20.28,29
+5551,N/A,Black,Supplier A,13.46,10
+5552,-,Green,Supplier E,15.9,21
+5553,Polyester, Blue ,Supplier D,5.24,20
+5554,,Green,SUPPLIER A,12.51,14
+5555,Wool,Blue,Supplier D,11.04,35
+5556,Cotton,Yellow,Supplier D,4.03,29
+5557,NULL,brown,Supplier B,7.25,40
+5558,Nylon,Orange,Supplier D,24.3,17
+5559,Cotton,Red,Supplier E,9.51,18
+5560,Jersey,NULL,Supplier E,21.35,40
+5561,Silk, White ,Supplier B,23.86,15
+5562,Polyester,White,Supplier C,7.62,38
+5563,Jersey,Yellow,Supplier B,12.81,38
+5564,,Orange,Supplier C,3.8,32
+5565,Denim, Grey ,Supplier B,7.78,31
+5566,Polyester,Yellow,Supplier B,17.23,11
+5567,Rayon,Green,Supplier A,22.65,26
+5568,Rayon, Brown ,Supplier D,15.01,28
+5569,NYLON,Brown,Supplier D,22.44,31
+5570,Rayon,Blue,Supplier D,17.34,14
+5571,Spandex, Blue ,Supplier E,23.16,14
+5572,Spandex,Green,Supplier A,24.63,30
+5573,Denim,Green,Supplier D,7.75,35
+5574,Linen,Orange,Supplier B,4.33,36
+5575,Linen,YELLOW,Supplier D,24.68,40
+5576,Nylon,Red,Supplier A,8.47,5
+5577,,Orange,Supplier E,9.84,35
+5578,Rayon,Orange,Supplier C,18.51,25
+5579,Jersey,Brown,Supplier A,16.7,34
+5580,Nylon,White,Supplier B,23.73,40
+5581,Cotton,Red,Supplier E,10.09,18
+5582,Silk,Black,Supplier B,17.52,10
+5583,Silk,Blue,Supplier D,11.97,11
+5584,?,Blue,Supplier B,11.91,22
+5585,Nylon,Orange,Supplier C,3.71,43
+5586,nylon,Yellow,Supplier A,9.03,14
+5587,Rayon, Grey ,Supplier E,19.4,27
+5588, Jersey ,White,supplier b,23.99,33
+5589,Spandex,Brown,Supplier C,13.12,27
+5590,Cotton,Grey,Supplier A,21.49,31
+5591,rayon,Green,Supplier E,12.22,32
+5592,Jersey,Brown,Supplier E,24.55 pcs,36
+5593,Spandex,Yellow, Supplier A ,11.2,37
+5594,Nylon,Grey,Supplier E,20.68,25
+5595,Spandex,Green,Supplier D,19.81,14
+5596,Rayon,Brown,Supplier A,12.71,15
+5597,Spandex,Red,Supplier C,14.71,18
+5598,Polyester,Purple,Supplier E,18.8,26
+5599,,Black,Supplier C,7,28
+5600,Spandex,Red,Supplier B,24.85,42
+5601,Denim,Grey,Supplier A,22.34,34
+5602,, Orange ,SUPPLIER C,4.12,5
+5603,Wool,White,Supplier E,24.11,8
+5604,Spandex, Black ,Supplier D,22.16,39
+5605,Jersey,Brown,Supplier E,9.86,9
+5606,Wool,Yellow,Supplier C,23.69,29
+5607,Rayon,Grey,supplier e,13.31,42
+5608,Spandex, White ,supplier e,5.14,25
+5609,Jersey,Orange,Supplier E,21.05,27
+5610,Jersey,Grey,Supplier E,16.18,32
+5611,Rayon,Green,Supplier D,18.9,17
+5612,Nylon,Grey,Supplier E,15.61,36
+5613,Polyester,N/A,Supplier E,14.47,15
+5614,,Purple,Supplier E,9.67,29
+5615,Nylon,Green,Supplier D,3.63,23
+5616,Denim, Green ,Supplier E,3.44,42
+5617,COTTON,Green,Supplier C,17.35,28
+5618,Nylon,Blue,Supplier B,8.5,42
+5619,Denim,Orange,Supplier E,10.74,25
+5620,Denim,Grey,Supplier C,7.95,5
+5621,Wool,Orange,Supplier C,19.8,15
+5622,Linen,Black,Supplier A,17.48,39
+5623,Denim,Orange,Supplier B,9.87,41
+5624,Spandex,Yellow,Supplier B,4.54,43
+5625,Rayon,Purple,Supplier D,3.06,16
+5626,Polyester,Blue,Supplier C,6.96,8
+5627,Nylon,Green,Supplier A,13.82,40
+5628,Cotton,Yellow,Supplier D,15.33,13
+5629,Nylon,White,Supplier E,10.13,16
+5630,Denim,Green,Supplier E,8.03,41
+5631,Cotton,Grey,Supplier A,13.25,36
+5632,Jersey,Black,Supplier E,24.78,16
+5633,Wool,Blue,Supplier A,18.01,16
+5634,Polyester,Orange,Supplier D,7.14,21
+5635,Denim,Green,SUPPLIER A,6.53,26
+5636,Jersey,Black,-,25.16,33
+5637,Spandex,RED,Supplier D,17.14,6
+5638,silk,Yellow,Supplier B,22.32,18
+5639,N/A, Green ,Supplier C,11.81,32
+5640,Rayon,White,Supplier A,6.36,42
+5641,Polyester,Brown,Supplier A,5.33,13
+5642,Denim,orange,Supplier E,8.72,9
+5643, Wool , Orange ,Supplier D,2.87 pcs,38
+5644,Nylon,Blue,Supplier E,3.78,31
+5645, Jersey ,Green,Supplier A,20.21,41
+5646, Polyester ,Purple,Supplier A,14.28,29
+5647,Jersey,Grey, Supplier A ,10.89,19
+5648,Linen, Yellow ,Supplier C,14.33,9
+5649,Spandex,Brown,Supplier A,11.99,42
+5650,Rayon,Yellow,N/A,14.93,37
+5651,Cotton,Brown,Supplier A,15.86,12
+5652,Cotton,Grey,Supplier C,11.8,14
+5653,Polyester,Red,Supplier E,3.33,14
+5654,,Black,Supplier D,24.97,44
+5655,Silk,GREY,Supplier A,9,5
+5656,Wool,Yellow,Supplier E,21.77,41
+5657,Rayon,Green,Supplier A,11.91,35
+5658,Rayon,RED,Supplier C,14.1,40
+5659,Cotton,GREEN,Supplier E,11.48,7
+5660,Silk,Grey,Supplier A,11.78,26
+5661,Polyester,Grey,Supplier E,13.75,12
+5662,, Black ,Supplier C,5.1,32
+5663,Cotton,Yellow,Supplier A,10.18,27
+5664,Polyester,N/A,Supplier B,11,26
+5665,Spandex,Grey,Supplier C,15.58,13
+5666,Polyester,Red,Supplier E,13.19,15
+5667,NULL,Red,NULL,2.9,42
+5668,Spandex,Red,Supplier E,6.56,33
+5669,Silk,ORANGE,SUPPLIER D,10.96,38
+5670,Rayon, Black ,Supplier D,19.81,26
+5671,Jersey,Blue,supplier d,15.33,27
+5672,Polyester,Blue,SUPPLIER D,23.84,17
+5673,Linen,Red,Supplier E,11.75,44
+5674,Silk,Blue,Supplier E,16.02,16
+5675,Silk,Orange,Supplier E,9.33,28
+5676,POLYESTER,Grey,Supplier D,7.52,28
+5677, Wool ,Black,Supplier C,10.24,16
+5678,NULL,Green,supplier a,6.48,31
+5679,,BLACK,Supplier C,7.84,43
+5680,Polyester,Purple,Supplier E,9.52,38
+5681,Silk,Purple,Supplier C,6.98,11
+5682,Polyester,Red,Supplier C,6.82,32
+5683,Linen,Brown,Supplier E,15.93,41
+5684,Cotton,White,Supplier B,19.24,11
+5685,Spandex,purple,Supplier A,8.62,13
+5686, Rayon ,Grey,SUPPLIER E,19.66,19
+5687,Rayon,Red,supplier d,8.93,29
+5688,Silk,Purple,Supplier D,24.01,9
+5689,Polyester, Grey ,Supplier B,24.83,10
+5690,Linen,Yellow,Supplier A,14.53,33
+5691,Wool,Purple, Supplier D ,18.81,30
+5692,Silk,NULL,Supplier E,16.78,7
+5693,Jersey,Purple,Supplier C,19.99 units,39
+5694,Cotton,Green,Supplier C,8.95,26
+5695,,Red,Supplier B,24.36,22
+5696,Spandex,Purple,Supplier E,14.89,37
+5697,,Grey,Supplier D,13.85,12
+5698,Spandex,Red, Supplier A ,10.88 pcs,41
+5699,Wool,Green,supplier c,16.97,32
+5700,Spandex,Brown,Supplier B,4.1,11
+5701,Wool,Orange,Supplier B,21.26,43
+5702,Nylon,Purple,supplier d,21.71,31
+5703,Denim,Green,Supplier C,20.55,39
+5704,Denim,GREY,Supplier B,14.33,44
+5705,silk,Red,Supplier C,14.64,40
+5706,Silk,Red,Supplier E,20.69,13
+5707,Rayon,Purple,Supplier E,12.62,10
+5708,,Red,Supplier D,5.26,34
+5709,NULL,Blue,Supplier D,20.29,7
+5710,Linen,N/A,SUPPLIER A,4.96,40
+5711,Linen,WHITE,Supplier E,13.48,23
+5712,Jersey,Black,Supplier C,5.84,12
+5713,Spandex,grey,Supplier A,12.9,22
+5714,Rayon,Black,Supplier D,24.82,45
+5715,Denim,Yellow,Supplier A,17.11,45
+,,,,,
+5717,Jersey,Blue, Supplier C ,6.82,5
+5718,Spandex,Orange,Supplier E,18.32,37
+5719,Rayon,Blue,Supplier C,3,17
+5720,Rayon,Red,Supplier A,10.25,18
+5721,Nylon,White, Supplier E ,20.8,44
+5722,Spandex,Black,Supplier C,13.2,20
+5723,wool,Blue,Supplier B,22.11,33
+5724,,Red,Supplier D,4.88,8
+5725,Silk,Purple,Supplier B,15.41,19
+5726,Denim,Red,Supplier C,3.42,29
+5727,RAYON,Green,SUPPLIER D,4.87,9
+5728,Denim,Orange,Supplier C,8.14,20
+5729,Silk,Red,Supplier B,24.21,28
+5730,Wool,Brown,Supplier E,17.66,7
+5731,Wool,White,Supplier B,17.97,28
+5732,Nylon,Orange,Supplier B,17.05,25
+5733,Denim,Black,SUPPLIER D,20.44,22
+5734,Linen,Grey,supplier c,24.75,31
+5735,Spandex,Grey,Supplier E,8.79,36
+5736,Jersey,Purple,Supplier C,17.87,44
+5737,Cotton,Blue,Supplier A,4.19,11
+5738,,BROWN,Supplier B,19.1,7
+5739,Nylon,Purple,Supplier E,21.68,7
+5740,Nylon, Black ,N/A,6.35,40
+5741,Linen,Grey,SUPPLIER D,23.4,11
+5742,Denim,Blue,supplier d,15.23,16
+5743,Cotton,Blue,Supplier E,20.34,15
+5744,Spandex,Black,Supplier A,14.18,19
+5745,,Orange,SUPPLIER C,5.76,5
+5746,Denim,Yellow,NULL,4.79,21
+5747,Linen,Orange,Supplier D,23.02,33
+5748,Jersey,Brown,Supplier C,20.77,6
+5749,Cotton,Grey, Supplier C ,13.95,33
+5750,Nylon,Grey,Supplier E,14.83,31
+5751,Rayon,White,Supplier E,3.64,24
+5752,,Orange,Supplier C,6.92,30
+5753,Linen,Red,Supplier D,6.28,39
+5754,LINEN,Blue,supplier e,22.41,44
+5755,Spandex,Orange,Supplier A,12.83,15
+5756,Denim,Green,Supplier B,5.61,22
+5757,Rayon,BLACK,Supplier E,18.5,29
+5758,Rayon,Black,Supplier B,2.58,23
+5759,Wool,Brown,Supplier D,13.04,42
+5760,Rayon,Purple,Supplier C,19.7,41
+5761,Spandex,Black,Supplier A,16.16,37
+5762,-,Orange,Supplier C,3.86,17
+5763,Wool,Red,supplier e,10.61,41
+5764,Jersey,Yellow,Supplier D,5.68,45
+5765,Jersey,Orange,Supplier A,9.96,29
+5766,POLYESTER,Brown,Supplier D,11.47,19
+5767,Jersey,Yellow,Supplier D,3.43,6
+5768,Silk,Purple,Supplier B,21.02,16
+5769,?,Yellow,Supplier B,11.19,32
+5770,,Yellow,Supplier B,11.19,27
+5771,Jersey,Red,Supplier A,20.6,11
+5772,Polyester,Blue,Supplier D,12.17,20
+5773,Rayon,Purple,Supplier C,5.7,34
+5774,Denim,Brown,Supplier D,17.63,15
+5775,Denim,Grey, Supplier D ,10.63,14
+5776,Nylon,White,-,21.99,14
+5777,Linen,Brown, Supplier A ,13.34,17
+5778,Silk,Purple,Supplier E,13.17,36
+5779,DENIM,Brown,Supplier E,8.59,18
+5780,,Grey,Supplier B,15.54,35
+5781,Nylon,Red,Supplier D,7.34,40
+5782,Wool,Brown,Supplier E,2.58,8
+5783,Nylon,yellow,Supplier D,20.81,14
+5784,polyester,Orange,Supplier D,20.73,27
+5785,Spandex,White,Supplier D,12.52 units,12
+5786,Cotton,Green,Supplier C,14.24,14
+5787,POLYESTER,Black,Supplier B,3.52,36
+5788,Denim,Green,SUPPLIER D,24.03,25
+5789,denim,Green,Supplier E,7.44,12
+5790,Wool,Yellow,supplier a,19.42,40
+5791,Wool,GREY,Supplier D,12.46,8
+5792,Wool,Black,Supplier D,13.12,11
+5793,Wool,white,Supplier D,7.17,39
+5794,polyester,Purple,Supplier E,18.77,15
+5795,-,Brown,Supplier D,11.1,19
+5796,Jersey,White,Supplier D,3.16,14
+5797,Wool,Yellow,Supplier B,24.41,42
+5798,Spandex,Brown,Supplier C,13.97,16
+5799,Denim,Purple,Supplier E,2.74,36
+5800,,Orange,Supplier E,13.47,27
+5801,Silk,Yellow,Supplier E,16.47,12
+5802,Silk,Green,Supplier B,14.45,34
+5803, Rayon ,Grey,Supplier E,12.26,9
+5804,Jersey,Grey,Supplier B,16.78,33
+5805,Polyester,White,Supplier D,14.39,41
+5806,Denim,Purple,Supplier D,10.25,22
+5807, Spandex ,Black,SUPPLIER C,23.79,22
+5808,Silk,Yellow,Supplier C,9.65,21
+5809,,Brown,Supplier B,25.21,30
+5810,NULL,Yellow,Supplier E,22.4,26
+5811,Denim,Brown,Supplier C,12.58,39
+5812,Jersey,yellow,Supplier B,9.84,30
+5813,Linen,GREY,Supplier A,3.08,33
+5814,COTTON, Brown ,Supplier A,3.72,9
+5815,Jersey,White,Supplier C,19.81,21
+5816,Jersey,Orange,Supplier C,3.31,29
+5817,Linen,White, Supplier C ,19.03,25
+5818,Nylon,Grey,Supplier A,10.92,5
+5819,Jersey,Purple,supplier e,2.7,10
+5820,, Grey ,Supplier D,7.87,22
+5821,Polyester,Yellow,Supplier B,7.35,28
+5822,Polyester,Green,supplier d,23.37,24
+5823,Cotton,Blue,Supplier A,5.5,22
+5824,Linen,White,Supplier C,11.54,36
+5825,Silk,Green,Supplier D,15.14,42
+5826,Rayon,Grey,Supplier A,21.12,25
+5827,Spandex,Grey,Supplier A,18.58,41
+5828,Polyester,Purple,SUPPLIER A,17.44,12
+5829,Nylon,Purple,Supplier A,20.43,24
+5830,Nylon,N/A,Supplier B,4.49,34
+5831,Silk,ORANGE,Supplier C,17.25,45
+5832,DENIM,Grey,Supplier C,15.85,28
+5833,Denim, White ,Supplier B,18.47,45
+5834,Spandex,White,Supplier B,6.55,43
+5835,Spandex,RED,Supplier D,13.87,14
+5836,Linen,Black,Supplier B,25.24,38
+5837,Jersey,Black,Supplier A,10.02,32
+5838,Silk,Green,Supplier C,13.73,15
+5839,Spandex, Purple ,Supplier D,8.59,6
+5840,Wool,Orange,Supplier E,3.07,31
+5841,,Red,Supplier A,20.21,23
+5842,Silk,Blue,Supplier D,13.71 units,26
+5843,Silk,grey,Supplier D,11.21,15
+5844,Rayon,Black,Supplier B,7.87,15
+5845,Polyester,Black,Supplier A,18.01,30
+5846,Linen,Black,Supplier B,7.81,32
+5847,Jersey,N/A,Supplier D,3.34,40
+5848,Rayon,Red,Supplier A,3.34,44
+5849, Polyester ,Black,Supplier E,13.6,19
+5850,Polyester,Red,Supplier C,22.13,41
+5851,Rayon,Brown,Supplier A,2.72,29
+5852,,Black,Supplier A,9.02,21
+5853,Denim,Brown, Supplier C ,4.92,28
+5854,Wool,Red,Supplier E,13.56,16
+5855,Silk,White, Supplier B ,5.33,11
+5856,Linen,Purple,supplier d,9.27,45
+5857, Denim ,Green,Supplier E,10.74,16
+5858,Denim,Black,Supplier A,24.18,6
+5859,,Black,Supplier C,19.55,34
+5860,Silk,Green,Supplier D,13.56,24
+5861,Polyester,Brown,Supplier E,5.37 units,33
+5862,Jersey,Black,Supplier D,13.81,23
+5863,Linen,Brown,Supplier D,23.52,7
+5864,Jersey,White,Supplier A,17.15,40
+5865,Rayon,Grey,Supplier D,6.97,30
+5866,Rayon,Blue,Supplier E,16.43,9
+5867,Rayon,Purple,Supplier C,9.95,6
+5868,Linen,Grey,Supplier E,14.32,44
+5869,Rayon,Purple,Supplier E,15.57,38
+5870,RAYON,Green,supplier b,7.18,21
+5871,Denim,Yellow,Supplier B,25.43,5
+5872,Denim,Blue,Supplier A,22.05,12
+5873,NULL,Brown,Supplier C,11.95,12
+5874,Rayon,Black,Supplier B,15.82,42
+5875,Nylon,Purple,Supplier D,4.84,33
+5876, Wool ,Brown,Supplier B,9.66,11
+5877,Polyester,Grey, Supplier A ,20.86,20
+5878,rayon,Blue,Supplier A,21.96,7
+5879,,grey,SUPPLIER E,8.14,33
+5880,Rayon,Red,Supplier A,7.82,38
+5881,Denim,White,Supplier C,10.95,12
+5882, Denim ,Green, Supplier B ,12.19,26
+5883,Cotton,Yellow,Supplier D,15.59,23
+5884,Spandex,Grey,Supplier C,13.81,21
+5885,Silk,Blue,Supplier C,14.2,40
+5886,Silk,Grey, Supplier D ,16.75,45
+5887,Jersey,Blue,Supplier A,13.07,24
+5888,,Red,Supplier C,8.53,22
+5889,,Grey,Supplier B,22.93,26
+5890,Denim,Blue,Supplier C,18.19,7
+5891,Wool,Black,Supplier E,18.39,44
+5892,Wool,Purple,Supplier D,22.44,5
+5893,Silk,Black,SUPPLIER A,8.16,37
+5894,Nylon,Grey,Supplier C,19.23,14
+5895,Nylon,Blue,Supplier D,10.83 pcs,19
+5896,Denim,Red,Supplier A,5.51,35
+5897,Denim,PURPLE,Supplier C,11.47,42
+5898,Jersey,Black,Supplier B,12.38 pcs,21
+5899,Cotton,Purple,Supplier C,16.17,37
+5900,Cotton,Blue,Supplier B,9.12 pcs,5
+5901,Spandex,Blue,Supplier C,20.79,33
+5902,Silk,Yellow,Supplier B,14.51,9
+5903,Jersey,Brown,Supplier B,14.28,30
+5904,Silk, Grey ,Supplier D,6.55,37
+5905,Cotton, White , Supplier C ,21.06,40
+5906,Linen,Green,SUPPLIER E,3.85,8
+5907,Spandex, Brown ,Supplier B,23.39,29
+5908,Rayon,BLUE,Supplier C,22.85,7
+5909,,GREY,Supplier E,8.24,23
+5910,Polyester,Yellow,Supplier B,5.98,12
+5911,Denim,Purple,Supplier D,25.3,27
+5912,Linen,Green,Supplier C,6.28,22
+5913,Denim,White,Supplier E,6.58,39
+5914,Denim,Grey,Supplier E,17.97,16
+5915,Wool,Yellow,Supplier E,10.72,14
+5916,Nylon,Green,Supplier A,15.13,40
+5917,,Red,Supplier E,11.88,16
+5918,Rayon, Orange ,Supplier E,21.76,13
+5919,Denim,Brown,Supplier D,24.7,28
+5920,,Blue,Supplier E,14.25,45
+5921,Linen,Grey,Supplier E,9.13,32
+5922,Wool,Purple,Supplier B,11.37,26
+5923,Polyester,Blue,Supplier B,4.84,35
+5924,Spandex,Orange,Supplier C,19.43,5
+5925,,Purple, Supplier B ,23.36,45
+5926,Rayon, White ,Supplier C,17.67,7
+5927,Polyester,Grey,Supplier D,7.25,39
+5928,Cotton, Brown ,Supplier A,10.55,45
+5929,Silk,Red, Supplier B ,5.99,6
+5930,Linen,Red,Supplier E,14.01,26
+5931,Wool,Grey,Supplier E,14.61,35
+5932,Jersey,Yellow,Supplier D,3.65,44
+5933,,Yellow,supplier c,23.97,33
+5934,wool,black,Supplier E,22.52,42
+5935,Linen, Yellow ,supplier e,13.94,11
+5936,Cotton,Brown,Supplier C,21.86,45
+5937,Wool,Brown,Supplier E,19.16,41
+5938,Nylon,White,Supplier E,10.74,17
+5939,Silk,Black,Supplier A,9.79,38
+5940,Denim,?,Supplier C,2.66,40
+5941,Spandex,Orange,Supplier E,21.89,30
+5942,Spandex,Purple,Supplier C,3.43,35
+5943,,Grey,Supplier C,14.23,33
+5944,Wool,Grey,Supplier E,5.23,31
+5945,Nylon,white,Supplier B,6.77,9
+5946,COTTON,Brown,Supplier D,3.56 units,35
+5947,Linen,White,supplier e,6.6,7
+5948,Cotton,Black,Supplier E,24.12,16
+5949,,Brown,Supplier B,6.17,21
+5950,Denim,Orange,Supplier E,7.28,9
+5951,Polyester,Brown,Supplier A,3.87,8
+5952,Polyester,Orange,Supplier B,7.36,21
+5953,Cotton,yellow,Supplier C,14.96,43
+5954, Linen ,Red,Supplier C,5.93,33
+5955,Wool, White ,Supplier A,18.78,18
+5956,Silk,White,Supplier A,10.15,45
+5957,Spandex,Orange, Supplier C ,8.6,14
+5958,Polyester,Black,Supplier C,4.98,11
+5959,Spandex,Black,supplier c,22.29,36
+5960,Cotton,GREY,Supplier A,3.67,15
+5961,,Brown, Supplier D ,25.35,42
+5962,Rayon,White, Supplier D ,7.27,43
+5963,Polyester,Purple,Supplier C,9.52,10
+5964,Cotton,Grey,supplier e,9.29,30
+5965,Nylon,Grey,Supplier E,6.85,37
+5966,Silk,Red, Supplier B ,12.39,15
+5967,denim,Purple,Supplier A,16.34,9
+5968,Wool,White,Supplier D,9.8,13
+5969, Denim ,Black,SUPPLIER C,7.41,24
+5970, Denim ,Brown,Supplier C,11.34,10
+5971,Polyester,Yellow,Supplier C,9.27,44
+5972,NULL,blue,supplier b,25.37,38
+5973,Wool,Purple,Supplier A,22.74,30
+5974,Spandex,White,Supplier B,16.59,18
+5975,,Blue,supplier e,13.44,5
+5976, Jersey ,White,Supplier E,14.06,44
+5977,Spandex,Yellow,Supplier E,22.74,21
+5978,Spandex,White,-,8.72,11
+5979,Polyester,?,Supplier D,8.21,11
+5980,Spandex,White,?,17.21,42
+5981,Wool,grey,Supplier C,7.13,13
+5982,Polyester,Orange,Supplier C,23.3,40
+5983,Nylon,Red,supplier c,12.45,24
+5984,wool,Brown,Supplier A,7.09,36
+5985,Denim,orange,Supplier B,5.03,29
+5986,Polyester,Yellow,Supplier D,9.13,19
+5987,Jersey,Black,Supplier A,24.35,29
+5988,Jersey,Orange,Supplier D,17.4,24
+5989,polyester,white,Supplier E,6.44,41
+5990,Jersey,Purple,Supplier C,22.74,14
+5991,,-,Supplier D,8.02,45
+5992,Nylon,Brown,Supplier D,23.95,44
+5993,Silk, Purple ,Supplier D,3.55,36
+5994,Denim,Grey,Supplier A,3,24
+5995,Jersey,Grey,NULL,19.25,28
+5996,JERSEY,White,Supplier D,2.78,40
+5997,Jersey,Yellow,Supplier D,13.13,44
+5998,Rayon,Grey,Supplier C,12.83,41
+5999,Denim,Yellow,Supplier A,22.98,19
+6000,Spandex,Red,Supplier E,24.07,15
+6001,Jersey,Purple,Supplier D,5.87,44
+6002,Jersey,Black,Supplier D,9.46,39
+6003,,Red,NULL,9.76,36
+6004, Linen ,White,Supplier A,8.15,30
+6005,silk,Red,Supplier D,4.19,38
+6006,Cotton,Green,Supplier E,14.56,5
+6007,Cotton,White,Supplier A,9.19,43
+6008,Denim,Black,Supplier D,11.05,39
+,,,,,
+6010,Nylon,White,Supplier B,7.64,33
+6011,Silk,Black,Supplier A,7.68,45
+6012,Spandex, Purple ,Supplier A,25.28,44
+6013,Silk,White,Supplier B,7.01,30
+6014,Jersey,Black,Supplier B,19.6,5
+6015,Denim,Yellow,?,24.42,26
+6016,Silk,red,Supplier E,23.29,37
+6017,Rayon,yellow,Supplier B,14.09,21
+6018,linen,Brown,Supplier A,19.51,27
+6019,SPANDEX,Orange,Supplier D,8.14,45
+6020,N/A,Brown,Supplier E,23.31,18
+6021,Linen,Blue,supplier c,6.6,5
+6022,silk,Green,Supplier B,23.87,19
+6023,wool,Brown,Supplier E,21.59,38
+6024,Rayon,GREEN,Supplier C,19.63,19
+6025,Cotton,Black,Supplier C,4.22,22
+6026, Silk ,White,Supplier A,5.92,37
+6027,Cotton,Yellow,Supplier C,7.38,8
+6028,Cotton,White,-,4.53,25
+6029,Silk,Purple,Supplier C,20.29,6
+6030,Polyester, Green ,Supplier C,12.49,27
+6031,jersey,Brown,Supplier C,10.22,14
+6032,Polyester,White,Supplier E,15.16,33
+6033,Spandex,White,Supplier A,6.84,41
+6034, Silk ,Orange,Supplier E,18.72,44
+6035,Rayon,Brown,Supplier B,3.66,14
+6036,Rayon,Purple,Supplier C,11.27,32
+6037,,Blue,Supplier D,4.79,22
+6038,Polyester,BROWN,Supplier E,2.68,30
+6039,Linen,Yellow, Supplier A ,25.4,19
+6040,Spandex,WHITE,Supplier C,16.02,31
+6041,Spandex, Brown ,Supplier B,22.71,35
+6042,Denim,Blue,Supplier E,6.08,8
+6043,Denim,White,Supplier E,11.79,21
+6044,Silk,BLUE,Supplier D,13.58,20
+6045,Denim,NULL,Supplier D,23.61,22
+6046,Rayon,Black,SUPPLIER C,24.05,28
+6047,Rayon,Purple,Supplier C,4.68,33
+6048,Cotton,Purple,Supplier A,8.12,40
+6049,,Blue,Supplier D,21.2,15
+6050,Spandex,Grey,Supplier E,20.27,19
+6051,Jersey,Grey,Supplier A,21.41,38
+6052,Linen,Grey, Supplier D ,12.96,42
+6053,Cotton, Purple ,?,3.26 units,41
+6054,Silk,Blue,Supplier D,12.57,43
+6055,Linen,Brown,Supplier A,23.09,40
+6056,,Red,Supplier A,22.4,37
+6057,Silk,Grey,supplier e,13.24,30
+6058,Wool,White,SUPPLIER C,5.95,42
+6059,Silk, White ,Supplier E,3.63,28
+6060,Silk,Blue,Supplier D,14.05,5
+6061,Wool,BLUE,Supplier A,12.92,19
+6062,Denim,Yellow,Supplier D,8.61 units,25
+6063,Wool, White , Supplier D ,14.29,15
+6064,Nylon,Green, Supplier D ,3.45,37
+6065,Polyester, White ,Supplier C,16.75,43
+6066,spandex,BLUE,Supplier C,15.62,23
+6067,Rayon,White,Supplier E,22.48,39
+6068,Wool,brown, Supplier D ,9.91,28
+6069,Spandex,Red,Supplier D,8.07,7
+6070,wool,Green,Supplier E,20.48,40
+6071,Jersey,Red,SUPPLIER E,2.57,6
+6072,Spandex,Red, Supplier A ,7.64,20
+6073,Polyester,White,Supplier E,15.24,34
+6074,Rayon,Purple,Supplier A,16.87,23
+6075,Denim,Blue,Supplier A,11.98,8
+6076,Silk,Black,Supplier C,21.83,29
+6077,?,Brown,Supplier C,20.95,39
+6078,Wool,Red,Supplier C,12.8 pcs,17
+6079,Spandex,Yellow,Supplier C,18.53,42
+6080,WOOL,Orange,Supplier A,9.16,14
+6081,SPANDEX,White,Supplier E,10.77,12
+6082,Denim,Grey,Supplier D,14.81,9
+6083,,Grey,NULL,19.14,16
+6084,Nylon,Green,supplier c,24.57,21
+6085,Wool,White, Supplier B ,4.42,43
+6086,Nylon,Brown,Supplier C,21.38,34
+6087,Nylon,BROWN,Supplier C,23.88,38
+6088,Denim,yellow,Supplier B,20.77,40
+6089,Wool,Green,Supplier C,16.26,35
+6090,Wool,Orange,supplier a,4.84,17
+6091, Cotton , Green ,Supplier E,17.91,41
+6092,Nylon,Green,Supplier A,24.38,28
+6093,Nylon,Yellow,SUPPLIER B,5.15,41
+6094,Cotton,Orange,Supplier D,8.92,34
+6095,Nylon,orange,SUPPLIER A,12.47,44
+6096,Denim,Yellow,Supplier E,14.59,13
+6097,Wool,Brown,SUPPLIER D,15.74,24
+6098,Polyester,Black, Supplier A ,18.44,9
+6099,Polyester,White,Supplier E,22.49,45
+6100,JERSEY,Green,Supplier B,23.95,12
+6101,Wool,Purple,Supplier D,7.3,19
+6102,Cotton,Green,Supplier D,5.59,20
+6103,Rayon,grey,Supplier D,3.99,36
+6104,Linen,Brown,Supplier E,5.15,7
+6105,?,Grey,Supplier E,19.61,38
+6106,denim,Black,Supplier C,11.19,27
+6107,Nylon,Yellow,Supplier C,4.68,5
+6108,Spandex,black,SUPPLIER C,11.25,25
+6109,Polyester, Blue ,Supplier A,20.1,37
+6110,Silk,White,SUPPLIER B,10.78,22
+6111,Cotton,White, Supplier D ,4.59,23
+6112,Wool,Purple,Supplier E,10.89,24
+6113,Cotton,White,Supplier C,20.36,14
+6114,Jersey, Green ,Supplier B,23.38,15
+6115,,Red,Supplier B,25.12,44
+6116,Silk,Black,Supplier D,21.48,39
+6117,Rayon,Orange,Supplier E,5.2,39
+6118,Rayon,White,Supplier D,12.48,41
+6119,Nylon,Blue,Supplier B,5.31 pcs,14
+6120,Denim,Black,NULL,12.74,36
+6121,Silk,Red,Supplier A,21.61,43
+6122,Rayon,?,SUPPLIER A,7.67,5
+6123,,Grey,Supplier B,2.98,25
+6124,Nylon,Yellow,Supplier B,4.26,38
+6125,Polyester,Yellow,Supplier B,4.35,32
+6126,Cotton,Purple,Supplier C,6.8,9
+6127,Nylon,Yellow,Supplier B,21.01,36
+6128,Jersey,Green,Supplier E,18.96,30
+6129,linen,Red,Supplier A,23.7,15
+6130,Linen,YELLOW,Supplier B,14.98,12
+6131,Rayon,White,supplier b,16.7,22
+6132,Wool,Brown, Supplier B ,25,25
+6133,Silk,Grey,Supplier D,19.28,36
+6134,Spandex,Purple,Supplier E,11.61,6
+6135,Linen,Yellow,Supplier C,18.61,33
+6136,Nylon,Red, Supplier D ,12.78,13
+6137,Rayon, Orange ,SUPPLIER E,9.26,32
+6138,Polyester,Yellow,Supplier D,7,24
+6139,Rayon,red,Supplier C,3.11,6
+6140, Spandex ,ORANGE,Supplier A,9.16,6
+6141,Spandex,Black, Supplier B ,21.45,40
+6142,rayon,White,Supplier B,8.79,38
+6143,Polyester,Green,SUPPLIER C,6.33,13
+6144,Linen,Orange,Supplier D,3.51,17
+6145,Wool,Brown,NULL,17.21,23
+6146,Silk,Black,Supplier C,24.48,34
+6147,Silk,Yellow,Supplier E,20.92,40
+6148,Polyester,Yellow,supplier c,13.35,20
+6149,Rayon,Orange,Supplier C,5.81,5
+6150,Wool,BLACK,Supplier E,18.74,18
+6151,Cotton,Red,Supplier A,3.86,23
+6152,Wool,Black,?,8.49,14
+6153,Polyester,Grey,Supplier E,16.64,9
+6154,Polyester,green,SUPPLIER C,12.58,22
+6155,Cotton,Green,Supplier A,9.07,44
+6156,DENIM,Blue,Supplier C,4.62,33
+6157,Silk,White,Supplier A,6.28,14
+6158,Denim,Red,NULL,22.14,40
+6159,Denim, Orange ,Supplier E,7.51,34
+6160,SILK,Black,Supplier E,17.61,5
+6161,Polyester,Yellow,Supplier A,22.32,30
+6162,,Black,Supplier E,25.03,9
+6163,Wool,PURPLE,Supplier B,9.19,45
+6164,Cotton,Orange,Supplier A,8.85,39
+6165,Cotton,Red,Supplier E,4.81,9
+6166,Denim,Red,Supplier D,13.71,16
+6167,Wool,Brown,Supplier B,18.11,12
+6168,Rayon,Black,Supplier E,15,23
+6169,Cotton,Blue,Supplier E,23.73,23
+6170,Cotton,GREEN,Supplier C,20.67,40
+6171,Wool,Black,Supplier A,7.72,7
+6172,Wool, Purple ,Supplier B,17.17,17
+6173,Denim,Grey,Supplier B,25.16,15
+6174,,NULL,SUPPLIER A,7.28,33
+6175,Jersey,Purple,Supplier E,22.68,8
+6176, Spandex ,White,Supplier C,6.31,13
+6177,Spandex,White, Supplier C ,9.69,15
+6178,Rayon,Black,Supplier A,14.14,9
+6179,Silk,Brown,Supplier C,13.04,32
+6180,Jersey,grey,SUPPLIER D,11.76,7
+6181,Nylon,Green,Supplier E,15.15,21
+6182,Silk,Brown,Supplier B,5.83,8
+6183,Nylon,Orange,Supplier E,2.76,36
+6184,Rayon,grey,Supplier E,18.98,44
+6185,NYLON,Grey,Supplier A,11.92,44
+6186,Polyester,White,Supplier A,8.59,26
+6187,rayon,Grey,Supplier E,19.55,16
+6188,Denim,Red,Supplier E,8.07 pcs,27
+6189,Rayon,Brown,Supplier C,18.14,7
+6190,SPANDEX,red,Supplier C,12.11,34
+6191,Spandex,Grey,Supplier C,7.21,26
+6192,cotton,Black,Supplier C,11.29,12
+6193,Nylon, Purple ,SUPPLIER E,21.43,24
+6194,Cotton,Yellow, Supplier E ,18.03,20
+6195,Spandex,RED,Supplier C,17.87,29
+6196,Denim,White,Supplier E,21.24,34
+6197,Jersey,Green,-,11.99 pcs,25
+6198,Denim,Red,SUPPLIER C,2.78,40
+6199,Silk,Black, Supplier E ,4.58,8
+6200,Rayon,Black,Supplier D,11.54,9
+6201,N/A,Yellow,Supplier A,8,44
+6202,Linen,White,Supplier E,17.69,7
+6203,Polyester,Green,Supplier D,13.93,45
+6204,Denim,Grey,Supplier B,8.45,39
+6205, Cotton ,White,Supplier A,4.37,39
+6206,Cotton,Red,Supplier D,10.56,28
+6207,Nylon,orange,NULL,4.15,18
+6208,Cotton,Black,Supplier B,8.99,13
+6209,Wool,Orange,supplier b,21.42,42
+6210, Spandex ,Orange,Supplier E,22.1,25
+6211,Polyester,NULL,Supplier D,14.58,34
+6212,Spandex,Orange, Supplier D ,12.41,43
+6213, Nylon ,Yellow,Supplier E,4.28,10
+6214,Spandex, Black , Supplier C ,4.95,31
+6215,Nylon,Yellow,Supplier D,10.97,32
+6216,Wool,Orange,Supplier D,18.49,18
+6217,,Green,Supplier A,15.83,32
+6218,Cotton,Purple,Supplier A,16.3 units,8
+6219,Rayon,Green,Supplier E,10.93,29
+6220,Jersey,White,Supplier D,5.95,42
+6221,Rayon,blue,Supplier B,12.47,37
+6222,Cotton,Red,N/A,7.85,35
+6223,Nylon,Blue,Supplier B,22.12,23
+6224,Jersey,BROWN,Supplier D,19.21,39
+6225,,Yellow,Supplier C,16.35,31
+6226, Polyester ,White,Supplier B,22.09,29
+6227,Linen,Black,Supplier E,4.88,21
+6228,Polyester,Yellow,Supplier A,8.83,28
+6229,COTTON,green,Supplier A,14.12,43
+6230,Rayon,White,Supplier B,9.52,23
+6231,,black,Supplier A,24.69,12
+6232,Silk,Purple,Supplier C,15.99,30
+6233,Rayon,Orange, Supplier A ,19.1,34
+6234,Wool,Red,supplier c,16.04,38
+6235,WOOL,Purple,Supplier E,24.28,44
+6236,Rayon, Blue , Supplier E ,21.64,16
+6237,Cotton,Green,Supplier E,14.06,45
+6238,polyester,PURPLE,Supplier B,11.82,19
+6239,Wool,Purple,Supplier B,4.64,35
+6240,Cotton,Green, Supplier D ,20.79,9
+6241,Rayon,Black,Supplier A,24.04,40
+6242,Wool, Black ,Supplier E,12.51,45
+6243,,orange,Supplier D,14.84,6
+6244,Linen,White,supplier e,2.83,27
+6245,Polyester,Brown,Supplier B,24.97,43
+6246,Wool,Red,Supplier C,24.22,30
+6247,Jersey,Purple,Supplier C,7.22,39
+6248,Jersey,Red,SUPPLIER E,8.65,26
+6249,jersey,Red,Supplier B,10.35,42
+6250,Polyester,Black,Supplier E,22.71,13
+6251,Spandex,Purple,Supplier B,22.86,31
+6252,Cotton,Green,SUPPLIER A,20.86,36
+6253,Denim,Orange,Supplier D,13.74,34
+6254,,White,SUPPLIER B,8.32,9
+6255,Wool,Purple,Supplier E,6.61,10
+6256,Polyester,WHITE,Supplier D,19.32,45
+6257,Silk,Orange,Supplier C,5.54,23
+6258,Silk,Brown,Supplier A,10.5,9
+6259,Jersey,Purple,Supplier A,23.62,41
+6260,Polyester,Black,Supplier D,23.78,12
+6261,Denim,Purple,Supplier D,12.28,13
+6262,Wool,White,Supplier A,4.69,22
+6263,,Brown,Supplier A,6.22,45
+6264,silk,Red,Supplier B,15.72,34
+6265,Denim,Black,Supplier C,6.3,21
+6266,,Black,Supplier A,9.49,41
+6267,Polyester,GREEN,Supplier C,7.76,8
+6268,Linen,Green,Supplier C,23.7,17
+6269,Wool,Green,Supplier E,23.44,39
+6270, Spandex ,PURPLE,Supplier B,19.66,30
+6271,Jersey,purple,Supplier C,5.61,40
+6272,JERSEY,Red,Supplier E,25.16,34
+6273,Wool,Brown,Supplier C,23.72,17
+6274,,White,Supplier E,13.84,16
+6275,COTTON,brown,Supplier C,21.52,20
+6276,Rayon,Grey,Supplier D,19.81,44
+6277,Rayon,Purple,Supplier E,18.99,20
+6278, Jersey ,Red,Supplier E,17.52,34
+6279,Linen,Green,supplier b,13.14,28
+6280, Silk ,Black,Supplier C,17.74,12
+6281,Wool,Purple,Supplier E,16.46,5
+6282,Wool, Black ,Supplier C,14.04,27
+6283,Spandex,Red,Supplier E,11.97,26
+6284,Spandex,Yellow,Supplier A,22.86,32
+6285,Nylon,Brown,Supplier A,17.4,37
+6286,Rayon,BROWN,Supplier B,22.96,39
+6287,Jersey,Brown,Supplier C,14.45,38
+,,,,,
+6289,Silk,Black,Supplier D,22.35,23
+6290,Denim,ORANGE,Supplier C,8.81,19
+6291,SPANDEX,Yellow,Supplier C,13.63,42
+6292,?, Purple ,SUPPLIER B,2.91,13
+6293,Spandex,Purple,Supplier C,10.44,9
+6294,silk,Blue,Supplier D,24.36,34
+6295,N/A,white,supplier c,22.96,16
+6296,Nylon,Black,Supplier A,21.3,11
+6297,Silk,Orange,Supplier E,7.57,30
+6298,-,Brown,Supplier E,24.82,31
+6299,,Green,Supplier B,7.29,8
+6300,Spandex,Grey,Supplier D,3.34,32
+6301,Denim,Black,Supplier B,4.54,15
+6302,Spandex,Purple, Supplier A ,7.1,22
+6303,Nylon,Black,Supplier E,24.22,19
+6304,Silk,Brown,Supplier D,15.19,25
+6305,Jersey,Red,Supplier C,3.51,15
+6306, Rayon ,Yellow,Supplier D,8.7,30
+6307,Linen, Purple ,Supplier C,22.8,7
+6308,Linen,Brown,Supplier B,8.67,22
+6309,Polyester,Black,Supplier B,14.48,35
+6310,Wool,Green,Supplier E,21.46,10
+6311,Silk,GREY,supplier e,18.6,31
+6312,,Orange,Supplier B,11.17,8
+6313,,Blue,Supplier D,3.55,23
+6314,,Yellow,Supplier C,8.16,16
+6315,,blue,Supplier E,18.15,34
+6316, Denim ,Orange,Supplier D,23.04,25
+6317,Polyester,NULL,Supplier E,17.07,31
+6318,Denim,Black,N/A,8.01,32
+6319, Spandex ,Green,Supplier A,24.81,30
+6320,,green,Supplier B,17.49,8
+6321,Rayon,Yellow,Supplier C,4.44,39
+6322,Linen,White,Supplier E,19.64,41
+6323,Linen,Brown,Supplier D,3.14,5
+6324,Denim, Brown ,Supplier D,23.69,43
+6325,Spandex,Black,Supplier B,15.89,35
+6326,Linen,Blue,Supplier E,20.19,20
+6327,,Purple,Supplier E,24.37,40
+6328,Nylon,Orange,supplier d,5.02,11
+6329,wool,Green,Supplier C,24.04,36
+6330,denim,Green,Supplier D,10.93,11
+6331,Spandex,Yellow,Supplier C,5.86,31
+6332,Wool,BLACK,Supplier C,14.2,25
+6333,Spandex,Orange,Supplier A,21.18,36
+6334,Linen,Brown,Supplier B,18.38,15
+6335,Rayon,Green,Supplier E,23.08,18
+6336,NULL,Purple, Supplier E ,19.28,36
+6337,Nylon,White, Supplier B ,8.11,42
+6338,,Brown,Supplier D,14.67,37
+6339,Nylon,White,Supplier A,16.17,37
+6340,Spandex,Black,Supplier D,13.43,31
+6341,Jersey,White,Supplier D,13.15,7
+6342,Spandex,Red,NULL,13.29,21
+6343,Cotton,Orange,Supplier E,23.06,6
+6344,Polyester,Orange,SUPPLIER D,23.38 pcs,8
+6345,Jersey,grey,supplier a,7.4,14
+6346,Linen,Grey,Supplier E,3.63,31
+6347,DENIM,Brown,Supplier B,6.97,41
+6348,Silk,-,Supplier B,23.93,17
+6349,Jersey,Grey,Supplier D,17.96,20
+6350,Linen,BROWN,Supplier A,15.2,26
+6351,Wool,Purple,Supplier E,20.59,43
+6352,Cotton,Black,Supplier E,10.99,21
+6353,Wool,Green,Supplier A,5.36,22
+6354,Jersey,Purple,Supplier E,3.11,23
+6355,Cotton,green,supplier e,3.4,38
+6356,Wool,Red,Supplier D,17.39,13
+6357,Polyester,Grey,Supplier A,2.6,36
+6358,Nylon,Black,Supplier D,13.54,17
+6359,Wool,Red,Supplier E,17.32,9
+6360,Denim,Green,Supplier A,7.06,28
+6361,denim,purple,Supplier D,12.55,20
+6362, Linen ,Orange,Supplier D,10.89,20
+6363,Linen,Grey,supplier c,24.35,23
+6364, Nylon ,Orange,Supplier A,23.73,24
+6365,Linen,Purple,Supplier E,24.23,26
+6366,Nylon,Purple,Supplier E,8.2,15
+6367,Polyester,Grey,Supplier E,23.87,22
+,,,,,
+6369,N/A,Grey,Supplier A,19.53,35
+6370,Polyester,yellow,SUPPLIER D,6.7,40
+6371,Denim,Brown,Supplier E,6.29,21
+6372,Cotton,Black,Supplier A,3.99,38
+6373,?,Purple,supplier d,16.94,21
+6374,Silk,Brown,Supplier A,20.84,8
+6375,Nylon,White,Supplier A,7.38,43
+6376,linen,White,Supplier D,20.38,43
+6377,Denim,White,supplier e,17.44,31
+6378,Linen,Grey,Supplier A,6.84,5
+6379,Rayon, White ,Supplier A,7.43,31
+6380,,green,SUPPLIER C,18.11,16
+6381,Rayon,white, Supplier B ,24.22,36
+6382,Rayon,White,Supplier D,13.73,10
+6383,Wool,Orange, Supplier E ,24.57,43
+6384,Polyester,grey,Supplier A,23.85,36
+6385,Jersey,PURPLE,Supplier D,6.93,44
+6386,Silk,Blue,Supplier C,20.41,19
+6387,Wool,Black,Supplier B,9.1,38
+6388,Denim, Orange ,Supplier E,14.7,16
+6389,Silk,Red,Supplier B,4.05,19
+6390,Polyester,Purple,Supplier C,17.14,13
+6391,Jersey,Grey,Supplier E,5.24,40
+6392,Wool,Green,SUPPLIER D,6.68,28
+6393,Silk,Orange,Supplier C,13.49,11
+6394, Linen ,White,Supplier D,15.59,43
+6395,Rayon,Black,Supplier B,9.86,25
+6396,Denim,Orange,Supplier E,23.71,8
+6397,,Grey,Supplier A,6.96,29
+6398,Rayon,Black,-,17.32,35
+6399,Cotton,Red,Supplier C,13.84,30
+6400,Denim,Orange, Supplier E ,3.1,34
+6401,Cotton,Brown,Supplier C,6.29,19
+6402,Rayon,Blue,Supplier C,6.65,27
+6403,Nylon,Yellow,Supplier D,13.85,10
+6404,, Green ,Supplier A,20.44,6
+6405,Spandex,Green,Supplier B,20.32,38
+6406,Spandex,Brown,Supplier B,4.49,22
+6407,Jersey,Yellow,supplier b,11.95,29
+6408,Denim,Orange, Supplier E ,5.24,24
+6409, Denim ,Purple,Supplier B,7.27,28
+6410,Linen,Yellow,Supplier B,23.64,38
+6411,Denim,grey,SUPPLIER E,5.98,44
+6412,Nylon,Brown,Supplier D,11.9,44
+,,,,,
+6414,,Grey,Supplier D,17.28,34
+6415,,Red,Supplier A,20.97,32
+6416,Polyester,Blue,Supplier B,9.99,30
+6417,Polyester,Green,NULL,13.66,31
+6418, Cotton ,Purple,Supplier C,16.42,5
+6419,Cotton,Green,Supplier A,19.13,15
+6420,?,Red,Supplier E,15.03,40
+6421,Linen,Black,Supplier C,7.12,29
+6422,Denim,White,SUPPLIER A,18.59,39
+6423,Wool,red,Supplier B,3.04,29
+6424,Polyester,Brown,Supplier D,10.14,25
+6425,,White,Supplier D,11.33,45
+6426,Silk,Green,supplier e,10.16,16
+6427,Wool,Green,supplier a,13.18,33
+6428,Rayon,Red,Supplier A,16.12,29
+6429,Denim,Green,Supplier C,13.86,43
+6430,Cotton,Yellow,Supplier C,9.26,17
+6431, Denim , Brown ,Supplier C,7.36 units,39
+6432,Cotton,Black,Supplier C,23.07,24
+6433,Spandex,yellow,SUPPLIER E,9.71,7
+,,,,,
+6435,Rayon,Yellow,Supplier B,23.01,11
+6436,Denim,Purple,Supplier E,23.98,43
+6437,Cotton,Blue,Supplier A,7.73,10
+6438,Nylon,Red,Supplier C,4.65,38
+6439,Rayon,Black,Supplier A,12.98,9
+6440,Linen,Black,Supplier E,20.11,24
+6441,Jersey,Purple,supplier b,25.13,18
+6442,Denim,White,Supplier A,10.51,35
+6443,Silk,Black,Supplier A,23.49,14
+6444,SPANDEX,Green,Supplier B,23.15,37
+6445,Jersey,Black,Supplier B,15.22 units,27
+6446,Linen,Purple,Supplier E,19.97,12
+6447,Silk,brown,Supplier B,20.67,32
+6448,Polyester,White,Supplier A,20.78,7
+6449,Jersey,Orange,Supplier C,12.57,21
+6450,SPANDEX,Brown,Supplier D,7.63,39
+6451,Nylon,Black,?,13.61,14
+6452,Polyester, White ,Supplier A,14.48,6
+6453,,Yellow,SUPPLIER A,17.6,30
+6454,Nylon,Brown,Supplier E,21.93,26
+6455,,Blue,Supplier A,13.55,14
+6456,Polyester,Green, Supplier A ,20.86,36
+6457,Denim,Blue,Supplier C,5.1,10
+6458,Jersey, Red ,Supplier A,13.86,23
+6459,Denim,Green,N/A,8.89,10
+6460,Jersey,Green,SUPPLIER B,12.19,33
+6461,,Orange,Supplier C,16.32 units,16
+6462,Wool,Red,Supplier A,8.36,40
+6463,,brown,Supplier A,10.13,31
+6464,Linen,Yellow,Supplier B,24.75,42
+6465,Silk,Brown,Supplier C,17.31,30
+6466,Silk,Grey,Supplier A,23.83,33
+6467,Polyester,Blue,Supplier E,17.3,33
+6468,Jersey,Brown,Supplier A,20.0 pcs,12
+6469,Jersey,Brown,Supplier D,6.91,23
+6470,Polyester,Brown,Supplier B,19.85,42
+6471,RAYON,Orange,Supplier A,2.66,43
+6472,jersey,Black,Supplier E,18.09,38
+6473,,Grey,Supplier C,25.02,13
+6474,Linen,Black,Supplier D,10.14,23
+6475,Wool,Green,Supplier C,10.48,20
+6476,,White, Supplier A ,9.96,30
+6477, Nylon ,-, Supplier E ,10.17,5
+6478,Spandex,Red,Supplier C,4.32,5
+6479,,Black,supplier a,19.79,23
+6480,,Green,Supplier E,5.88,37
+6481,Cotton, Purple ,Supplier A,16.51,45
+6482,rayon,Green,Supplier C,10,38
+6483, Rayon ,Orange,Supplier A,20.31,40
+6484,WOOL,Yellow,Supplier E,11.07,25
+6485,Silk,Orange,Supplier B,4.95,22
+6486,Spandex,White,Supplier D,22.79 units,34
+6487,Denim,Brown,Supplier B,13,5
+6488,silk,Yellow,SUPPLIER E,8.2,11
+6489,Jersey,black,Supplier B,7.44,23
+6490,Rayon,Yellow,Supplier E,14.53,10
+6491,Cotton,Purple,SUPPLIER E,9.02,30
+6492,Linen,Yellow,Supplier D,5.85,45
+,,,,,
+6494,,Blue,supplier b,18.33,8
+6495,Silk,Blue,SUPPLIER E,22.8,44
+6496,Spandex,Orange,Supplier B,15.74,33
+6497,Linen,Blue,Supplier B,10.99,18
+6498,Linen,Brown,Supplier E,23.5,5
+6499,N/A,red,Supplier E,24.16,35
+6500, Polyester ,Purple, Supplier D ,5.51,14
+6501,linen,Green,Supplier E,23.21,10
+6502,Nylon,White,Supplier D,6.03,43
+6503,Jersey, White ,Supplier D,18.61,9
+6504,Cotton,Orange,Supplier A,2.66,37
+6505,NULL,?,Supplier C,24.76,40
+6506,Spandex,Purple,Supplier E,22.07,45
+6507,nylon,RED,Supplier D,21.5,45
+6508,Polyester,white,Supplier B,8.26,40
+6509,Denim,Black,Supplier A,7.11,39
+,,,,,
+6511, Wool ,Purple, Supplier C ,20.89,24
+6512,Silk,WHITE,Supplier A,5.45,15
+6513,Jersey, White ,Supplier D,23.76,8
+6514,Wool,Red,SUPPLIER B,7.82,36
+6515,Nylon,Brown,Supplier A,20.95,5
+6516,Silk,Brown,Supplier A,11.58,7
+6517,Spandex,Orange,Supplier D,20.98,41
+6518,Silk,Grey,Supplier C,9.78,36
+6519,spandex,Blue,Supplier D,24.72,33
+6520,Rayon,Black,Supplier E,23.95,16
+6521,Linen,Red,Supplier C,3.74,32
+6522,Cotton,Green,Supplier D,19.52,22
+6523,Wool,Blue,SUPPLIER A,13.34,21
+6524,Polyester,ORANGE,Supplier A,13.09,41
+6525,?, Blue ,Supplier B,19.61,39
+6526,Denim,Red,Supplier B,23.72,39
+6527,Cotton,white,Supplier B,18.83,42
+6528,Rayon,Yellow,Supplier E,24.62 pcs,34
+6529,Linen,Green,Supplier D,4.35,19
+6530,Rayon,orange,supplier a,5.69,30
+6531,Jersey,Purple,SUPPLIER A,25.06,35
+6532,Spandex,Green,Supplier A,8.73,29
+6533,Denim,ORANGE,Supplier A,24.25,27
+6534,wool,Purple,Supplier A,13.94,45
+6535,Spandex,Orange,Supplier D,21.67,21
+6536,Linen,Purple,SUPPLIER E,12.29,15
+6537,Rayon,Black,NULL,4.39,36
+6538,N/A,Yellow,Supplier E,11.38,31
+6539,,Blue,Supplier A,18.08,38
+6540,Wool,Black,Supplier C,22.72,32
+6541, Cotton ,Orange,Supplier B,12.57,19
+6542,Rayon,?,Supplier B,15.13,33
+6543,Rayon,White,Supplier C,5.39,34
+6544, Linen ,Red,supplier c,23.41,5
+6545,Wool, Grey ,Supplier D,24.66,17
+6546,NULL, Black ,Supplier C,6.17,7
+6547,Polyester,Black,Supplier D,21.71,30
+6548, Denim ,White,Supplier E,4.4,8
+6549,Denim,Orange, Supplier B ,21.28,37
+6550,Cotton,Red,Supplier E,4.75,43
+6551,Cotton,yellow,supplier a,6.83,42
+6552,Cotton,Grey,Supplier D,23.93,14
+6553,Nylon,Orange, Supplier E ,8.49,29
+6554,Rayon,Black,Supplier C,8.31,5
+6555,Cotton, Purple ,Supplier D,12.2,24
+6556,COTTON, Grey ,Supplier C,19.78,13
+6557,Nylon,ORANGE,Supplier D,7.27,39
+6558,RAYON,Blue,Supplier B,5.68,42
+6559,Polyester,White,Supplier A,19.55,31
+6560,DENIM,Orange,Supplier D,13.91,18
+6561,Wool,black,Supplier D,22.63,21
+6562,Wool,Green,Supplier B,15.85,14
+6563,Nylon,Red,supplier c,19.43,37
+6564,,Purple,Supplier A,12.97,10
+6565,Linen,Brown,Supplier E,21.68,42
+6566,Spandex,Orange,Supplier A,9.47,45
+6567,spandex,yellow,Supplier A,22.15,39
+6568,rayon,White,Supplier C,7.37,34
+6569,linen,Black,Supplier B,9.36,22
+6570,Silk,Blue,Supplier C,23.96,30
+6571,Spandex,BLACK,Supplier A,18.41,14
+6572,Denim,Grey,Supplier D,9.59,19
+6573,,Green,supplier a,7.99,12
+6574,cotton,Purple,Supplier A,17.11,40
+6575,Spandex,Yellow,Supplier C,4.12,36
+6576,,Blue,Supplier B,14.11,32
+6577,Nylon,Black,Supplier E,24.78,15
+6578,Polyester,Brown,Supplier C,21.11,19
+6579,Spandex,White,Supplier D,19.28,45
+6580,Denim,N/A,Supplier C,13.72,40
+6581,Silk,Red,Supplier D,17.22,17
+6582,Wool,Brown,Supplier B,15.92,26
+6583,polyester,Green,Supplier E,19.98,5
+6584,Denim,Yellow,Supplier D,5.49,22
+6585,Polyester,Orange,supplier d,19.01,31
+6586,Polyester,Blue,Supplier D,6.27,24
+6587,Jersey, Orange ,Supplier A,18.08,33
+6588,Cotton,Grey,Supplier B,20.22,41
+6589,Denim,Orange,Supplier A,14.18,44
+6590,Linen,Purple,Supplier A,22.61,18
+6591,Nylon,Purple, Supplier E ,13.54,20
+6592,Silk,Brown,Supplier B,15.58,13
+6593,Spandex,N/A,Supplier D,24.8,6
+6594,Rayon,Grey,Supplier E,16.66,8
+6595,Rayon,Yellow,Supplier D,13.52,17
+6596,SPANDEX,White,Supplier A,19.64,35
+6597,Rayon,Brown, Supplier B ,21.29,43
+6598,Silk,Green,Supplier E,10.33,22
+6599,Silk,grey,Supplier D,5.19 pcs,22
+6600,Denim,GREY,Supplier E,2.56,23
+6601,Linen,Grey,Supplier E,2.52,34
+6602,Jersey,Red,supplier d,15.52,24
+6603,Denim,Yellow,Supplier A,5.38,19
+6604,Cotton,Red,Supplier B,3.91,16
+6605,Linen,blue,Supplier D,11.57,14
+6606,Polyester,White,Supplier D,20.36,40
+6607,,Yellow, Supplier B ,7.9,37
+6608,Linen,Blue,supplier b,19.5,18
+6609,Linen,Blue,Supplier C,3.22 pcs,34
+6610,Linen,Black,Supplier D,6.38,42
+6611,Cotton,Orange, Supplier B ,19.8,42
+6612,Nylon,Orange, Supplier B ,7.88,10
+6613,Jersey,Grey,supplier c,5.53,36
+6614,Linen,Brown,Supplier D,14.78,31
+6615,Spandex,Yellow,Supplier A,11,12
+6616,Polyester,Black,Supplier A,11.05,6
+6617,Cotton,Orange,Supplier B,19.59,33
+6618,Spandex,Green,Supplier B,6.37,23
+6619,Cotton,Brown,Supplier D,23.52,8
+6620,Denim,Blue,Supplier B,7.12,13
+6621,Rayon,Green,supplier b,7,42
+6622,Denim,Brown,Supplier C,6.83,41
+6623,Wool,Orange,Supplier B,17.66,7
+6624,SILK,Grey,Supplier E,22.18,33
+6625,jersey,BLACK,Supplier C,13.15,35
+6626,,White,Supplier D,22.61,32
+6627,Rayon,Purple,Supplier E,5.51,8
+6628,Denim,Blue,Supplier A,13.41,26
+6629,Rayon,Orange,Supplier A,13.42,10
+6630,Cotton,Red,Supplier C,17.29,32
+6631,Spandex,Green,Supplier E,3.02,25
+6632,jersey,White,Supplier E,6.37,36
+6633,denim,Blue,Supplier B,7.76,27
+6634,Spandex,Black,Supplier C,5.3,24
+6635,Nylon,Purple,Supplier C,18.14,18
+6636,Jersey,Brown,Supplier C,19.75,25
+6637,Polyester,Black,Supplier E,2.55,8
+6638,LINEN,Grey,Supplier B,15.32,37
+6639,Silk,Yellow,Supplier C,2.91,24
+6640,Nylon,Brown, Supplier A ,20.52,37
+6641,Jersey,Green,Supplier C,18.8,43
+6642,Cotton,Yellow,Supplier E,3.69,30
+6643,Spandex,Brown,Supplier C,20.75,44
+6644,Wool,Purple,Supplier E,20.21,36
+6645,Denim,White, Supplier C ,23.67,38
+6646,Polyester,White,Supplier D,6.52,7
+6647,Wool,Brown,SUPPLIER E,17.49,20
+6648,Nylon,Purple,Supplier C,3.74,17
+6649,Denim,YELLOW,Supplier C,8.55,7
+6650,silk,Grey,Supplier D,6.18,41
+6651,wool,Blue,supplier c,11.16,33
+6652,,Green,Supplier D,7.33,14
+6653,Wool,Black,Supplier D,15.99,29
+6654,Polyester,Purple,SUPPLIER D,21.41,31
+6655,Jersey,Brown,Supplier C,25.39,9
+6656,,Grey,Supplier C,4.7,39
+6657,Cotton,Yellow,Supplier C,12.33,40
+6658,Nylon,Orange,SUPPLIER E,9.69,10
+6659,Rayon,Black,Supplier B,13.04,9
+6660,SPANDEX,Grey,?,14.21,22
+6661,Nylon,Red,Supplier E,12.42,15
+6662,,Black,Supplier A,21.48,36
+6663,Polyester,WHITE,SUPPLIER A,16.98,45
+6664,,WHITE,Supplier E,25.44,34
+6665,Nylon,Grey,Supplier B,14.66,11
+6666,linen,White,Supplier A,17.55,15
+6667,Nylon,Blue,SUPPLIER E,8.24,14
+6668,Denim,Brown,Supplier B,6.73,21
+6669,Polyester,Yellow,Supplier B,7.27,27
+6670,Polyester,Grey,Supplier A,6.63,7
+6671, Denim ,Purple,Supplier E,16.65,22
+6672,Jersey,Red, Supplier C ,11.8,20
+6673,Denim,yellow,Supplier B,11.92,22
+6674,, Black ,Supplier B,9.3,28
+6675,Linen,Red,supplier e,9.76,30
+6676,Rayon,White, Supplier D ,14.31,12
+6677,,Green,Supplier E,11.75,11
+6678,Spandex,Black,Supplier C,14.02,35
+6679,Polyester,Brown,Supplier E,18.32,21
+6680, Nylon ,red,Supplier C,4.4,12
+6681,Silk,Green,Supplier A,11.79,8
+6682,Polyester,Green,Supplier A,18.6,23
+6683,Nylon, Brown ,Supplier C,11.74,27
+6684,Polyester,Blue,Supplier E,14.91,16
+6685,POLYESTER,Green,SUPPLIER C,18.78,15
+6686,Polyester,Purple,Supplier B,13.45 pcs,11
+6687,Cotton,Green,Supplier A,16.17,9
+6688,Linen,White,Supplier E,12.17,28
+6689,Nylon,Yellow,Supplier C,6.83,45
+6690,Wool,blue,supplier b,24.16,25
+6691,Rayon,Brown,Supplier D,18.95,17
+6692,Spandex,Red,Supplier A,24.99,22
+6693,Spandex,White,Supplier A,15.17,32
+6694,Cotton,Brown,Supplier A,24.11,28
+6695,,Yellow,Supplier D,20.17,31
+6696,NULL,RED,Supplier B,23.9,21
+6697,Spandex,Purple,Supplier C,25.35,24
+6698, Rayon ,Green,Supplier C,18.91,9
+6699,Cotton,Blue,Supplier D,19.71,27
+6700,SPANDEX,N/A,Supplier D,7.09,5
+6701,Jersey,Yellow,Supplier D,11.43,30
+6702,Rayon,Red,Supplier D,8.95,30
+6703,Silk,GREY,Supplier E,11.68,6
+6704,Polyester,Black,Supplier B,16.73,42
+6705,Jersey,White,Supplier A,11.24,40
+6706,nylon,Black,Supplier D,7.97 pcs,31
+6707,Spandex,BLACK,Supplier D,2.82,30
+6708,,Blue,Supplier C,24.3,20
+6709,Rayon,Blue,Supplier B,12.29,8
+6710,Cotton,orange,Supplier B,24.59,11
+6711,Denim,orange,supplier c,23.05,5
+6712, Spandex ,Purple,Supplier A,20.34,33
+6713,silk,N/A,Supplier C,14.04,33
+6714,jersey,Purple,Supplier C,17.58,45
+6715,Denim,Green,Supplier C,20.91,32
+6716,Cotton,Purple,Supplier C,8.89,11
+6717,POLYESTER,Brown,Supplier A,10.36,21
+6718,Polyester,Yellow,Supplier C,22.45,7
+6719, Rayon ,Blue,SUPPLIER E,16.51,43
+6720,spandex, Blue ,Supplier C,15.12,34
+6721,Rayon,Green,Supplier C,21.78,9
+6722,Rayon,Brown,Supplier D,7.97,33
+6723,Rayon,Blue,Supplier B,4.57,31
+6724, Polyester ,Brown,Supplier D,12.29,7
+6725,Wool,brown, Supplier E ,17.39,27
+6726,Jersey, Red ,Supplier B,11.75,37
+6727,Jersey,Grey,Supplier B,14.24,33
+6728,nylon,Brown,Supplier E,12.59,9
+6729, Spandex ,Yellow,Supplier E,17.99,9
+6730,Denim,Orange,Supplier B,8.99,37
+6731,Cotton,Green,Supplier D,17.96,15
+6732,nylon,Green,Supplier C,16.05,37
+6733,LINEN,Black,-,18.06,24
+6734,Jersey,Purple,Supplier A,6.88,24
+,,,,,
+6736,Nylon,Orange,Supplier A,20.57,8
+6737,Linen,Black,Supplier A,11.42,28
+6738,Linen,Purple,Supplier A,11.59,6
+6739,Linen,yellow,Supplier D,3.09,7
+6740,JERSEY,Blue,Supplier D,23.15,22
+6741,,White,Supplier E,12.57,18
+6742,Cotton,Blue,supplier a,8.34,28
+6743,Linen,RED,Supplier A,22.33,35
+6744,Spandex,Yellow,Supplier B,12.82,34
+6745,,Grey,Supplier C,21.06,11
+6746,,White,Supplier E,18.33,36
+6747,,White, Supplier C ,22.01,23
+6748,Linen,Orange,Supplier D,6.47,28
+6749,Nylon,blue,SUPPLIER A,6.8,34
+6750,Rayon,N/A,Supplier E,17.23,11
+6751,Spandex, Yellow ,Supplier C,12.24,26
+6752,Denim,Red,SUPPLIER E,24.02,19
+6753,Rayon,Red,Supplier A,19.14,20
+6754,Rayon,Grey,Supplier A,15.54,8
+6755,Wool,Brown,Supplier D,12.9,41
+6756,Denim,yellow, Supplier A ,18.45 pcs,20
+6757,Silk,Black,Supplier D,13.5,26
+6758,Rayon,Blue,Supplier D,17.69,16
+6759,Rayon,Purple,Supplier D,23.86,36
+6760,Cotton,Purple,Supplier A,9.36,42
+6761,Polyester,YELLOW,Supplier B,23.74,20
+6762,Polyester,White,Supplier A,19.33,5
+6763,Rayon,Blue,supplier b,6.79,32
+6764,Silk,Orange,Supplier C,2.83,29
+6765,,Red,Supplier C,18.64,13
+6766,Jersey,Green,Supplier E,2.75,32
+6767,Denim,Black,Supplier C,4.95,37
+6768,Spandex,White,Supplier C,14.79,43
+6769,Polyester,Blue,Supplier B,4.23,12
+6770,,Yellow,Supplier C,4.29,27
+6771,Polyester,Brown,Supplier E,9.04,19
+6772,Spandex,Purple,Supplier E,9.71,24
+6773,Silk,Green,Supplier E,7.46,29
+6774,,-,Supplier B,12.2,34
+6775,Rayon,White, Supplier B ,5.74,9
+6776,Nylon,Green,Supplier B,21.15,28
+6777,Denim,Purple,Supplier E,5.04,31
+6778,Jersey,Yellow,Supplier D,16.3,10
+6779,POLYESTER,Black,Supplier D,24.29,13
+,,,,,
+6781,Silk,White,Supplier B,10.57,20
+6782,Cotton,Yellow,supplier b,3.33,45
+6783,Nylon,Grey,Supplier D,5.94,6
+6784,spandex,Black,SUPPLIER A,18.32 units,27
+6785,spandex,Purple,Supplier A,12.9,39
+6786,RAYON,Brown,Supplier D,20.89,26
+6787,nylon,White,Supplier D,22.26,21
+6788,spandex,Red,Supplier E,11.32,17
+6789,Jersey,YELLOW,Supplier E,21.95,26
+6790,linen,Grey,Supplier D,9.44,33
+6791, Jersey ,Red,Supplier B,22.3,8
+6792,,Red,Supplier A,21.44,34
+6793,Polyester,white, Supplier E ,12.8,30
+6794,Jersey,Black,Supplier E,6.82,42
+6795,Spandex,White,Supplier D,3.78,33
+6796,Silk,Green,Supplier D,19.42,44
+6797,Wool,blue,Supplier A,13.25,23
+6798,Polyester,WHITE,Supplier A,22.62,10
+6799,Wool,Green,Supplier B,7.08,28
+6800,Jersey,Orange,Supplier B,9.41,37
+,,,,,
+6802,Denim,Orange, Supplier D ,5.91,18
+6803,Rayon,Orange,Supplier B,18.17,40
+6804,WOOL,RED,Supplier A,19.44,5
+6805,Cotton,Black,Supplier A,24.47,8
+6806,Wool,Blue, Supplier D ,22.03,11
+6807,Wool,Yellow,Supplier D,13.35,15
+6808,Cotton,White,supplier a,8.32,9
+6809,rayon,Black, Supplier C ,24.31,10
+6810,Spandex,White,-,23.47,18
+6811,Nylon,Blue,Supplier D,17.5,24
+6812,,Black,Supplier B,13.02,12
+6813,Denim,Orange,Supplier D,10.89,39
+6814,,Blue, Supplier B ,17.65,14
+6815,Wool,Brown,Supplier D,14.16,32
+6816,Linen,Green,supplier b,19.2,8
+6817,Wool,Green,Supplier C,11.24,40
+6818,,Blue,Supplier C,16.44 units,32
+6819,Wool,Green,Supplier D,9.57,22
+6820,Polyester,White,Supplier A,21.62,37
+6821,Wool,Orange,Supplier A,15.23,24
+6822,Denim,white,Supplier B,25.22,30
+6823,Nylon,Brown,Supplier D,19.82,7
+6824,denim,Blue,Supplier D,10.67,27
+6825,WOOL,ORANGE,Supplier A,13.91,39
+6826,Nylon,Orange,Supplier A,24.34,8
+6827,Rayon,White,Supplier E,9.33,10
+6828,Polyester,Purple,Supplier E,22.33,20
+6829,Denim,PURPLE,Supplier A,17.42,33
+6830,WOOL,Black,Supplier D,11.84,25
+6831,Nylon,Black,SUPPLIER A,16.39,35
+6832,Linen,Grey,Supplier A,14.95,28
+6833,Polyester,Purple,Supplier C,6.4,10
+6834,DENIM, Purple , Supplier B ,3.26,14
+6835,Denim,Red,Supplier B,24.85,19
+6836,Spandex,Yellow,Supplier A,16.04,24
+6837,Linen,Blue,Supplier C,9.9,40
+6838,Jersey,?,Supplier E,7.15,15
+6839,Linen,Brown,SUPPLIER A,6.51,42
+6840,Polyester,Purple,Supplier A,7.53,23
+6841,linen,Blue,supplier e,11.64,21
+6842,Cotton,White,Supplier B,14.55,16
+6843,DENIM,Purple,Supplier A,9.49 units,43
+6844,Linen,Blue,Supplier A,3.6,18
+6845,,Yellow,N/A,23.75,29
+6846,Linen,Orange,Supplier E,16.1,16
+6847,Spandex,Grey,Supplier D,9.04,9
+6848,,Brown,Supplier B,24.25,34
+6849,Polyester,Purple,Supplier E,22.09,20
+6850,Cotton,WHITE,Supplier E,15.89,33
+6851,Polyester,Green,Supplier B,14.04,29
+6852,Wool,Green,Supplier C,12.2,24
+6853,Rayon,Brown,Supplier A,16,34
+6854,Cotton,Orange, Supplier E ,17.75,14
+6855,Rayon,GREEN,Supplier C,15.77,31
+6856,,White,Supplier B,10.71,43
+6857,Rayon,grey,Supplier B,11.64,17
+6858,Linen, Grey ,Supplier B,20.55,24
+6859,Nylon,Black,supplier b,22.29,40
+6860,Polyester,Yellow,Supplier C,18.38,32
+6861,SPANDEX,Orange,Supplier A,7.99,14
+6862,Wool,Brown,Supplier E,24.76 units,30
+6863,Wool,black,supplier e,17.8,9
+6864,Silk,Yellow,Supplier D,12.09,22
+6865, Cotton ,Yellow,Supplier A,24.62,37
+6866,,Yellow,Supplier B,7.4,25
+6867,,Grey,supplier c,16.15,18
+6868,Polyester,Red,Supplier D,16.77,27
+6869,Jersey,Brown,Supplier A,10.77,35
+6870,,Purple,Supplier B,4.97,35
+6871,Cotton,Green,Supplier D,18.42,36
+6872,Linen,Grey,Supplier A,9.92,17
+6873,SPANDEX,Green,Supplier D,11.89,39
+6874,,Grey,Supplier C,3.66,8
+6875,rayon,Yellow,SUPPLIER E,5.7,39
+6876,Spandex,Orange,Supplier D,9.36,38
+6877, Rayon ,Brown,Supplier A,10.14,17
+6878,,Grey,Supplier B,13.84,7
+6879,Rayon,Black,Supplier D,17.11,19
+6880,Wool,Blue,Supplier C,8.02,14
+6881,Polyester,Brown,Supplier B,5.58,37
+6882,,green,Supplier D,23.73,43
+6883,Spandex,Black,Supplier D,21.23,7
+6884,,Orange,Supplier D,24.84,16
+6885, Cotton ,Black,Supplier A,13.23,28
+6886, Denim ,Orange,Supplier D,3.43,41
+6887,Polyester,Green,SUPPLIER A,11.68,24
+6888, Jersey ,Green,Supplier D,21.93,8
+6889,LINEN,White,N/A,8.91,33
+6890,Jersey,green,Supplier D,25.5,21
+6891,Linen,Purple,Supplier A,10.56,10
+6892,nylon,Blue,Supplier A,5.79,26
+6893,Denim,White,Supplier C,19.92,17
+6894,Linen, Blue ,Supplier A,14.97,45
+6895,Nylon,Orange,Supplier C,9.32,44
+6896,Linen,Blue,Supplier D,10.15,39
+6897, Rayon ,Red,Supplier A,20.46,40
+6898,Wool,Orange,Supplier E,3.89,23
+6899,Wool,Blue,Supplier C,8.13,25
+6900,Denim,Yellow,Supplier B,25.28,43
+6901,wool,Orange,Supplier E,12.29,27
+6902,Cotton,Grey,Supplier D,16.04,21
+6903,Cotton,Green,Supplier C,18.33,16
+6904,,Black,Supplier C,7.5,14
+6905, Linen ,Black,Supplier C,4.65,30
+6906,Nylon,Black,Supplier D,14.28,31
+6907, Jersey ,Purple,Supplier A,19.11,16
+6908,,Orange,Supplier D,21.7 units,16
+6909,Denim,Brown,Supplier A,13.1,32
+,,,,,
+6911,,Orange,Supplier E,6.5,9
+6912, Cotton , Brown ,Supplier B,9.16,27
+6913,Cotton,Grey,SUPPLIER E,7.77,11
+6914,Cotton,Red,Supplier B,11.79,32
+6915,Jersey, Yellow ,supplier a,18.99,21
+6916,Silk,Blue,Supplier D,12.53,35
+6917,Rayon,Yellow,Supplier E,21.37,8
+6918,Wool,Blue,Supplier D,11.11,35
+6919,spandex,Yellow,Supplier D,10.97,33
+6920,,Brown,Supplier A,17.33,8
+6921,Jersey,Red,Supplier C,3.47,22
+6922,Rayon,Brown,Supplier B,10.4,40
+6923,Silk,Grey,Supplier D,18.37,42
+6924,N/A,Purple,Supplier E,5.76,30
+6925,Nylon,Green,Supplier E,3.23,8
+6926,Wool,Green,SUPPLIER E,5.94,42
+6927,,Grey,Supplier E,22.1,37
+6928,Spandex,Black,Supplier D,24.88,20
+6929,Rayon,Orange,Supplier E,4.68,13
+6930,Silk,Yellow,Supplier E,15.97,38
+6931,Spandex,PURPLE, Supplier D ,9.92,35
+6932,NULL,Yellow, Supplier E ,18.43,40
+6933,LINEN,Purple,Supplier E,6.18,41
+6934,Polyester,Orange,Supplier B,12.98,28
+6935,Spandex,Brown,Supplier C,17.44,21
+6936,,Brown,Supplier D,21.1 units,15
+6937,Spandex, Red ,Supplier C,3.55,20
+6938,,Black,supplier e,19.27,37
+6939,Silk,Brown,Supplier B,12.76,28
+6940,Silk,Black,Supplier A,21.23,43
+6941,Rayon,White,Supplier B,16.76,35
+6942,Rayon,Grey,Supplier A,23.15 units,20
+6943,Wool,Brown,Supplier B,25.24,43
+6944,,White,Supplier E,3.11,5
+6945,Jersey,Orange,SUPPLIER E,15.35,18
+6946,Wool,Yellow,Supplier D,18.54,14
+6947,Silk,Blue,Supplier D,9.46,29
+6948,Linen,Red,Supplier A,16.63,17
+6949,,Purple,Supplier D,18.82,27
+6950,Denim,N/A,Supplier E,9.75,14
+6951,Spandex,Red,Supplier C,22.9,31
+6952,Jersey,Red,Supplier A,14.07,38
+6953,Cotton,Blue,Supplier A,7.09,23
+6954,Jersey,Red,Supplier D,4.05,38
+6955,,Black,Supplier A,7.65,31
+6956,Polyester,Orange,Supplier D,19.85,13
+6957,Denim,White,Supplier E,18.52,17
+6958,Silk,Yellow,Supplier D,17.49,23
+6959,Spandex,Black,Supplier C,8.26,8
+6960,NYLON,Brown,supplier d,22.09,31
+6961,Wool,White,Supplier A,22.63,24
+6962,Cotton,Orange,Supplier B,13.01,30
+6963,Spandex,Brown,Supplier A,11.46,42
+6964,POLYESTER,Red,Supplier C,19,34
+6965,Linen,Brown,Supplier A,18.81,25
+6966,Wool,Grey,Supplier C,12.82,26
+6967, Wool ,Red,Supplier D,19.82,36
+6968,Silk, Green ,Supplier D,13.9,12
+6969,NYLON,Orange,SUPPLIER A,21.8,7
+6970,Wool,Blue,?,7.03,9
+6971,Nylon,Purple,Supplier C,22.95,35
+6972, Linen ,Grey,SUPPLIER E,12.03,6
+6973,Linen,Blue,Supplier D,20.94,34
+6974,Spandex,Red,Supplier C,18.83,13
+6975,Cotton,Purple,Supplier B,16.22,44
+6976,Nylon,Yellow,Supplier D,14.68,19
+6977,Spandex,Brown,Supplier B,8.44 pcs,38
+6978, Wool ,grey,Supplier E,25.08,5
+6979,Linen,Grey,Supplier D,21.1,31
+6980,nylon,Black,Supplier B,6.7,13
+6981,JERSEY,Brown,Supplier C,17.67,22
+6982,wool,Yellow,Supplier C,24.48,27
+6983, Linen ,Red,Supplier A,6.51,42
+6984,Rayon,Yellow,Supplier C,10.99,23
+6985,Denim,Green,Supplier A,19.99,17
+6986,Silk,Black,Supplier E,3.51,16
+6987,Denim,Red,Supplier B,14.5,8
+6988,COTTON,Blue,Supplier A,11.55,31
+6989,Linen,Red,Supplier E,4.65,27
+6990,Rayon,Blue,Supplier B,18.12,38
+6991,Nylon,Orange,Supplier E,6.41 units,7
+6992,Nylon,Grey,Supplier A,23.26,5
+6993,Jersey,White,Supplier D,7.05,38
+6994,Denim,White,Supplier B,20.09,12
+6995,Silk,Yellow,Supplier C,15.98,41
+6996,Polyester,Orange,Supplier D,5.6,20
+6997,Silk,Purple,Supplier B,12.27,20
+6998,Linen,Green,Supplier C,19.8,29
+6999,Polyester,Black,Supplier D,4.41,19
+7000,,Black,SUPPLIER C,12.4,37
+2161,Polyester,Green, Supplier A ,13.11,45
+6494,,Blue,supplier b,18.33,8
+3301,SPANDEX,Brown,Supplier E,15.04,5
+6912, Cotton , Brown ,Supplier B,9.16,27
+5988,Jersey,Orange,Supplier D,17.4,24
+3528,Linen,Orange,Supplier C,9.61,22
+3219,Spandex,Green,Supplier D,8.62,8
+6497,Linen,Blue,Supplier B,10.99,18
+6736,Nylon,Orange,Supplier A,20.57,8
+5105,Jersey,Green,supplier e,18.79,20
+4736,Linen,White,Supplier C,6.86,13
+6556,COTTON, Grey ,Supplier C,19.78,13
+2955,,Black, Supplier A ,14.02,37
+6566,Spandex,Orange,Supplier A,9.47,45
+,,,,,
+3046,Nylon,Orange,Supplier A,24.18,34
+3694,Polyester,NULL,Supplier E,11.44,29
+5437,Spandex,Yellow, Supplier C ,4.29,39
+,,,,,
+4486,,Orange,Supplier B,5.5,11
+5355,Rayon,Black,Supplier D,15.82,32
+2226,rayon,Grey,Supplier A,16.85,26
+6894,Linen, Blue ,Supplier A,14.97,45
+2960,Polyester,Grey,Supplier E,4.61,41
+6549,Denim,Orange, Supplier B ,21.28,37
+5068,Wool,Green,Supplier A,16.68,32
+2816,,Yellow,Supplier D,25,20
+6755,Wool,Brown,Supplier D,12.9,41
+6643,Spandex,Brown,Supplier C,20.75,44
+5121,Spandex,Purple,SUPPLIER C,12.11,29
+2017,Denim,Brown,Supplier C,17.98,43
+3244,Silk,Black,SUPPLIER B,24.13,41
+4206,Wool,Red,Supplier E,25.05,25
+4525,Wool,Purple,Supplier D,24.71,45
+3070,Rayon,Grey,Supplier B,14.71,33
+5445, Wool ,Brown,Supplier A,4.79,39
+4566,Cotton,blue,Supplier B,5.88,44
+3061,Linen,Yellow,Supplier C,19.9,21
+4328,Nylon,Black,Supplier B,17.59,28
+5421,Nylon,Grey,Supplier E,18.15 units,35
+2302,Nylon,Grey,Supplier C,19.28,27
+6277,Rayon,Purple,Supplier E,18.99,20
+2607,Polyester,Grey,supplier c,15.97,27
+5171,Denim,black,Supplier B,9.54,29
+2700,Nylon,Red,Supplier D,22.33,32
+3140,Spandex,Grey,Supplier B,17.29,19
+2191,Silk,White,Supplier C,19.21,23
+4301,Wool,Red,Supplier E,12.12,11
+2981,Jersey,Green,supplier b,9.49,19
+4976,Nylon,White,Supplier C,9.49,39
+3185,Rayon,Black,Supplier D,23.89,22
+5328,Polyester,Grey,Supplier E,3.12,39
+5395,,Black,Supplier D,18.58,44
+2128,Linen, Green ,Supplier C,4.52,12
+4066,Cotton,Yellow,Supplier B,10.53,18
+3817,,YELLOW,Supplier D,5.85,17
+2570,Nylon,Green,Supplier D,7.15,12
+3896,,Grey,Supplier E,20.05,37
+4734,Spandex,black,Supplier D,18.89,15
+5864,Jersey,White,Supplier A,17.15,40
+6722,Rayon,Brown,Supplier D,7.97,33
+6015,Denim,Yellow,?,24.42,26
+4902,Polyester,Purple,Supplier C,17.54,7
+3687,Spandex,Black,Supplier E,10.31,8
+5010,Denim,Yellow,Supplier D,9.29,24
+2155,Cotton,Grey,SUPPLIER B,20.52,33
+4538,SPANDEX,Purple,supplier a,8.2,34
+3410,cotton,Purple,Supplier B,24.78,32
+6058,Wool,White,SUPPLIER C,5.95,42
+2785,Wool,Red,Supplier A,8.94 pcs,37
+5176,Nylon,Black,supplier a,10.09,13
+6342,Spandex,Red,NULL,13.29,21
+4807,Nylon,Green,Supplier E,20.4,37
+2538,Jersey,Blue,Supplier B,8.86,19
+3842, Nylon ,Yellow,Supplier A,10.38,19
+4456,,Purple,SUPPLIER B,19.79,26
+2525,Linen,White,supplier b,11.7,22
+4951, Denim ,Brown,supplier b,23.44,26
+6132,Wool,Brown, Supplier B ,25,25
+6781,Silk,White,Supplier B,10.57,20
+6116,Silk,Black,Supplier D,21.48,39
+4369,Linen,Brown,Supplier D,25.46,13
+5848,Rayon,Red,Supplier A,3.34,44
+6496,Spandex,Orange,Supplier B,15.74,33
+4702,Nylon,brown,Supplier A,19.45,37
+2972,Jersey,Brown,Supplier D,16.08,38
+3167,Denim,Brown,Supplier D,7.13,37
+6930,Silk,Yellow,Supplier E,15.97,38
+4775,Wool,Red,Supplier B,12.87,39
+3983,Nylon,GREY,Supplier E,22.09,27
+2854, Spandex ,Grey,supplier b,21,33
+6147,Silk,Yellow,Supplier E,20.92,40
+5737,Cotton,Blue,Supplier A,4.19,11
+5770,,Yellow,Supplier B,11.19,27
+2575,nylon,Green,SUPPLIER E,4.35,32
+5262,Cotton,Green,Supplier E,8.42,26
+3149,Cotton,Brown,Supplier A,20.36,27
+3716,Spandex,Green, Supplier D ,11.62,6
+6778,Jersey,Yellow,Supplier D,16.3,10
+6934,Polyester,Orange,Supplier B,12.98,28
+5855,Silk,White, Supplier B ,5.33,11
+4492,Spandex,White,SUPPLIER E,3.33,39
+4661,Rayon,Red,Supplier C,12.15,8
+5125,Jersey,yellow,Supplier C,15.88,32
+5052, Cotton ,Grey,Supplier B,21.13,8
+2005,NULL,Yellow,Supplier C,13.8,10
+,,,,,
+2877,Wool,White,SUPPLIER C,22.22,19
+2992,Polyester,Yellow,Supplier A,24.77,12
+6143,Polyester,Green,SUPPLIER C,6.33,13
+6365,Linen,Purple,Supplier E,24.23,26
+6466,Silk,Grey,Supplier A,23.83,33
+2636,,Blue,Supplier D,5.98,43
+3694,Polyester,NULL,Supplier E,11.44,29
+3683,Rayon,Purple,Supplier C,3.81,44
+6753,Rayon,Red,Supplier A,19.14,20
+2120,Rayon,Brown,Supplier E,21.59,13
+2831,Spandex,GREY,Supplier C,22.35,7
+5676,POLYESTER,Grey,Supplier D,7.52,28
+3370,Denim,Blue,Supplier E,11.01,16
+2741,Polyester,Grey,Supplier D,3.01,38
+2117,Jersey,Blue,Supplier C,20.26,6
+4839,Denim,Red,Supplier D,21.92,42
+3151, Jersey ,?,Supplier A,24.1,21
+3932,,White,Supplier A,6.1 units,7
+3013,Spandex,Green,Supplier D,15.13,23
+3665,Nylon,green,Supplier E,17.46,9
+3082,Cotton,Red,Supplier D,7.3,5
+6730,Denim,Orange,Supplier B,8.99,37
+2513,Cotton,Orange,Supplier A,5.86,29
+4850,Spandex,Brown,Supplier D,3.69,41
+2560,Nylon,Red,Supplier B,5.05,31
+5673,Linen,Red,Supplier E,11.75,44
+6584,Denim,Yellow,Supplier D,5.49,22
+6993,Jersey,White,Supplier D,7.05,38
+5344,POLYESTER,Brown,Supplier C,15.6,25
+6071,Jersey,Red,SUPPLIER E,2.57,6
+6800,Jersey,Orange,Supplier B,9.41,37
+3471,Silk,Brown,Supplier A,15.83,12
+2581,Polyester,Red,Supplier E,4.83,29
+4295,Spandex,Blue,Supplier A,10.1,6
+5148,Nylon,Yellow,Supplier D,14.73,36
+6250,Polyester,Black,Supplier E,22.71,13
+3680,Nylon,Yellow,Supplier E,4.35,18
+5507,Wool,Yellow,Supplier A,3.35,28
+4745,Polyester,Grey,Supplier B,17.94,21
+5357,Wool,Red,Supplier B,14.21,14
+6046,Rayon,Black,SUPPLIER C,24.05,28
+3244,Silk,Black,SUPPLIER B,24.13,41
+5119,Polyester,White,Supplier D,4.98,39
+4142,Wool,Black, Supplier D ,8.75,24
+5060,Jersey,Purple,SUPPLIER C,16.89,38
+6549,Denim,Orange, Supplier B ,21.28,37
+4960,Denim,Yellow,SUPPLIER B,13.87,42
+4266,Cotton,Blue,Supplier D,13.03,8
+4480,NYLON,Red,Supplier A,22.4,28
+6647,Wool,Brown,SUPPLIER E,17.49,20
+,,,,,
+3758,Spandex,Yellow,Supplier A,19.85,9
+6453,,Yellow,SUPPLIER A,17.6,30
+4071, Jersey ,Purple,Supplier C,25.06,39
+4850,Spandex,Brown,Supplier D,3.69,41
+5252,Denim,N/A,Supplier B,16.61,36
+5731,Wool,White,Supplier B,17.97,28
+,,,,,
+3632,,Red,Supplier C,6.1,23
+4817,Wool,ORANGE,Supplier E,11.19,5
+3016,N/A,Brown,Supplier D,14.12,17
+3349, Spandex ,Blue,Supplier E,8.8,39
+6612,Nylon,Orange, Supplier B ,7.88,10
+5088,Denim,Blue,Supplier B,2.97,31
+4840,Nylon,Yellow,Supplier D,2.93,45
+2336,Polyester,Brown,Supplier A,15.91,42
+6593,Spandex,N/A,Supplier D,24.8,6
+2896,Linen, Green ,Supplier A,16.84,19
+5547,Jersey,Grey,Supplier A,16.62,6
+2852,Polyester,Grey,Supplier E,11.85,39
+3688,Denim,orange,Supplier B,21.96,11
+3932,,White,Supplier A,6.1 units,7
+5747,Linen,Orange,Supplier D,23.02,33
+4428,Nylon,ORANGE,Supplier A,19.56,7
+3569,Cotton,Green,Supplier E,20.38,29
+6001,Jersey,Purple,Supplier D,5.87,44
+4739,Jersey,Green,Supplier E,4.14,14
+5499,Polyester,Black,Supplier A,19.57,34
+5914,Denim,Grey,Supplier E,17.97,16
+3067,Cotton,BLUE,Supplier C,18.06 units,20
+6381,Rayon,white, Supplier B ,24.22,36
+4445,Wool,White,Supplier A,9.9,43
+6108,Spandex,black,SUPPLIER C,11.25,25
+5374,Jersey,Brown,Supplier D,17.04,43
+5970, Denim ,Brown,Supplier C,11.34,10
+4547,SPANDEX,White,supplier c,8.81,14
+2754,?,Yellow,Supplier E,20.53,27
+4083,Spandex,Green,SUPPLIER E,10,45
+4775,Wool,Red,Supplier B,12.87,39
+4897,-,Purple, Supplier C ,16.78,6
+6186,Polyester,White,Supplier A,8.59,26
+2776, Linen ,Green,Supplier E,10.72,24
+3626,-,Red,Supplier B,9.72,39
+5070,Linen,Grey,Supplier A,6.33,7
+2418,Wool,Grey,SUPPLIER A,10.82,41
+2115,, Red ,Supplier B,17.45,23
+2617,Silk,Purple,Supplier A,19.68,32
+5975,,Blue,supplier e,13.44,5
+5268,Denim,Yellow,Supplier E,8.94,35
+2826,Silk,White,Supplier C,12.15,5
+3517,Denim,red,Supplier C,9.41,40
+5147,Linen,Orange,Supplier A,23.45,40
+2413,Polyester,Grey,SUPPLIER A,18.77,15
+2729,Wool,Yellow,SUPPLIER D,2.94,10
+5349,Linen,Green,Supplier B,21.2,28
+4809,Silk,NULL,Supplier E,11.15,12
+2676,Jersey,Purple,Supplier D,10.79,32
+5466,N/A,Orange,Supplier B,14.37,5
+4505,COTTON,Brown, Supplier B ,21.33,15
+4968,,Purple,Supplier A,12.11,43
+4787,Denim,White,Supplier B,6.08,5
+3123,Rayon,Purple,supplier a,23.71,33
+6080,WOOL,Orange,Supplier A,9.16,14
+3572,Nylon,Blue,Supplier D,12.68,25
+4144,rayon,Orange,Supplier C,9.66,28
+3688,Denim,orange,Supplier B,21.96,11
+6133,Silk,Grey,Supplier D,19.28,36
+5852,,Black,Supplier A,9.02,21
+5441,nylon,Black,Supplier A,8.29,19
+5767,Jersey,Yellow,Supplier D,3.43,6
+4327,Spandex,Blue,Supplier A,21.62,45
+4915,Spandex,Purple,Supplier A,21.65,33
+6969,NYLON,Orange,SUPPLIER A,21.8,7
+5953,Cotton,yellow,Supplier C,14.96,43
+2596,Polyester,Orange,Supplier D,10.73,11
+2729,Wool,Yellow,SUPPLIER D,2.94,10
+3366,Spandex,Brown,Supplier A,12.41,27
+6493,Wool,Purple,Supplier B,18,45
+2699,nylon,Purple,Supplier E,16.33,38
+2396,Spandex,Brown,Supplier B,21.83,27
+6172,Wool, Purple ,Supplier B,17.17,17
+6361,denim,purple,Supplier D,12.55,20
+4503,Cotton,Yellow,Supplier D,3.16,15
+3820,Spandex,Yellow,Supplier B,4.72,35
+2718,?,PURPLE,supplier e,19.14,10
+4783,Rayon,Black,Supplier C,12.61,25
+6947,Silk,Blue,Supplier D,9.46,29
+5578,Rayon,Orange,Supplier C,18.51,25
+2144,Denim,Brown,Supplier D,14.84,31
+6981,JERSEY,Brown,Supplier C,17.67,22
+5141,Nylon,Red,Supplier A,18.6,44
+6492,Linen,Yellow,Supplier D,5.85,45
+4939,Nylon,Black,N/A,5.63,18

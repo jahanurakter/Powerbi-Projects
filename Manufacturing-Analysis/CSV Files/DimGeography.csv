@@ -1,0 +1,24 @@
+GeoID,City,Country,CountryCode,Region,Latitude,Longitude
+101,New York,United States,US,North America,40.7128,-74.006
+102,Los Angeles,United States,US,North America,34.0522,-118.2437
+103,Chicago,United States,US,North America,41.8781,-87.6298
+104,Portland,United States,US,North America,45.5152,-122.6784
+105,Toronto,Canada,CA,North America,43.6532,-79.3832
+106,London,United Kingdom,GB,Europe,51.5074,-0.1278
+107,Manchester,United Kingdom,GB,Europe,53.4808,-2.2426
+108,Hamburg,Germany,DE,Europe,53.5511,9.9937
+109,Berlin,Germany,DE,Europe,52.52,13.405
+110,Paris,France,FR,Europe,48.8566,2.3522
+111,Madrid,Spain,ES,Europe,40.4168,-3.7038
+112,Barcelona,Spain,ES,Europe,41.3874,2.1686
+113,Milan,Italy,IT,Europe,45.4642,9.19
+114,Stockholm,Sweden,SE,Europe,59.3293,18.0686
+115,Amsterdam,Netherlands,NL,Europe,52.3676,4.9041
+116,Tokyo,Japan,JP,Asia,35.6762,139.6503
+117,Osaka,Japan,JP,Asia,34.6937,135.5023
+118,Shanghai,China,CN,Asia,31.2304,121.4737
+119,Mumbai,India,IN,Asia,19.076,72.8777
+120,Dubai,United Arab Emirates,AE,Middle East,25.2048,55.2708
+121,Sydney,Australia,AU,Oceania,-33.8688,151.2093
+122,Dhaka,Bangladesh,BD,Asia,23.8103,90.4125
+123,Chattogram,Bangladesh,BD,Asia,22.3569,91.7832
